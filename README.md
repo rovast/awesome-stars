@@ -37,6 +37,7 @@
 *   [Vim script](#vim-script)
 *   [Ruby](#ruby)
 *   [VBA](#vba)
+*   [Handlebars](#handlebars)
 *   [Standard ML](#standard-ml)
 *   [C#](#c-2)
 *   [Assembly](#assembly)
@@ -479,7 +480,6 @@
 *   [gwuhaolin/lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
 *   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 *   [gopcp/example.v2](https://github.com/gopcp/example.v2) - An example project for book 'Go Programming & Concurrency in Practice, 2nd edition' (《Go并发编程实战》第2版).
-*   [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 *   [golang/go](https://github.com/golang/go) - The Go programming language
 *   [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 *   [refraction-networking/utls](https://github.com/refraction-networking/utls) -  Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
@@ -1133,6 +1133,10 @@
 ## VBA
 
 *   [mymmsc/books](https://github.com/mymmsc/books) - 常用书籍
+
+## Handlebars
+
+*   [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 
 ## Standard ML
 
