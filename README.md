@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
+*   [Elixir](#elixir)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [C#](#c)
 *   [Go](#go)
 *   [Markdown](#markdown)
 *   [C](#c-1)
-*   [Elixir](#elixir)
 *   [Solidity](#solidity)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
@@ -21,12 +21,12 @@
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
 *   [ANTLR](#antlr)
+*   [Dart](#dart)
 *   [C++](#c-2)
 *   [Shell](#shell)
 *   [CSS](#css)
 *   [Mustache](#mustache)
 *   [Dockerfile](#dockerfile)
-*   [Dart](#dart)
 *   [Java](#java)
 *   [CUE](#cue)
 *   [Perl](#perl)
@@ -55,6 +55,15 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
+
+## Elixir
+
+*   [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir.
+*   [nats-io/nats.ex](https://github.com/nats-io/nats.ex) - Elixir client for NATS, the cloud native messaging system. https://nats.io
+*   [phoenixframework/phoenix\_live\_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
+*   [chrismccord/phoenix\_live\_view\_example](https://github.com/chrismccord/phoenix_live_view_example) -
+*   [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
+*   [wasmCloud/wasmcloud-otp](https://github.com/wasmCloud/wasmcloud-otp) - wasmCloud host runtime that leverages Elixir/OTP and Rust to provide simple, secure, distributed application development using the actor model
 
 ## TypeScript
 
@@ -196,7 +205,7 @@
 *   [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 *   [chaijs/chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 *   [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
-*   [chatopera/cskefu](https://github.com/chatopera/cskefu) - 🌲 春松客服，开源，免费，智能客服系统，机器人客服
+*   [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源，免费，智能客服系统，机器人客服
 *   [qiao/PathFinding.js](https://github.com/qiao/PathFinding.js) - A comprehensive path-finding library for grid based games
 *   [silverwind/is-cidr](https://github.com/silverwind/is-cidr) - Check if a string is an IP address in CIDR notation
 *   [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
@@ -385,7 +394,6 @@
 *   [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech\_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 *   [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 *   [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
-*   [sdc-alibaba/SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) - SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美
 
 ## C\#
 
@@ -609,14 +617,6 @@
 *   [FreedomBen/rtl8188ce-linux-driver](https://github.com/FreedomBen/rtl8188ce-linux-driver) - This modified version of the RealTek WiFi driver fixes some issues with RealTek cards on Linux.
 *   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 *   [lyfeyaj/sublime-text-imfix](https://github.com/lyfeyaj/sublime-text-imfix) - Fix Sublime Text 3 Input method problem (CJK words) under Ubuntu
-
-## Elixir
-
-*   [nats-io/nats.ex](https://github.com/nats-io/nats.ex) - Elixir client for NATS, the cloud native messaging system. https://nats.io
-*   [phoenixframework/phoenix\_live\_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
-*   [chrismccord/phoenix\_live\_view\_example](https://github.com/chrismccord/phoenix_live_view_example) -
-*   [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
-*   [wasmCloud/wasmcloud-otp](https://github.com/wasmCloud/wasmcloud-otp) - wasmCloud host runtime that leverages Elixir/OTP and Rust to provide simple, secure, distributed application development using the actor model
 
 ## Solidity
 
@@ -892,7 +892,7 @@
 *   [longxinH/xhprof](https://github.com/longxinH/xhprof) - PHP7 support
 *   [pinguo/php-msf-demo](https://github.com/pinguo/php-msf-demo) -
 *   [pinguo/php-msf](https://github.com/pinguo/php-msf) - PHP微服务框架即Micro Service Framework For PHP
-*   [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
+*   [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
 *   [overtrue/chinese-calendar](https://github.com/overtrue/chinese-calendar) - :date: 中国农历（阴历）与阳历（公历）转换与查询工具
 *   [rovast/design-pattern-talk](https://github.com/rovast/design-pattern-talk) - 《大话设计模式》的 PHP 版本实现
 *   [xujiajun/php-framework-benchmark](https://github.com/xujiajun/php-framework-benchmark) - php framework benchmark (include laravel、symfony、silex、lumen、slim、yii2、tastphp etc)
@@ -1037,9 +1037,13 @@
 
 *   [lbc-team/solidity-doc-cn](https://github.com/lbc-team/solidity-doc-cn) - 以太坊Solidity语言中文文档
 
-## C++
+## Dart
 
 *   [OrchidTechnologies/orchid](https://github.com/OrchidTechnologies/orchid) - Orchid: VPN, Personal Firewall
+*   [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
+
+## C++
+
 *   [ksyun-kenc/liuguang](https://github.com/ksyun-kenc/liuguang) - 鎏光云游戏引擎
 *   [cisco/mercury](https://github.com/cisco/mercury) - Mercury: network metadata capture and analysis
 *   [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
@@ -1144,10 +1148,6 @@
 *   [fholzer/docker-nginx-brotli](https://github.com/fholzer/docker-nginx-brotli) - Stable nginx with google brotli compression module
 *   [apache/skywalking-docker](https://github.com/apache/skywalking-docker) - SkyWalking Docker file archive for all official releases
 *   [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-
-## Dart
-
-*   [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 
 ## Java
 
