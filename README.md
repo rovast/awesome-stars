@@ -1229,7 +1229,6 @@
 *   [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 *   [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 *   [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
-*   [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 *   [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar\_board: All things Vim!
 *   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 *   [rovast/oh-my-deepin](https://github.com/rovast/oh-my-deepin) - 深度操作系统（Deepin Linux）的常用配置
@@ -1239,6 +1238,7 @@
 ## Vim Script
 
 *   [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
+*   [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 *   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Ruby
