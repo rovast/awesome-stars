@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Elixir](#elixir)
 *   [Rust](#rust)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
@@ -15,7 +16,6 @@
 *   [C](#c)
 *   [TypeScript](#typescript)
 *   [C++](#c-1)
-*   [Elixir](#elixir)
 *   [Shell](#shell)
 *   [Vala](#vala)
 *   [C#](#c-2)
@@ -56,6 +56,17 @@
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
 
+## Elixir
+
+*   [phoenixframework/phoenix\_template](https://github.com/phoenixframework/phoenix_template) - Template rendering for Phoenix
+*   [tessi/wasmex](https://github.com/tessi/wasmex) - Execute WebAssembly / WASM from Elixir
+*   [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir.
+*   [nats-io/nats.ex](https://github.com/nats-io/nats.ex) - Elixir client for NATS, the cloud native messaging system. https://nats.io
+*   [phoenixframework/phoenix\_live\_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
+*   [chrismccord/phoenix\_live\_view\_example](https://github.com/chrismccord/phoenix_live_view_example) -
+*   [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
+*   [wasmCloud/wasmcloud-otp](https://github.com/wasmCloud/wasmcloud-otp) - wasmCloud host runtime that leverages Elixir/OTP and Rust to provide simple, secure, distributed application development using the actor model
+
 ## Rust
 
 *   [wasmCloud/capability-providers](https://github.com/wasmCloud/capability-providers) - wasmCloud official capability providers
@@ -89,7 +100,7 @@
 *   [goodrain/rainbond](https://github.com/goodrain/rainbond) - Cloud native multi cloud application management platform | 云原生多云应用管理平台
 *   [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies' licenses.
 *   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-*   [wa-lang/wa](https://github.com/wa-lang/wa) - 专注于 WASM 平台的简单、可维护的编译型通用语言 Simple, maintainability, compiled language for developing WebAssembly software
+*   [wa-lang/wa](https://github.com/wa-lang/wa) - 凹语言™ 专注于 WASM 平台的简单、可维护的编译型通用语言 Simple, maintainability, compiled language for developing WebAssembly software
 *   [CloudSlit/cloudslit](https://github.com/CloudSlit/cloudslit) - CloudSlit Secure Network：Build a global web3 decentralized private retrieval of data security network，Building Cyber ​​Sovereignty.
 *   [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 *   [DataDrake/cli-ng](https://github.com/DataDrake/cli-ng) - An easy to use CLI library for the Go language
@@ -1015,16 +1026,6 @@
 *   [shadowsocks/shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) - A cross-platform shadowsocks GUI client
 *   [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
 
-## Elixir
-
-*   [tessi/wasmex](https://github.com/tessi/wasmex) - Execute WebAssembly / WASM from Elixir
-*   [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir.
-*   [nats-io/nats.ex](https://github.com/nats-io/nats.ex) - Elixir client for NATS, the cloud native messaging system. https://nats.io
-*   [phoenixframework/phoenix\_live\_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
-*   [chrismccord/phoenix\_live\_view\_example](https://github.com/chrismccord/phoenix_live_view_example) -
-*   [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
-*   [wasmCloud/wasmcloud-otp](https://github.com/wasmCloud/wasmcloud-otp) - wasmCloud host runtime that leverages Elixir/OTP and Rust to provide simple, secure, distributed application development using the actor model
-
 ## Shell
 
 *   [bats-core/bats-assert](https://github.com/bats-core/bats-assert) - Common assertions for Bats
@@ -1060,7 +1061,6 @@
 *   [oblique/create\_ap](https://github.com/oblique/create_ap) - \[NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 *   [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 *   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-*   [nullrndtx/Infinality-Debian-Jessie](https://github.com/nullrndtx/Infinality-Debian-Jessie) - Better Font Rendering With Infinality Font Rendering
 
 ## Vala
 
