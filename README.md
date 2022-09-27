@@ -4,8 +4,9 @@
 
 ## Table of Contents
 
-*   [Elixir](#elixir)
 *   [Rust](#rust)
+*   [HTML](#html)
+*   [Elixir](#elixir)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [CSS](#css)
@@ -21,7 +22,6 @@
 *   [C#](#c-2)
 *   [Markdown](#markdown)
 *   [Solidity](#solidity)
-*   [HTML](#html)
 *   [Haskell](#haskell)
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
@@ -56,19 +56,10 @@
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
 
-## Elixir
-
-*   [phoenixframework/phoenix\_template](https://github.com/phoenixframework/phoenix_template) - Template rendering for Phoenix
-*   [tessi/wasmex](https://github.com/tessi/wasmex) - Execute WebAssembly / WASM from Elixir
-*   [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir.
-*   [nats-io/nats.ex](https://github.com/nats-io/nats.ex) - Elixir client for NATS, the cloud native messaging system. https://nats.io
-*   [phoenixframework/phoenix\_live\_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
-*   [chrismccord/phoenix\_live\_view\_example](https://github.com/chrismccord/phoenix_live_view_example) -
-*   [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
-*   [wasmCloud/wasmcloud-otp](https://github.com/wasmCloud/wasmcloud-otp) - wasmCloud host runtime that leverages Elixir/OTP and Rust to provide simple, secure, distributed application development using the actor model
-
 ## Rust
 
+*   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+*   [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) - 🦀 Find the minimum supported Rust version (MSRV) for your project
 *   [wasmCloud/capability-providers](https://github.com/wasmCloud/capability-providers) - wasmCloud official capability providers
 *   [DanielKeep/tlborm](https://github.com/DanielKeep/tlborm) - The Little Book of Rust Macros
 *   [wasmCloud/wash](https://github.com/wasmCloud/wash) - WAsmcloud SHell - the comprehensive command-line tool for wasmCloud development
@@ -89,6 +80,52 @@
 *   [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 *   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+## HTML
+
+*   [wasmCloud/project-templates](https://github.com/wasmCloud/project-templates) - wasmCloud project templates - use with 'wash new'
+*   [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
+*   [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
+*   [momo0853/kkndme](https://github.com/momo0853/kkndme) - kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。
+*   [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
+*   [viniciussilva-s/earth\_miniature](https://github.com/viniciussilva-s/earth_miniature) - Projeto em Css, html e MiniatureJS
+*   [xswei/d3js\_doc](https://github.com/xswei/d3js_doc) - D3js中文文档  D3中文 :bar\_chart: :chart\_with\_upwards\_trend: :tada:
+*   [forrestchang/readbuidl](https://github.com/forrestchang/readbuidl) -
+*   [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
+*   [WICG/page-lifecycle](https://github.com/WICG/page-lifecycle) - Lifecycle API to support system initiated discarding and freezing
+*   [whatwg/html](https://github.com/whatwg/html) - HTML Standard
+*   [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
+*   [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+*   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
+*   [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
+*   [grpc/grpc.io](https://github.com/grpc/grpc.io) - Repository for the gRPC website and documentation
+*   [fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
+*   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
+*   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+*   [sologgfun/drinkNow](https://github.com/sologgfun/drinkNow) -
+*   [tobiashochguertel/c4-draw.io](https://github.com/tobiashochguertel/c4-draw.io) - C4 Modelling little bit easier
+*   [xiaoymin/swagger-bootstrap-ui](https://github.com/xiaoymin/swagger-bootstrap-ui) - Knife4j is a set of Swagger2 and OpenAPI3 All-in-one enhancement solution
+*   [rovast/php-frameworks-benchmark](https://github.com/rovast/php-frameworks-benchmark) - php 主流框架的压力测试
+*   [reeze/tipi](https://github.com/reeze/tipi) - Thinking In PHP Internals, An open book on PHP Internals
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+*   [lifesinger/blog](https://github.com/lifesinger/blog) - 岁月如歌
+*   [HADB/GetWeixinCode](https://github.com/HADB/GetWeixinCode) - 解决微信OAuth2.0网页授权只能设置一个回调域名的问题
+*   [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
+*   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
+*   [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
+*   [daylerees/colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
+
+## Elixir
+
+*   [phoenixframework/phoenix\_template](https://github.com/phoenixframework/phoenix_template) - Template rendering for Phoenix
+*   [tessi/wasmex](https://github.com/tessi/wasmex) - Execute WebAssembly / WASM from Elixir
+*   [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir.
+*   [nats-io/nats.ex](https://github.com/nats-io/nats.ex) - Elixir client for NATS, the cloud native messaging system. https://nats.io
+*   [phoenixframework/phoenix\_live\_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
+*   [chrismccord/phoenix\_live\_view\_example](https://github.com/chrismccord/phoenix_live_view_example) -
+*   [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
+*   [wasmCloud/wasmcloud-otp](https://github.com/wasmCloud/wasmcloud-otp) - wasmCloud host runtime that leverages Elixir/OTP and Rust to provide simple, secure, distributed application development using the actor model
 
 ## Go
 
@@ -553,8 +590,6 @@
 *   [overtrue/socialite](https://github.com/overtrue/socialite) - Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
 *   [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 *   [LaravelCollective/html](https://github.com/LaravelCollective/html) - HTML and Form Builders for the Laravel Framework
-*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
-*   [walkor/web-msg-sender](https://github.com/walkor/web-msg-sender) - Web message pusher  written in PHP based on workerman.
 
 ## JavaScript
 
@@ -826,7 +861,6 @@
 *   [shadowsocksr-backup/shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr) - Python port of ShadowsocksR
 *   [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
 *   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [xchaoinfo/fuck-login](https://github.com/xchaoinfo/fuck-login) - 模拟登录一些知名的网站，为了方便爬取需要登录的网站
 
 ## C
 
@@ -1081,40 +1115,6 @@
 
 *   [rovast/dapp-demo](https://github.com/rovast/dapp-demo) - A simple dapp demo, using web3.js + remix
 *   [dukedaily/solidity-expert](https://github.com/dukedaily/solidity-expert) - 4年打磨-2022年海外一线大厂-以太坊开发教程（a solidity tutorial makes you a dapp expert）
-
-## HTML
-
-*   [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
-*   [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
-*   [momo0853/kkndme](https://github.com/momo0853/kkndme) - kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。
-*   [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
-*   [viniciussilva-s/earth\_miniature](https://github.com/viniciussilva-s/earth_miniature) - Projeto em Css, html e MiniatureJS
-*   [xswei/d3js\_doc](https://github.com/xswei/d3js_doc) - D3js中文文档  D3中文 :bar\_chart: :chart\_with\_upwards\_trend: :tada:
-*   [forrestchang/readbuidl](https://github.com/forrestchang/readbuidl) -
-*   [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
-*   [WICG/page-lifecycle](https://github.com/WICG/page-lifecycle) - Lifecycle API to support system initiated discarding and freezing
-*   [whatwg/html](https://github.com/whatwg/html) - HTML Standard
-*   [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
-*   [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-*   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
-*   [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
-*   [grpc/grpc.io](https://github.com/grpc/grpc.io) - Repository for the gRPC website and documentation
-*   [fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
-*   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
-*   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
-*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-*   [sologgfun/drinkNow](https://github.com/sologgfun/drinkNow) -
-*   [tobiashochguertel/c4-draw.io](https://github.com/tobiashochguertel/c4-draw.io) - C4 Modelling little bit easier
-*   [xiaoymin/swagger-bootstrap-ui](https://github.com/xiaoymin/swagger-bootstrap-ui) - Knife4j is a set of Swagger2 and OpenAPI3 All-in-one enhancement solution
-*   [rovast/php-frameworks-benchmark](https://github.com/rovast/php-frameworks-benchmark) - php 主流框架的压力测试
-*   [reeze/tipi](https://github.com/reeze/tipi) - Thinking In PHP Internals, An open book on PHP Internals
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-*   [lifesinger/blog](https://github.com/lifesinger/blog) - 岁月如歌
-*   [HADB/GetWeixinCode](https://github.com/HADB/GetWeixinCode) - 解决微信OAuth2.0网页授权只能设置一个回调域名的问题
-*   [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
-*   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-*   [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
-*   [daylerees/colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
 
 ## Haskell
 
