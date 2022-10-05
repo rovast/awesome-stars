@@ -286,7 +286,7 @@
 *   [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 *   [codeguy/modern-php](https://github.com/codeguy/modern-php) - Companion code repository for Modern PHP by Josh Lockhart
 *   [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
-*   [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
+*   [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 *   [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 *   [nashaofu/dingtalk](https://github.com/nashaofu/dingtalk) - 钉钉桌面版，基于electron和钉钉网页版开发，支持Windows、Linux和macOS
 *   [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
