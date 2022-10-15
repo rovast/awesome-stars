@@ -29,7 +29,6 @@
 *   [Dart](#dart)
 *   [Mustache](#mustache)
 *   [Dockerfile](#dockerfile)
-*   [CUE](#cue)
 *   [Perl](#perl)
 *   [R](#r)
 *   [Makefile](#makefile)
@@ -469,6 +468,7 @@
 *   [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 *   [octeep/wireproxy](https://github.com/octeep/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
 *   [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
+*   [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
 *   [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 *   [jstemmer/go-junit-report](https://github.com/jstemmer/go-junit-report) - Convert Go test output to JUnit XML
 *   [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
@@ -479,7 +479,7 @@
 *   [erjadi/kubecraftadmin](https://github.com/erjadi/kubecraftadmin) -
 *   [layer5io/learn-layer5](https://github.com/layer5io/learn-layer5) - A sample application for learning how to service mesh and for validating SMI conformance
 *   [layer5io/getnighthawk](https://github.com/layer5io/getnighthawk) - Putting Nighthawk into the hands of many
-*   [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native management plane
+*   [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 *   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 *   [mayocream/pastebin-ipfs](https://github.com/mayocream/pastebin-ipfs) - 🌐 (Web 3.0) Pastebin built on IPFS, securely served by Distributed Web and Edge Network.
 *   [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
@@ -1176,10 +1176,6 @@
 *   [fholzer/docker-nginx-brotli](https://github.com/fholzer/docker-nginx-brotli) - Stable nginx with google brotli compression module
 *   [apache/skywalking-docker](https://github.com/apache/skywalking-docker) - SkyWalking Docker file archive for all official releases
 *   [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-
-## CUE
-
-*   [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
 
 ## Perl
 
