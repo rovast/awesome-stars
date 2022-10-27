@@ -4,13 +4,15 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
+*   [Makefile](#makefile)
 *   [Go](#go)
+*   [HCL](#hcl)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Dockerfile](#dockerfile)
 *   [JavaScript](#javascript)
 *   [PHP](#php)
-*   [CSS](#css)
 *   [C](#c)
 *   [Elixir](#elixir)
 *   [HTML](#html)
@@ -31,7 +33,6 @@
 *   [Mustache](#mustache)
 *   [Perl](#perl)
 *   [R](#r)
-*   [Makefile](#makefile)
 *   [SCSS](#scss)
 *   [OCaml](#ocaml)
 *   [Kotlin](#kotlin)
@@ -55,8 +56,41 @@
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
 
+## CSS
+
+*   [heroku/12factor](https://github.com/heroku/12factor) -
+*   [zjp-CN/tlborm](https://github.com/zjp-CN/tlborm) - The Little Book of Rust Macros (Updated Version) 中文翻译版
+*   [maxd010/sheng-qi](https://github.com/maxd010/sheng-qi) - 一个简单的升旗仪式。
+*   [wasmCloud/weld](https://github.com/wasmCloud/weld) - tools for processing smithy models
+*   [wasmCloud/interfaces](https://github.com/wasmCloud/interfaces) - wasmCloud API interfaces: smithy IDLs and shared libraries
+*   [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
+*   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
+*   [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
+*   [rovast/emmet.css](https://github.com/rovast/emmet.css) - Just focus on HTML Writing, without dancing between css file and html file. Based on emmet short rules.
+*   [YGYOOO/WeChat-Shelter](https://github.com/YGYOOO/WeChat-Shelter) - chrome插件，把网页微信伪装成云笔记~（仅供娱乐! (￣ε￣)
+*   [vinceliuice/Mojave-gtk-theme](https://github.com/vinceliuice/Mojave-gtk-theme) - Mojave is a macos Mojave like theme for GTK 3, GTK 2 and Gnome-Shell
+*   [StefanKovac/flex-layout-attribute](https://github.com/StefanKovac/flex-layout-attribute) - HTML layout helper based on CSS flexbox specification  —
+*   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
+*   [cofess/hexo-theme-pure](https://github.com/cofess/hexo-theme-pure) - Hexo theme pure. It's a pure theme for Hexo.
+*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+*   [ruanyf/survivor](https://github.com/ruanyf/survivor) - 博客文集《未来世界的幸存者》
+*   [ruanyf/road](https://github.com/ruanyf/road) - 博客文集《前方的路》
+*   [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
+
+## Makefile
+
+*   [hashicorp/http-echo](https://github.com/hashicorp/http-echo) - A tiny go web server that echos what you start it with!
+*   [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance) - Standardizing Service Mesh Value Measurement
+*   [servicemeshinterface/smi-spec](https://github.com/servicemeshinterface/smi-spec) - Service Mesh Interface
+*   [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
+*   [tumregels/Network-Programming-with-Go](https://github.com/tumregels/Network-Programming-with-Go) - Network programming with Go
+*   [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
+
 ## Go
 
+*   [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+*   [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 *   [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 *   [RedTimeDB/RedTimeDB](https://github.com/RedTimeDB/RedTimeDB) - Welcome to the next-generation time series database, based on the memory write-through model, with ultra-high performance.
 *   [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
@@ -223,6 +257,10 @@
 *   [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 *   [shadowsocks/shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - go port of shadowsocks (Deprecated)
 
+## HCL
+
+*   [hashicorp/learn-nomad-cluster-setup](https://github.com/hashicorp/learn-nomad-cluster-setup) - Companion repo for the HashiCorp Learn guide: Set up a Nomad Cluster on AWS
+
 ## miscellaneous
 
 *   [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
@@ -327,8 +365,6 @@
 *   [goodjack/developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) - 2021 年成為 Web 開發人員的路線圖 台灣正體中文版
 *   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 *   [nineyang/clean-php-code](https://github.com/nineyang/clean-php-code) - clean-php-code翻译版
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
-*   [pangudashu/php7-internal](https://github.com/pangudashu/php7-internal) - PHP7内核剖析
 
 ## Rust
 
@@ -727,30 +763,6 @@
 *   [Germey/LaravelGeetest](https://github.com/Germey/LaravelGeetest) - Geetest Package for Laravel5
 *   [greggilbert/recaptcha](https://github.com/greggilbert/recaptcha) - \[ABANDONED] reCAPTCHA Validator for Laravel 5
 *   [jcc/blog](https://github.com/jcc/blog) - :star2: PJ Blog is an open source blog built with Laravel and Vue.js.
-*   [Intervention/image](https://github.com/Intervention/image) - PHP Image Manipulation
-*   [nicolaslopezj/searchable](https://github.com/nicolaslopezj/searchable) - A php trait to search laravel models
-*   [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9
-
-## CSS
-
-*   [zjp-CN/tlborm](https://github.com/zjp-CN/tlborm) - The Little Book of Rust Macros (Updated Version) 中文翻译版
-*   [maxd010/sheng-qi](https://github.com/maxd010/sheng-qi) - 一个简单的升旗仪式。
-*   [wasmCloud/weld](https://github.com/wasmCloud/weld) - tools for processing smithy models
-*   [wasmCloud/interfaces](https://github.com/wasmCloud/interfaces) - wasmCloud API interfaces: smithy IDLs and shared libraries
-*   [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
-*   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
-*   [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
-*   [rovast/emmet.css](https://github.com/rovast/emmet.css) - Just focus on HTML Writing, without dancing between css file and html file. Based on emmet short rules.
-*   [YGYOOO/WeChat-Shelter](https://github.com/YGYOOO/WeChat-Shelter) - chrome插件，把网页微信伪装成云笔记~（仅供娱乐! (￣ε￣)
-*   [vinceliuice/Mojave-gtk-theme](https://github.com/vinceliuice/Mojave-gtk-theme) - Mojave is a macos Mojave like theme for GTK 3, GTK 2 and Gnome-Shell
-*   [StefanKovac/flex-layout-attribute](https://github.com/StefanKovac/flex-layout-attribute) - HTML layout helper based on CSS flexbox specification  —
-*   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
-*   [cofess/hexo-theme-pure](https://github.com/cofess/hexo-theme-pure) - Hexo theme pure. It's a pure theme for Hexo.
-*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-*   [ruanyf/survivor](https://github.com/ruanyf/survivor) - 博客文集《未来世界的幸存者》
-*   [ruanyf/road](https://github.com/ruanyf/road) - 博客文集《前方的路》
-*   [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 
 ## C
 
@@ -1184,14 +1196,6 @@
 ## R
 
 *   [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R
-
-## Makefile
-
-*   [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance) - Standardizing Service Mesh Value Measurement
-*   [servicemeshinterface/smi-spec](https://github.com/servicemeshinterface/smi-spec) - Service Mesh Interface
-*   [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
-*   [tumregels/Network-Programming-with-Go](https://github.com/tumregels/Network-Programming-with-Go) - Network programming with Go
-*   [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
 
 ## SCSS
 
