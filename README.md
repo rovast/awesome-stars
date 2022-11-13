@@ -336,7 +336,7 @@
 *   [jstemmer/go-junit-report](https://github.com/jstemmer/go-junit-report) - Convert Go test output to JUnit XML
 *   [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
 *   [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
-*   [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - Go Captcha is a behavioral captcha, which implements the generation of random verification text and the verification of click position information.
+*   [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 Go Captcha is a behavioral captcha, which implements the generation of random verification text and the verification of click position information.
 *   [sergeyfrolov/httpt](https://github.com/sergeyfrolov/httpt) - A probe resistant proxy
 *   [icexin/eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
 *   [erjadi/kubecraftadmin](https://github.com/erjadi/kubecraftadmin) -
