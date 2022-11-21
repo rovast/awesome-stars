@@ -297,7 +297,7 @@
 *   [cubiq/iscroll](https://github.com/cubiq/iscroll) - Smooth scrolling for the web
 *   [gavinkwoe/weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack) - 【应用号】IDE + 破解 + Demo
 *   [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
-*   [apicloudcom/APICloud-JS-Modules](https://github.com/apicloudcom/APICloud-JS-Modules) - 基于APICloud平台开发的一些常用JS组件
+*   [mycolorway/simditor](https://github.com/mycolorway/simditor) - An Easy and Fast WYSIWYG Editor
 
 ## Go
 
