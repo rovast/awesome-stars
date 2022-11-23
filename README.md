@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [TypeScript](#typescript)
@@ -42,7 +43,6 @@
 *   [WebAssembly](#webassembly)
 *   [Vim script](#vim-script)
 *   [Vim Script](#vim-script-1)
-*   [Ruby](#ruby)
 *   [VBA](#vba)
 *   [Handlebars](#handlebars)
 *   [Standard ML](#standard-ml)
@@ -56,6 +56,15 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
+
+## Ruby
+
+*   [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.3. PHP 8.2 and 8.3 are nightly builds.
+*   [junegunn/redis-stat](https://github.com/junegunn/redis-stat) - (UNMAINTAINED) A real-time Redis monitoring tool
+*   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+*   [capistrano/laravel](https://github.com/capistrano/laravel) - Gem for deploying Laravel projects with capistrano v3.\*
+*   [capistrano/composer](https://github.com/capistrano/composer) - Capistrano extension for Composer tasks
+*   [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
 
 ## JavaScript
 
@@ -297,7 +306,6 @@
 *   [cubiq/iscroll](https://github.com/cubiq/iscroll) - Smooth scrolling for the web
 *   [gavinkwoe/weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack) - 【应用号】IDE + 破解 + Demo
 *   [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
-*   [mycolorway/simditor](https://github.com/mycolorway/simditor) - An Easy and Fast WYSIWYG Editor
 
 ## Go
 
@@ -1348,14 +1356,6 @@
 *   [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 *   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 *   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-
-## Ruby
-
-*   [junegunn/redis-stat](https://github.com/junegunn/redis-stat) - (UNMAINTAINED) A real-time Redis monitoring tool
-*   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
-*   [capistrano/laravel](https://github.com/capistrano/laravel) - Gem for deploying Laravel projects with capistrano v3.\*
-*   [capistrano/composer](https://github.com/capistrano/composer) - Capistrano extension for Composer tasks
-*   [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
 
 ## VBA
 
