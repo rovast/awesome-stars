@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
-*   [Ruby](#ruby)
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [TypeScript](#typescript)
@@ -56,6 +56,16 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
+
+## Ruby
+
+*   [shivammathur/homebrew-extensions](https://github.com/shivammathur/homebrew-extensions) - :beers: Homebrew tap for PHP extensions
+*   [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.3. PHP 8.2 and 8.3 are nightly builds.
+*   [junegunn/redis-stat](https://github.com/junegunn/redis-stat) - (UNMAINTAINED) A real-time Redis monitoring tool
+*   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+*   [capistrano/laravel](https://github.com/capistrano/laravel) - Gem for deploying Laravel projects with capistrano v3.\*
+*   [capistrano/composer](https://github.com/capistrano/composer) - Capistrano extension for Composer tasks
+*   [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
 
 ## miscellaneous
 
@@ -209,15 +219,6 @@
 *   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 *   [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 *   [daylerees/colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
-
-## Ruby
-
-*   [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.3. PHP 8.2 and 8.3 are nightly builds.
-*   [junegunn/redis-stat](https://github.com/junegunn/redis-stat) - (UNMAINTAINED) A real-time Redis monitoring tool
-*   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
-*   [capistrano/laravel](https://github.com/capistrano/laravel) - Gem for deploying Laravel projects with capistrano v3.\*
-*   [capistrano/composer](https://github.com/capistrano/composer) - Capistrano extension for Composer tasks
-*   [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
 
 ## JavaScript
 
@@ -457,7 +458,6 @@
 *   [jieyou/lazyload](https://github.com/jieyou/lazyload) - 一个jQuery或zepto的图片延迟加载插件。An jQuery | zepto plugin for lazy loading images.
 *   [tuupola/lazyload](https://github.com/tuupola/lazyload) - Vanilla JavaScript plugin for lazyloading images
 *   [cubiq/iscroll](https://github.com/cubiq/iscroll) - Smooth scrolling for the web
-*   [gavinkwoe/weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack) - 【应用号】IDE + 破解 + Demo
 
 ## Go
 
