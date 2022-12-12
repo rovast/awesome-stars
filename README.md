@@ -1072,7 +1072,7 @@
 *   [symfony/event-dispatcher](https://github.com/symfony/event-dispatcher) - The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.
 *   [gitonomy/gitlib](https://github.com/gitonomy/gitlib) - Library for accessing Git repositories with PHP
 *   [FangStarNet/php-validator](https://github.com/FangStarNet/php-validator) - 一个强大好用的PHP参数校验组件，比起Laravel的Validator来说，简单易用，文档清晰！
-*   [f00b4r/nusoap](https://github.com/f00b4r/nusoap) - :smirk: Fixed NuSOAP for PHP 5.6 - 8.0
+*   [f00b4r/nusoap](https://github.com/f00b4r/nusoap) - :smirk: Fixed NuSOAP for PHP 5.6 - 8.2
 *   [nikic/FastRoute](https://github.com/nikic/FastRoute) - Fast request router for PHP
 *   [slince/composer-registry-manager](https://github.com/slince/composer-registry-manager) - :hammer\_and\_wrench: :hammer: Composer registry manager that help to easily switch to the  composer repository you want.
 *   [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
