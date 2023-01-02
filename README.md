@@ -620,7 +620,7 @@
 *   [goodrain/rainbond](https://github.com/goodrain/rainbond) - Cloud native multi cloud application management platform that make application management and delivery easier
 *   [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies' licenses.
 *   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-*   [wa-lang/wa](https://github.com/wa-lang/wa) - 🇨🇳 Wa: Simple, maintainable, compiled language for developing WebAssembly software
+*   [wa-lang/wa](https://github.com/wa-lang/wa) - The Wa Programming Language: Simple, maintainable, compiled language for developing WebAssembly software
 *   [FlowShield/flowshield](https://github.com/FlowShield/flowshield) - FlowShield Secure Network：Build a global web3 decentralized private retrieval of data security network，Building Cyber ​​Sovereignty.
 *   [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 *   [DataDrake/cli-ng](https://github.com/DataDrake/cli-ng) - An easy to use CLI library for the Go language
@@ -787,7 +787,7 @@
 *   [WICG/page-lifecycle](https://github.com/WICG/page-lifecycle) - Lifecycle API to support system initiated discarding and freezing
 *   [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 *   [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
-*   [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 *   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
 *   [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 *   [grpc/grpc.io](https://github.com/grpc/grpc.io) - Repository for the gRPC website and documentation
