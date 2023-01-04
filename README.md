@@ -59,6 +59,7 @@
 
 ## TypeScript
 
+*   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 *   [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 *   [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 *   [Ovyerus/prismaliser](https://github.com/Ovyerus/prismaliser) - Visualise your Prisma schema!
@@ -181,6 +182,7 @@
 
 ## JavaScript
 
+*   [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 *   [wbkd/react-flow-docs](https://github.com/wbkd/react-flow-docs) - The documentation for React Flow. Powered by Docusaurus.
 *   [devilwjp/veaury](https://github.com/devilwjp/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible!
 *   [akashgoswami/vue-reactflow](https://github.com/akashgoswami/vue-reactflow) - An experiment to render a React component inside a Vue.js application.
@@ -429,7 +431,7 @@
 *   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
 *   [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 *   [fermyon/spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly
 *   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 *   [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
@@ -841,7 +843,6 @@
 *   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 *   [ruanyf/survivor](https://github.com/ruanyf/survivor) - 博客文集《未来世界的幸存者》
 *   [ruanyf/road](https://github.com/ruanyf/road) - 博客文集《前方的路》
-*   [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 
 ## C++
 
@@ -1040,7 +1041,6 @@
 *   [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 *   [snail007/proxy\_admin\_free](https://github.com/snail007/proxy_admin_free) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
 *   [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
-*   [apache/skywalking-kubernetes](https://github.com/apache/skywalking-kubernetes) - Apache SkyWalking Kubernetes Deployment Helm Chart
 *   [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh-My-Zsh and plugins inside a Docker container with one line!
 *   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 *   [mayocream/alpine-box](https://github.com/mayocream/alpine-box) - This builds an up-to-date Vagrant Alpine Linux Base Box
@@ -1229,6 +1229,7 @@
 ## Smarty
 
 *   [Taction/wasmcloud-nomad-pack](https://github.com/Taction/wasmcloud-nomad-pack) -
+*   [apache/skywalking-kubernetes](https://github.com/apache/skywalking-kubernetes) - Apache SkyWalking Kubernetes Deployment Helm Chart
 
 ## Makefile
 
@@ -1285,7 +1286,6 @@
 *   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 *   [oracle/opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
 *   [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document\_detail/137663.html) 团队出品，为监控而生的数据库连接池
-*   [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
 
 ## Vala
 
