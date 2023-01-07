@@ -5,6 +5,7 @@
 ## Table of Contents
 
 *   [miscellaneous](#miscellaneous)
+*   [CartoCSS](#cartocss)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Dart](#dart)
@@ -60,6 +61,7 @@
 
 ## miscellaneous
 
+*   [eliaszon/Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
 *   [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities
 *   [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 *   [jassics/security-study-plan](https://github.com/jassics/security-study-plan) - Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
@@ -182,8 +184,13 @@
 *   [jonschlinkert/sublime-markdown-extended](https://github.com/jonschlinkert/sublime-markdown-extended) - Top 100 Sublime Text plugin! Markdown syntax highlighter for Sublime Text, with extended support for GFM fenced code blocks, with language-specific syntax highlighting. YAML Front Matter. Works with ST2/ST3. Goes great with Assemble.
 *   [jonschlinkert/sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended) - Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.
 
+## CartoCSS
+
+*   [CartoDB/basemap-styles](https://github.com/CartoDB/basemap-styles) - CARTO basemap public styles
+
 ## JavaScript
 
+*   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 *   [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 *   [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 *   [wbkd/react-flow-docs](https://github.com/wbkd/react-flow-docs) - The documentation for React Flow. Powered by Docusaurus.
@@ -452,11 +459,10 @@
 *   [welefen/pjax](https://github.com/welefen/pjax) - ajax + history.pushState = pjax
 *   [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
 *   [ganeshmax/jcarousellite](https://github.com/ganeshmax/jcarousellite) - jCarousel Lite is a jQuery plugin that carries you on a carousel ride filled with images and HTML content. Put simply, you can navigate images and/or HTML in a carousel-style widget.
-*   [longbill/jquery-date-range-picker](https://github.com/longbill/jquery-date-range-picker) - A jQuery plugin that allows user to select a date range
-*   [bendc/animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web
 
 ## TypeScript
 
+*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Search books index, create your private local library.
 *   [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 *   [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 *   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
@@ -902,7 +908,6 @@
 *   [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 *   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 *   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-*   [miniMAC/rocket](https://github.com/miniMAC/rocket) - Rocket create an animation from two items via jQuery
 
 ## C++
 
@@ -1000,7 +1005,6 @@
 *   [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
 *   [naokazuterada/MarkdownTOC](https://github.com/naokazuterada/MarkdownTOC) -  SublimeText3 plugin which generate a table of contents (TOC) in a markdown document.
 *   [vkocubinsky/SublimeTableEditor](https://github.com/vkocubinsky/SublimeTableEditor) - This package is no more supported. I moved to vim.
-*   [jarod2d/sublime\_valign](https://github.com/jarod2d/sublime_valign) - Vertical alignment plugin for Sublime Text 2 and 3
 
 ## Vue
 
