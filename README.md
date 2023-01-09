@@ -462,7 +462,7 @@
 
 ## TypeScript
 
-*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Search books index, create your private local library.
+*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Create and search books index, create your private library.
 *   [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 *   [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 *   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
@@ -837,7 +837,6 @@
 *   [cloudflare/worker-sites-template](https://github.com/cloudflare/worker-sites-template) -
 *   [wasmCloud/project-templates](https://github.com/wasmCloud/project-templates) - wasmCloud project templates - use with 'wash new'
 *   [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
-*   [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
 *   [momo0853/kkndme](https://github.com/momo0853/kkndme) - kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。
 *   [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
 *   [viniciussilva-s/earth\_miniature](https://github.com/viniciussilva-s/earth_miniature) - Projeto em Css, html e MiniatureJS
@@ -1404,6 +1403,7 @@
 
 *   [rovast/dapp-demo](https://github.com/rovast/dapp-demo) - A simple dapp demo, using web3.js + remix
 *   [dukedaily/solidity-expert](https://github.com/dukedaily/solidity-expert) - 4年打磨-2022年海外一线大厂-以太坊开发教程（a solidity tutorial makes you a dapp expert）WIP
+*   [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
 
 ## Haskell
 
