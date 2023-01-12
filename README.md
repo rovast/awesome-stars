@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Stylus](#stylus)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [CartoCSS](#cartocss)
@@ -58,6 +59,10 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
+
+## Stylus
+
+*   [amehime/hexo-theme-shoka](https://github.com/amehime/hexo-theme-shoka) - Just For https://shoka.lostyu.me/
 
 ## miscellaneous
 
@@ -647,7 +652,6 @@
 *   [sdc-alibaba/SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) - SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美
 *   [layui/layer](https://github.com/layui/layer) - 丰富多样的 Web 弹出层组件，可轻松实现 Alert/Confirm/Prompt/ 普通提示/页面区块/iframe/tips等等几乎所有的弹出交互。目前已成为最多人使用的弹层解决方案
 *   [tapmodo/Jcrop](https://github.com/tapmodo/Jcrop) - Jcrop - The Javascript Image Cropping Engine
-*   [welefen/pjax](https://github.com/welefen/pjax) - ajax + history.pushState = pjax
 
 ## TypeScript
 
