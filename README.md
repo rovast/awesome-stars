@@ -643,7 +643,7 @@
 *   [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 *   [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 *   [netheril96/MEOW](https://github.com/netheril96/MEOW) - MEOW is a fork of COW that uses whitelist mode.
-*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 *   [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 *   [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters
 *   [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -1068,6 +1068,7 @@
 *   [wasmCloud/weld](https://github.com/wasmCloud/weld) - tools for processing smithy models
 *   [wasmCloud/examples](https://github.com/wasmCloud/examples) - Example actors, capability providers, and other demonstrations
 *   [wasmCloud/interfaces](https://github.com/wasmCloud/interfaces) - wasmCloud API interfaces: smithy IDLs and shared libraries
+*   [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
 *   [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 *   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 *   [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
@@ -1411,7 +1412,6 @@
 
 *   [rovast/dapp-demo](https://github.com/rovast/dapp-demo) - A simple dapp demo, using web3.js + remix
 *   [dukedaily/solidity-expert](https://github.com/dukedaily/solidity-expert) - 4年打磨-2022年海外一线大厂-以太坊开发教程（a solidity tutorial makes you a dapp expert）WIP
-*   [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
 
 ## Haskell
 
