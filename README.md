@@ -50,7 +50,6 @@
 *   [Vim Script](#vim-script-1)
 *   [VBA](#vba)
 *   [Handlebars](#handlebars)
-*   [Standard ML](#standard-ml)
 *   [Assembly](#assembly)
 *   [QML](#qml)
 *   [Less](#less)
@@ -425,6 +424,7 @@
 *   [LiuBoyu/blockchain](https://github.com/LiuBoyu/blockchain) - 区块链 - 中文资源
 *   [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
 *   [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms) - Bug-tracking for Jeff's algorithms book, notes, etc.
+*   [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
 *   [jyfc/ebook](https://github.com/jyfc/ebook) - classic books of computer science
 *   [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 *   [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
@@ -1486,10 +1486,6 @@
 ## Handlebars
 
 *   [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
-
-## Standard ML
-
-*   [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
 
 ## Assembly
 
