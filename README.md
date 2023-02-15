@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Solidity](#solidity)
 *   [JavaScript](#javascript)
+*   [Solidity](#solidity)
 *   [C](#c)
 *   [Gherkin](#gherkin)
 *   [Shell](#shell)
@@ -61,15 +61,9 @@
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
 
-## Solidity
-
-*   [smartcontractkit/hardhat-chainlink-example](https://github.com/smartcontractkit/hardhat-chainlink-example) - Showcase repo for @chainlink/hardhat-chainlink plugin
-*   [PatrickAlphaC/storage-factory-fcc](https://github.com/PatrickAlphaC/storage-factory-fcc) -
-*   [rovast/dapp-demo](https://github.com/rovast/dapp-demo) - A simple dapp demo, using web3.js + remix
-*   [dukedaily/solidity-expert](https://github.com/dukedaily/solidity-expert) - 4年打磨-2022年海外一线大厂-以太坊开发教程（a solidity tutorial makes you a dapp expert）WIP
-
 ## JavaScript
 
+*   [PatrickAlphaC/ethers-simple-storage-fcc](https://github.com/PatrickAlphaC/ethers-simple-storage-fcc) -
 *   [DOSNetwork/hackathon-examples](https://github.com/DOSNetwork/hackathon-examples) -
 *   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 *   [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
@@ -323,7 +317,13 @@
 *   [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 *   [ruanyf/webpack-demos](https://github.com/ruanyf/webpack-demos) - a collection of simple demos of Webpack
 *   [fex-team/ueditor](https://github.com/fex-team/ueditor) - rich text 富文本编辑器
-*   [jieyou/lazyload](https://github.com/jieyou/lazyload) - 一个jQuery或zepto的图片延迟加载插件。An jQuery | zepto plugin for lazy loading images.
+
+## Solidity
+
+*   [smartcontractkit/hardhat-chainlink-example](https://github.com/smartcontractkit/hardhat-chainlink-example) - Showcase repo for @chainlink/hardhat-chainlink plugin
+*   [PatrickAlphaC/storage-factory-fcc](https://github.com/PatrickAlphaC/storage-factory-fcc) -
+*   [rovast/dapp-demo](https://github.com/rovast/dapp-demo) - A simple dapp demo, using web3.js + remix
+*   [dukedaily/solidity-expert](https://github.com/dukedaily/solidity-expert) - 4年打磨-2022年海外一线大厂-以太坊开发教程（a solidity tutorial makes you a dapp expert）WIP
 
 ## C
 
@@ -836,7 +836,7 @@
 *   [awesome-fc/code-example](https://github.com/awesome-fc/code-example) -
 *   [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
 *   [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
-*   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
+*   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Make big AI models cheaper, easier, and scalable
 *   [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 *   [Lcry/a-sheep-assistant](https://github.com/Lcry/a-sheep-assistant) - 🐑 羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。保姆级学习教程关注作者公众号： 《码上有效率》，口令羊了个羊
 *   [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
