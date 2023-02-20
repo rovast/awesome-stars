@@ -1263,7 +1263,7 @@
 *   [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components
 *   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 *   [aisuda/amis-admin](https://github.com/aisuda/amis-admin) - 基于 amis 的后台项目前端模板
-*   [markmead/hyperui](https://github.com/markmead/hyperui) - HyperUI is a large collection of free Tailwind CSS components for marketing, ecommerce and application UI 🐳
+*   [markmead/hyperui](https://github.com/markmead/hyperui) - 🚀 \[FREE] Tailwind CSS components for marketing, e-commerce and application UI with support for dark mode, Alpine JS and RTL direction ✨
 *   [cloudflare/worker-sites-template](https://github.com/cloudflare/worker-sites-template) -
 *   [wasmCloud/project-templates](https://github.com/wasmCloud/project-templates) - wasmCloud project templates - use with 'wash new'
 *   [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
