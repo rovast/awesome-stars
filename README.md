@@ -1099,7 +1099,7 @@
 *   [f00b4r/nusoap](https://github.com/f00b4r/nusoap) - :smirk: Fixed NuSOAP for PHP 5.6 - 8.2
 *   [nikic/FastRoute](https://github.com/nikic/FastRoute) - Fast request router for PHP
 *   [slince/composer-registry-manager](https://github.com/slince/composer-registry-manager) - :hammer\_and\_wrench: :hammer: Composer registry manager that help to easily switch to the  composer repository you want.
-*   [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
+*   [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 *   [laravel/installer](https://github.com/laravel/installer) - The Laravel application installer.
 *   [laravel/lumen](https://github.com/laravel/lumen) - The Laravel Lumen Framework.
 *   [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
@@ -1267,7 +1267,7 @@
 *   [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components
 *   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 *   [aisuda/amis-admin](https://github.com/aisuda/amis-admin) - 基于 amis 的后台项目前端模板
-*   [markmead/hyperui](https://github.com/markmead/hyperui) - 🚀 \[FREE] Tailwind CSS components for marketing, e-commerce and application UI with optional support for Alpine JS, RTL and dark mode
+*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 *   [cloudflare/worker-sites-template](https://github.com/cloudflare/worker-sites-template) -
 *   [wasmCloud/project-templates](https://github.com/wasmCloud/project-templates) - wasmCloud project templates - use with 'wash new'
 *   [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
