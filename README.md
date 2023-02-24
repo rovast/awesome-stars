@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Svelte](#svelte)
 *   [Go](#go)
+*   [Svelte](#svelte)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
@@ -62,12 +62,9 @@
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
 
-## Svelte
-
-*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
-
 ## Go
 
+*   [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad) - A simple and lightweight FVM oracle using Bacalhau
 *   [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - ChatGPT机器人在钉钉群聊中交互
 *   [sashabaranov/go-gpt3](https://github.com/sashabaranov/go-gpt3) - OpenAI GPT-3 and DALL·E API wrapper for Go
 *   [solywsh/chatgpt](https://github.com/solywsh/chatgpt) - chartgpt client for golang（use gpt3）
@@ -264,6 +261,10 @@
 *   [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 *   [shadowsocks/shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - go port of shadowsocks (Deprecated)
 
+## Svelte
+
+*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
+
 ## Jupyter Notebook
 
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -304,7 +305,7 @@
 
 *   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 *   [mistic100/Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer) - A JavaScript library to display 360° sphere panoramas.
-*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 10ms.
+*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
 *   [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 *   [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 *   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
@@ -1301,7 +1302,6 @@
 *   [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 *   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 *   [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
-*   [daylerees/colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
 
 ## Markdown
 
