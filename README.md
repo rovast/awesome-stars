@@ -1011,7 +1011,7 @@
 *   [awesome-fc/code-example](https://github.com/awesome-fc/code-example) -
 *   [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
 *   [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
-*   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and more scalable
+*   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 *   [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 *   [Lcry/a-sheep-assistant](https://github.com/Lcry/a-sheep-assistant) - 🐑 羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。保姆级学习教程关注作者公众号： 《码上有效率》，口令羊了个羊
 *   [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
