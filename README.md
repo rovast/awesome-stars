@@ -393,7 +393,7 @@
 
 *   [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad) - A simple and lightweight FVM oracle using Bacalhau
 *   [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - ChatGPT机器人在钉钉群聊中交互
-*   [sashabaranov/go-gpt3](https://github.com/sashabaranov/go-gpt3) - OpenAI ChatGPT, GPT-3 and DALL·E API wrapper for Go
+*   [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, DALL·E, Whisper API wrapper for Go
 *   [solywsh/chatgpt](https://github.com/solywsh/chatgpt) - chartgpt client for golang（use gpt3）
 *   [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
 *   [ztalab/mysqlproxy](https://github.com/ztalab/mysqlproxy) -
