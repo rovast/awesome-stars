@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [HTML](#html)
 *   [Go](#go)
 *   [JavaScript](#javascript)
@@ -15,7 +16,6 @@
 *   [Solidity](#solidity)
 *   [C](#c)
 *   [Gherkin](#gherkin)
-*   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [Swift](#swift)
 *   [Pug](#pug)
@@ -61,6 +61,35 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
+
+## Java
+
+*   [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
+*   [elunez/eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+*   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
+*   [awslabs/smithy](https://github.com/awslabs/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
+*   [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
+*   [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源，免费，智能客服系统，机器人客服
+*   [polarismesh/femas](https://github.com/polarismesh/femas) - Cloud native multi-runtime microservice framework
+*   [PigZhuJ/cs61b\_sp19](https://github.com/PigZhuJ/cs61b_sp19) - Data Structures
+*   [Berkeley-CS61B/skeleton-sp19](https://github.com/Berkeley-CS61B/skeleton-sp19) -
+*   [Berkeley-CS61B/lectureCode-sp19](https://github.com/Berkeley-CS61B/lectureCode-sp19) - Code created for lecture during spring 19
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+*   [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+*   [jenkinsci/blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin) - Blue Ocean is a reboot of the Jenkins CI/CD User Experience
+*   [apache/flink](https://github.com/apache/flink) - Apache Flink
+*   [apache/flume](https://github.com/apache/flume) - Mirror of Apache Flume
+*   [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
+*   [trojan-gfw/igniter](https://github.com/trojan-gfw/igniter) - A trojan client for Android (UNDER CONSTRUCTION).
+*   [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
+*   [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+*   [ngbdf/redis-manager](https://github.com/ngbdf/redis-manager) - Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作
+*   [mymmsc/books](https://github.com/mymmsc/books) - 常用书籍
+*   [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
+*   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+*   [oracle/opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
+*   [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document\_detail/137663.html) 团队出品，为监控而生的数据库连接池
+*   [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
 
 ## HTML
 
@@ -561,7 +590,6 @@
 *   [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
 *   [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 *   [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications
-*   [laravel-mix/laravel-mix](https://github.com/laravel-mix/laravel-mix) - The power of webpack, distilled for the rest of us.
 
 ## TypeScript
 
@@ -851,34 +879,6 @@
 
 *   [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
-## Java
-
-*   [elunez/eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-*   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
-*   [awslabs/smithy](https://github.com/awslabs/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
-*   [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
-*   [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源，免费，智能客服系统，机器人客服
-*   [polarismesh/femas](https://github.com/polarismesh/femas) - Cloud native multi-runtime microservice framework
-*   [PigZhuJ/cs61b\_sp19](https://github.com/PigZhuJ/cs61b_sp19) - Data Structures
-*   [Berkeley-CS61B/skeleton-sp19](https://github.com/Berkeley-CS61B/skeleton-sp19) -
-*   [Berkeley-CS61B/lectureCode-sp19](https://github.com/Berkeley-CS61B/lectureCode-sp19) - Code created for lecture during spring 19
-*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
-*   [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-*   [jenkinsci/blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin) - Blue Ocean is a reboot of the Jenkins CI/CD User Experience
-*   [apache/flink](https://github.com/apache/flink) - Apache Flink
-*   [apache/flume](https://github.com/apache/flume) - Mirror of Apache Flume
-*   [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
-*   [trojan-gfw/igniter](https://github.com/trojan-gfw/igniter) - A trojan client for Android (UNDER CONSTRUCTION).
-*   [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
-*   [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
-*   [ngbdf/redis-manager](https://github.com/ngbdf/redis-manager) - Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作
-*   [mymmsc/books](https://github.com/mymmsc/books) - 常用书籍
-*   [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
-*   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-*   [oracle/opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
-*   [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document\_detail/137663.html) 团队出品，为监控而生的数据库连接池
-*   [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
-
 ## miscellaneous
 
 *   [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
@@ -1141,7 +1141,7 @@
 *   [php/php-langspec](https://github.com/php/php-langspec) - PHP Language Specification
 *   [yriveiro/php-fslock](https://github.com/yriveiro/php-fslock) - A simple lock implementation using flock.
 *   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-*   [symfony/event-dispatcher](https://github.com/symfony/event-dispatcher) - The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.
+*   [symfony/event-dispatcher](https://github.com/symfony/event-dispatcher) - Provides tools that allow your application components to communicate with each other by dispatching events and listening to them
 *   [gitonomy/gitlib](https://github.com/gitonomy/gitlib) - Library for accessing Git repositories with PHP
 *   [FangStarNet/php-validator](https://github.com/FangStarNet/php-validator) - 一个强大好用的PHP参数校验组件，比起Laravel的Validator来说，简单易用，文档清晰！
 *   [f00b4r/nusoap](https://github.com/f00b4r/nusoap) - :smirk: Fixed NuSOAP for PHP 5.6 - 8.2
@@ -1160,10 +1160,10 @@
 *   [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 *   [lobtao/phpdesktop](https://github.com/lobtao/phpdesktop) - Developing Desktop Applications Like Developing Websites => phpdesktop
 *   [fideloper/TrustedProxy](https://github.com/fideloper/TrustedProxy) - Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries.
-*   [symfony/yaml](https://github.com/symfony/yaml) - The Yaml component loads and dumps YAML files.
+*   [symfony/yaml](https://github.com/symfony/yaml) - Loads and dumps YAML files
 *   [doctrine/collections](https://github.com/doctrine/collections) - Collections Abstraction Library
 *   [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser
-*   [symfony/finder](https://github.com/symfony/finder) - The Finder component finds files and directories via an intuitive fluent interface.
+*   [symfony/finder](https://github.com/symfony/finder) - Finds files and directories via an intuitive fluent interface
 *   [zircote/swagger-php](https://github.com/zircote/swagger-php) - A php swagger annotation and parsing library
 *   [santigarcor/laratrust](https://github.com/santigarcor/laratrust) - Handle roles and permissions in your Laravel application
 *   [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
@@ -1171,7 +1171,7 @@
 *   [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 *   [bovigo/vfsStream](https://github.com/bovigo/vfsStream) - vfsStream is a stream wrapper for a virtual file system that may be helpful in unit tests to mock the real file system. It can be used with any unit test framework, like PHPUnit or SimpleTest.
 *   [phpspec/prophecy](https://github.com/phpspec/prophecy) - Highly opinionated mocking framework for PHP 5.3+
-*   [symfony/console](https://github.com/symfony/console) - The Console component eases the creation of beautiful and testable command line interfaces.
+*   [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
 *   [dancryer/php-docblock-checker](https://github.com/dancryer/php-docblock-checker) - A simple tool for checking that your PHP classes and methods use docblocks.
 *   [sebastianbergmann/phpcpd](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code.
 *   [dancryer/PHPCI](https://github.com/dancryer/PHPCI) - PHPCI is a free and open source continuous integration tool specifically designed for PHP.
@@ -1192,7 +1192,7 @@
 *   [slince/config](https://github.com/slince/config) - :bamboo: A flexible configuration file loader that supports multiple file formats
 *   [slince/di](https://github.com/slince/di) - :sheep: A flexible  dependency injection container; It is an implementation of PSR-11
 *   [cakephp/utility](https://github.com/cakephp/utility) - \[READ-ONLY] CakePHP Utility classes such as Inflector, Text, Hash, Security and Xml. This repo is a split of the main code that can be found in https://github.com/cakephp/cakephp
-*   [symfony/http-foundation](https://github.com/symfony/http-foundation) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+*   [symfony/http-foundation](https://github.com/symfony/http-foundation) - Defines an object-oriented layer for the HTTP specification
 *   [phpmd/phpmd](https://github.com/phpmd/phpmd) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measured by PHP Depend.
 *   [squizlabs/PHP\_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP\_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 *   [devaneando/Wikitten](https://github.com/devaneando/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
