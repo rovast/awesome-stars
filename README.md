@@ -65,7 +65,7 @@
 ## Rust
 
 *   [yingDev/Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
-*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, tui, and more.
+*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
 *   [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 *   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
 *   [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
@@ -1300,7 +1300,7 @@
 *   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 *   [capistrano/laravel](https://github.com/capistrano/laravel) - Gem for deploying Laravel projects with capistrano v3.\*
 *   [capistrano/composer](https://github.com/capistrano/composer) - Capistrano extension for Composer tasks
-*   [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
+*   [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 
 ## CSS
 
