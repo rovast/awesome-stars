@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Shell](#shell)
@@ -19,7 +20,6 @@
 *   [Markdown](#markdown)
 *   [Java](#java)
 *   [Svelte](#svelte)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Solidity](#solidity)
 *   [C](#c)
 *   [Gherkin](#gherkin)
@@ -61,6 +61,15 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
+
+## Jupyter Notebook
+
+*   [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
+*   [datitran/raccoon\_dataset](https://github.com/datitran/raccoon_dataset) - The dataset is used to train my own raccoon detector and I blogged about it on Medium
+*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+*   [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
+*   [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 
 ## TypeScript
 
@@ -739,7 +748,6 @@
 *   [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 *   [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
 *   [sdc-alibaba/SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) - SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美
-*   [layui/layer](https://github.com/layui/layer) - 丰富多样的 Web 弹出层组件，可轻松实现 Alert/Confirm/Prompt/ 普通提示/页面区块/iframe/tips等等几乎所有的弹出交互。目前已成为最多人使用的弹层解决方案
 
 ## Vue
 
@@ -1058,7 +1066,6 @@
 *   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 *   [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 *   [daylerees/colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
-*   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 
 ## PHP
 
@@ -1279,13 +1286,6 @@
 
 *   [erskingardner/nostr-how](https://github.com/erskingardner/nostr-how) -
 *   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
-
-## Jupyter Notebook
-
-*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-*   [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
-*   [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 
 ## Solidity
 
