@@ -807,6 +807,7 @@
 *   [shashankmehta/slick.js](https://github.com/shashankmehta/slick.js) - Embed presentations when you can't use SpeakerDeck or SlideShare
 *   [mythz/jquip](https://github.com/mythz/jquip) - jQuery in Parts
 *   [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech\_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
+*   [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 
 ## Vue
 
@@ -914,9 +915,6 @@
 *   [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat) - A terminal-based P2P chat application using libp2p and Golang that uses a Kademlia DHT and the IPFS network for peer discovery and routing
 *   [ztalab/zaca-sdk](https://github.com/ztalab/zaca-sdk) - Zaca system is equipped with Ca SDK, which can automatically apply for certificates, rotate certificates, and support OCSP verification
 *   [wujunwei/docker-registry-client](https://github.com/wujunwei/docker-registry-client) - An API client for the V2 Docker Registry API.  (copy form heroku / docker-registry-client and fix some bug add support for multiply manifest)
-*   [OpenMSP/OpenMSP-Controller](https://github.com/OpenMSP/OpenMSP-Controller) - MSPController is the controller of sidecar
-*   [OpenMSP/OpenMSP-ContainerCloud](https://github.com/OpenMSP/OpenMSP-ContainerCloud) -
-*   [OpenMSP/servicecar](https://github.com/OpenMSP/servicecar) - A Cloud-Native Network Proxy
 *   [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 *   [pufferffish/wireproxy](https://github.com/pufferffish/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
 *   [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
@@ -1426,6 +1424,7 @@
 *   [ruanyf/survivor](https://github.com/ruanyf/survivor) - 博客文集《未来世界的幸存者》
 *   [ruanyf/road](https://github.com/ruanyf/road) - 博客文集《前方的路》
 *   [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
+*   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 
 ## C++
 
@@ -1469,6 +1468,7 @@
 *   [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 *   [shadowsocks/shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) - A cross-platform shadowsocks GUI client
 *   [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
+*   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
 ## Kotlin
 
@@ -1522,6 +1522,7 @@
 
 *   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 *   [peachpiecompiler/peachpie](https://github.com/peachpiecompiler/peachpie) - PeachPie - the PHP compiler and runtime for .NET and .NET Core
+*   [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
 
 ## Haskell
 
@@ -1534,7 +1535,6 @@
 
 ## Mustache
 
-*   [OpenMSP/helm-charts](https://github.com/OpenMSP/helm-charts) - Helm Charts for OpenMSP
 *   [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - The helm chart to deploy Harbor
 *   [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 *   [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
