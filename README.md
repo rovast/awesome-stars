@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -13,7 +14,6 @@
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [Ruby](#ruby)
-*   [Vue](#vue)
 *   [Go](#go)
 *   [Rust](#rust)
 *   [PHP](#php)
@@ -60,6 +60,39 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
+
+## Vue
+
+*   [Akryum/floating-vue](https://github.com/Akryum/floating-vue) - 💬 Easy tooltips, popovers, dropdown, menus... for Vue
+*   [binjie09/chatgpt-web](https://github.com/binjie09/chatgpt-web) - 使用 express 和 vue3 搭建的 ChartGPT 演示网页
+*   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，GPT4接口官方只是在申请阶段，后期会一点一点的将OpenAI接口进行接入大家支持一下，微信群号在下方，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
+*   [xpf0000/PhpWebStudy](https://github.com/xpf0000/PhpWebStudy) - Php and Web development environment manage tool for MacOS system, the better way to manage your local web server
+*   [dskvr/nostr-watch](https://github.com/dskvr/nostr-watch) - nostr registry and monitor web-client
+*   [ischenliang/quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed) - 轻快图床：使用koa + vue3.x + typescript全家桶实现的在线图床系统，支持在线存储桶插件开发，目前支持腾讯云COS、又拍云Upyun、阿里云OSS、github图床、gitee图床、本地存储桶、七牛云 KODO等在线图床存储桶。市面上最火的图床系统是picgo，但由于picgo是桌面应用程序，换了新电脑需要重新下载安装配置，十分麻烦，为了解决该问题，故诞生了这款系统。支持ChatGPT功能演示。
+*   [lagrangedao/website-frontend](https://github.com/lagrangedao/website-frontend) - Frontend of Lagrange DAO
+*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+*   [meterscao/Speechless](https://github.com/meterscao/Speechless) - 把新浪微博的内容，导出成 PDF 文件进行备份的 Chrome Extension。
+*   [element-plus/element-plus-vite-starter](https://github.com/element-plus/element-plus-vite-starter) - 🌰 A starter kit for Element Plus with Vite
+*   [kailong321200875/vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin) - A set of background integration scheme based on vue3, element-plus, typescript4 and vite4
+*   [ztalab/ZAPortal](https://github.com/ztalab/ZAPortal) - The zero-trust management platform provides users with a control interface with low thresholds.
+*   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
+*   [wenlng/go-captcha-vue](https://github.com/wenlng/go-captcha-vue) - Vue example of go-captcha
+*   [inoutcode/ethereum\_book](https://github.com/inoutcode/ethereum_book) - 精通以太坊 （中文版）
+*   [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
+*   [eclipsesource/jsonforms-vue-seed](https://github.com/eclipsesource/jsonforms-vue-seed) - Vue 3 and Vue 2 seed for JSON Forms
+*   [apache/skywalking-rocketbot-ui](https://github.com/apache/skywalking-rocketbot-ui) - SkyWalking RocketBot UI
+*   [netease-im/NIM\_Web\_Demo\_H5](https://github.com/netease-im/NIM_Web_Demo_H5) - 网易云信Web Demo Html5 移动端适配。【推荐客户得京东卡，首次推荐成单得1500元京东卡，连续推荐2000元/单，上不封顶。】点击参与https://yunxin.163.com/promotion/recommend
+*   [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
+*   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
+*   [jecovier/vue-json-excel](https://github.com/jecovier/vue-json-excel) -
+*   [dcloudio/hello-uniapp](https://github.com/dcloudio/hello-uniapp) - uni-app框架演示示例
+*   [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
+*   [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
+*   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
+*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+*   [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
+*   [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
+*   [museui/muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
 
 ## JavaScript
 
@@ -336,7 +369,6 @@
 *   [shashankmehta/slick.js](https://github.com/shashankmehta/slick.js) - Embed presentations when you can't use SpeakerDeck or SlideShare
 *   [mythz/jquip](https://github.com/mythz/jquip) - jQuery in Parts
 *   [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech\_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
-*   [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 
 ## Python
 
@@ -346,7 +378,7 @@
 *   [heartexlabs/labelImg](https://github.com/heartexlabs/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source data labeling tool for images, text, hypertext, audio, video and time-series data.
 *   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 *   [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古等。
+*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古等。
 *   [crytic/ethersplay](https://github.com/crytic/ethersplay) - EVM dissassembler
 *   [awesome-fc/code-example](https://github.com/awesome-fc/code-example) -
 *   [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
@@ -609,7 +641,7 @@
 
 *   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘Open
 *   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
-*   [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+*   [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 *   [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 *   [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
 *   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
@@ -810,38 +842,6 @@
 *   [capistrano/laravel](https://github.com/capistrano/laravel) - Gem for deploying Laravel projects with capistrano v3.\*
 *   [capistrano/composer](https://github.com/capistrano/composer) - Capistrano extension for Composer tasks
 *   [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
-
-## Vue
-
-*   [binjie09/chatgpt-web](https://github.com/binjie09/chatgpt-web) - 使用 express 和 vue3 搭建的 ChartGPT 演示网页
-*   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，GPT4接口官方只是在申请阶段，后期会一点一点的将OpenAI接口进行接入大家支持一下，微信群号在下方，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
-*   [xpf0000/PhpWebStudy](https://github.com/xpf0000/PhpWebStudy) - Php and Web development environment manage tool for MacOS system, the better way to manage your local web server
-*   [dskvr/nostr-watch](https://github.com/dskvr/nostr-watch) - nostr registry and monitor web-client
-*   [ischenliang/quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed) - 轻快图床：使用koa + vue3.x + typescript全家桶实现的在线图床系统，支持在线存储桶插件开发，目前支持腾讯云COS、又拍云Upyun、阿里云OSS、github图床、gitee图床、本地存储桶、七牛云 KODO等在线图床存储桶。市面上最火的图床系统是picgo，但由于picgo是桌面应用程序，换了新电脑需要重新下载安装配置，十分麻烦，为了解决该问题，故诞生了这款系统。支持ChatGPT功能演示。
-*   [lagrangedao/website-frontend](https://github.com/lagrangedao/website-frontend) - Frontend of Lagrange DAO
-*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
-*   [meterscao/Speechless](https://github.com/meterscao/Speechless) - 把新浪微博的内容，导出成 PDF 文件进行备份的 Chrome Extension。
-*   [element-plus/element-plus-vite-starter](https://github.com/element-plus/element-plus-vite-starter) - 🌰 A starter kit for Element Plus with Vite
-*   [kailong321200875/vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin) - A set of background integration scheme based on vue3, element-plus, typescript4 and vite4
-*   [ztalab/ZAPortal](https://github.com/ztalab/ZAPortal) - The zero-trust management platform provides users with a control interface with low thresholds.
-*   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
-*   [wenlng/go-captcha-vue](https://github.com/wenlng/go-captcha-vue) - Vue example of go-captcha
-*   [inoutcode/ethereum\_book](https://github.com/inoutcode/ethereum_book) - 精通以太坊 （中文版）
-*   [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
-*   [eclipsesource/jsonforms-vue-seed](https://github.com/eclipsesource/jsonforms-vue-seed) - Vue 3 and Vue 2 seed for JSON Forms
-*   [apache/skywalking-rocketbot-ui](https://github.com/apache/skywalking-rocketbot-ui) - SkyWalking RocketBot UI
-*   [netease-im/NIM\_Web\_Demo\_H5](https://github.com/netease-im/NIM_Web_Demo_H5) - 网易云信Web Demo Html5 移动端适配。【推荐客户得京东卡，首次推荐成单得1500元京东卡，连续推荐2000元/单，上不封顶。】点击参与https://yunxin.163.com/promotion/recommend
-*   [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
-*   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
-*   [jecovier/vue-json-excel](https://github.com/jecovier/vue-json-excel) -
-*   [dcloudio/hello-uniapp](https://github.com/dcloudio/hello-uniapp) - uni-app框架演示示例
-*   [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
-*   [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
-*   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-*   [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
-*   [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
-*   [museui/muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
 
 ## Go
 
