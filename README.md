@@ -63,6 +63,7 @@
 
 ## TypeScript
 
+*   [ReadSomething/ReadSomething](https://github.com/ReadSomething/ReadSomething) - A browser plugin to assist reading, using AI capabilities to enhance reading efficiency.
 *   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 *   [M-cheng-web/web-tracing](https://github.com/M-cheng-web/web-tracing) - 前端 - 埋点, 性能采集, 异常采集, 请求采集, 路由采集
 *   [sambauers/tailwindcss-3d](https://github.com/sambauers/tailwindcss-3d) - Add 3D transforms to your TailwindCSS project
@@ -1407,7 +1408,6 @@
 *   [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 *   [FreedomBen/rtl8188ce-linux-driver](https://github.com/FreedomBen/rtl8188ce-linux-driver) - This modified version of the RealTek WiFi driver fixes some issues with RealTek cards on Linux.
 *   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-*   [lyfeyaj/sublime-text-imfix](https://github.com/lyfeyaj/sublime-text-imfix) - Fix Sublime Text 3 Input method problem (CJK words) under Ubuntu
 
 ## Gherkin
 
