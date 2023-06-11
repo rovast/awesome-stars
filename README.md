@@ -640,7 +640,7 @@
 
 ## Python
 
-*   [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
+*   [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
 *   [bytedance/Jeddak-DPSQL](https://github.com/bytedance/Jeddak-DPSQL) - DPSQL (Privacy Protection SQL Query Service) - This project is a microservice Middleware located between the database engine ( Hive , Clickhouse , etc.) and the application system. It provides transparent SQL query result desensitization capabilities.
 *   [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
