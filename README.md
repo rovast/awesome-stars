@@ -474,7 +474,7 @@
 *   [apollocn/phalcon-swoole](https://github.com/apollocn/phalcon-swoole) - php
 *   [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 *   [nauxliu/auto-correct](https://github.com/nauxliu/auto-correct) - 自动给中英文之间加入合理的空格并纠正专用名词大小写
-*   [D13r/laravel-breadcrumbs](https://github.com/D13r/laravel-breadcrumbs) - Please see the Diglactic fork.
+*   [d13r/laravel-breadcrumbs](https://github.com/d13r/laravel-breadcrumbs) - Please see the Diglactic fork.
 *   [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel 4|5|6|7|8|9|10
 *   [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 *   [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application
