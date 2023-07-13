@@ -58,13 +58,13 @@
 *   [QML](#qml)
 *   [Less](#less)
 *   [Blade](#blade)
-*   [Lua](#lua)
 *   [Rich Text Format](#rich-text-format)
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
 
 ## JavaScript
 
+*   [ethereum/solidity-website](https://github.com/ethereum/solidity-website) -
 *   [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 *   [liaoanran/timeline-canvas](https://github.com/liaoanran/timeline-canvas) - 使用canvas写的时间轴插件，可以实现拖动、点击返回时间点、增加录像块、放大缩小等功能
 *   [Blocks-Editor/blocks](https://github.com/Blocks-Editor/blocks) - Blocks. An online drag-and-drop smart contract builder.
@@ -831,6 +831,7 @@
 *   [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 *   [grab/talaria](https://github.com/grab/talaria) - TalariaDB is a distributed, highly available, and low latency time-series database for Presto
 *   [fenixsoft/fenix-cli](https://github.com/fenixsoft/fenix-cli) - Interactive Cloud-Native Environment Client
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 *   [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 *   [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 *   [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
@@ -1132,7 +1133,6 @@
 *   [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
 *   [actuallymab/laravel-comment](https://github.com/actuallymab/laravel-comment) - Just another comment system for your awesome Laravel project.
 *   [etrepat/baum](https://github.com/etrepat/baum) - Baum is an implementation of the Nested Set pattern for Laravel's Eloquent ORM.
-*   [laracasts/flash](https://github.com/laracasts/flash) - Easy flash notifications
 
 ## Rust
 
@@ -1198,7 +1198,6 @@
 *   [cx9208/Linux-NetSpeed](https://github.com/cx9208/Linux-NetSpeed) - 将Linux现常用的网络加速集成在一起
 *   [yyqian/csapp-labs](https://github.com/yyqian/csapp-labs) - Labs for self-study: Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)
 *   [rovast/makefile-tutorial](https://github.com/rovast/makefile-tutorial) - makefile tourial
-*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 *   [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 *   [SkyAPM/SkyAPM-php-sdk](https://github.com/SkyAPM/SkyAPM-php-sdk) - Replaced by https://github.com/apache/skywalking-php
 *   [akimd/bison](https://github.com/akimd/bison) - GNU Bison
@@ -1398,7 +1397,7 @@
 *   [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 *   [elunez/eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 *   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
-*   [awslabs/smithy](https://github.com/awslabs/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
+*   [smithy-lang/smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
 *   [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
 *   [polarismesh/femas](https://github.com/polarismesh/femas) - Cloud native multi-runtime microservice framework
 *   [PigZhuJ/cs61b\_sp19](https://github.com/PigZhuJ/cs61b_sp19) - Data Structures
@@ -1596,6 +1595,7 @@
 *   [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 *   [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 *   [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
+*   [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 *   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 *   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
@@ -1619,10 +1619,6 @@
 ## Blade
 
 *   [ckfinder/ckfinder-laravel-package](https://github.com/ckfinder/ckfinder-laravel-package) - CKFinder 3 package for Laravel
-
-## Lua
-
-*   [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 
 ## Rich Text Format
 
