@@ -1127,7 +1127,7 @@
 *   [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - :calling: 一款满足你的多种发送需求的短信发送组件
 *   [jenssegers/agent](https://github.com/jenssegers/agent) - 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
 *   [overtrue/laravel-wechat](https://github.com/overtrue/laravel-wechat) - 微信 SDK for Laravel, 基于 overtrue/wechat
-*   [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5/6/7/8/9
+*   [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5/6/7/8/9/10
 *   [Germey/LaravelGeetest](https://github.com/Germey/LaravelGeetest) - Geetest Package for Laravel5
 *   [greggilbert/recaptcha](https://github.com/greggilbert/recaptcha) - \[ABANDONED] reCAPTCHA Validator for Laravel 5
 *   [jcc/blog](https://github.com/jcc/blog) - :star2: PJ Blog is an open source blog built with Laravel and Vue.js.
