@@ -472,7 +472,7 @@
 *   [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor #StandWithUkraine
 *   [dfinity/motoko-playground](https://github.com/dfinity/motoko-playground) - Motoko playground
 *   [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
-*   [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 *   [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 *   [chaitin/safeline](https://github.com/chaitin/safeline) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 *   [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design
@@ -550,7 +550,7 @@
 *   [zheeeng/export-from-json](https://github.com/zheeeng/export-from-json) - Export to plain text, css, html, json, csv, xls, xml files from JSON.
 *   [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 *   [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
-*   [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. \[✩Star] if you support our work!
+*   [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 *   [realsee-developer/dnalogel](https://github.com/realsee-developer/dnalogel) - dnalogel 是如视三维空间增强插件库，为三维空间提供强有力辅助，增强空间数字表达能力，强化空间视觉体验效果。打破三维空间壁垒，创造数字空间的无限可能。
 *   [cardinalby/webext-buildtools-pack-extension-dir-action](https://github.com/cardinalby/webext-buildtools-pack-extension-dir-action) - Reads manifest and packs WebExtension dir to zip
 *   [cardinalby/webext-buildtools-chrome-crx-action](https://github.com/cardinalby/webext-buildtools-chrome-crx-action) - Github Action to pack and sign crx file for your WebExtension
@@ -1159,7 +1159,7 @@
 *   [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 *   [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
 *   [apache/skywalking-php](https://github.com/apache/skywalking-php) - Apache SkyWalking PHP Agent
-*   [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - Project homepage. wasmCloud allows for simple, secure, distributed application development using WebAssembly actors and capability providers.
+*   [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud allows for simple, secure, distributed application development using WebAssembly actors and capability providers.
 *   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<\<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
 *   [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 *   [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
