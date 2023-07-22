@@ -488,7 +488,7 @@
 *   [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 *   [ReadSomething/ReadSomething](https://github.com/ReadSomething/ReadSomething) - 📖 一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Markdown 转换等功能。
 *   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-*   [M-cheng-web/web-tracing](https://github.com/M-cheng-web/web-tracing) - 前端 - 埋点, 性能采集, 异常采集, 请求采集, 路由采集
+*   [M-cheng-web/web-tracing](https://github.com/M-cheng-web/web-tracing) - 基于 JS 跨平台插件，为前端项目提供【 行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段
 *   [sambauers/tailwindcss-3d](https://github.com/sambauers/tailwindcss-3d) - Add 3D transforms to your TailwindCSS project
 *   [Akryum/floating-vue](https://github.com/Akryum/floating-vue) - 💬 Easy tooltips, popovers, dropdown, menus... for Vue
 *   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
