@@ -999,6 +999,8 @@
 *   [ganeshmax/jcarousellite](https://github.com/ganeshmax/jcarousellite) - jCarousel Lite is a jQuery plugin that carries you on a carousel ride filled with images and HTML content. Put simply, you can navigate images and/or HTML in a carousel-style widget.
 *   [longbill/jquery-date-range-picker](https://github.com/longbill/jquery-date-range-picker) - A jQuery plugin that allows user to select a date range
 *   [bendc/animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web
+*   [brackets-beautify/brackets-beautify](https://github.com/brackets-beautify/brackets-beautify) - Beautify HTML, CSS, and Javascript in Adobe Brackets
+*   [geekcompany/DeerResume](https://github.com/geekcompany/DeerResume) - MarkDown在线简历工具，可在线预览、编辑和生成PDF。\[此项目已不再维护，建议使用 cv.ftqq.com 替代 ]
 
 ## CoffeeScript
 
@@ -1221,8 +1223,6 @@
 *   [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application
 *   [z-song/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes
 *   [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - IDE Helper for Laravel
-*   [oomusou/Laravel51ServiceMultiRepository\_demo](https://github.com/oomusou/Laravel51ServiceMultiRepository_demo) -
-*   [oomusou/Laravel51ServiceExternal\_demo](https://github.com/oomusou/Laravel51ServiceExternal_demo) -
 *   [zedisdog/laravel-schema-extend](https://github.com/zedisdog/laravel-schema-extend) - supplement for eloquent migration
 *   [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) - An easy-to-use PHP QrCode generator with first-party support for Laravel.
 *   [amzn/amazon-advertising-api-php-sdk](https://github.com/amzn/amazon-advertising-api-php-sdk) - ⛔️ DEPRECATED - Amazon Advertising API PHP Client Library
