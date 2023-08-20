@@ -1688,7 +1688,6 @@
 *   [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar\_board: All things Vim!
 *   [rovast/oh-my-deepin](https://github.com/rovast/oh-my-deepin) - 深度操作系统（Deepin Linux）的常用配置
 *   [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
-*   [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 
 ## Vim Script
 
@@ -1702,6 +1701,7 @@
 *   [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 *   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 *   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+*   [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 
 ## Handlebars
 
