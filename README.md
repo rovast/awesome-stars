@@ -1694,7 +1694,7 @@
 *   [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 *   [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
 *   [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
-*   [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+*   [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 *   [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 *   [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 *   [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
