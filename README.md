@@ -321,6 +321,7 @@
 *   [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 *   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 *   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
+*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
 *   [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 *   [grpc/grpc.io](https://github.com/grpc/grpc.io) - Repository for the gRPC website and documentation
 *   [fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
@@ -497,7 +498,6 @@
 *   [kubesphere/console](https://github.com/kubesphere/console) - KubeSphere Console is the web-based UI for KubeSphere clusters.
 *   [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 *   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
-*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
 *   [sma11black/hexo-action](https://github.com/sma11black/hexo-action) - Hexo CI/CD Action for automating deployment.
 *   [sunoj/jjb](https://github.com/sunoj/jjb) - 一个帮助你自动申请京东价格保护的chrome拓展
 *   [yidinghan/daily-signin](https://github.com/yidinghan/daily-signin) - 网站签到脚本
@@ -645,6 +645,7 @@
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 *   [EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10) - How to train a TensorFlow Object Detection Classifier for multiple object detection on Windows
 *   [HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source data labeling tool for images, text, hypertext, audio, video and time-series data.
+*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 *   [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 *   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
 *   [crytic/ethersplay](https://github.com/crytic/ethersplay) - EVM dissassembler
@@ -1491,7 +1492,6 @@
 *   [Hvass-Labs/TensorFlow-Tutorials-Chinese](https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese) - TensorFlow 中文教程 (Chinese Tutorials)
 *   [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 *   [datitran/raccoon\_dataset](https://github.com/datitran/raccoon_dataset) - The dataset is used to train my own raccoon detector and I blogged about it on Medium
-*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 *   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 *   [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
