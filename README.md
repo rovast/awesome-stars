@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -12,7 +13,6 @@
 *   [C](#c)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
-*   [HTML](#html)
 *   [Vue](#vue)
 *   [PHP](#php)
 *   [CSS](#css)
@@ -63,6 +63,58 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Astro](#astro)
 *   [Clojure](#clojure)
+
+## HTML
+
+*   [gfxfundamentals/webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals) - WebGL lessons that start with the basics
+*   [phil-opp/blog\_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
+*   [pengzhile/pandora-cloud](https://github.com/pengzhile/pandora-cloud) - A package for Pandora-ChatGPT
+*   [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
+*   [pengan1987/computer-museum-dnbwg](https://github.com/pengan1987/computer-museum-dnbwg) - 电脑博物馆 - compumuseum.com
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+*   [duanbiaowu/go-examples-for-beginners](https://github.com/duanbiaowu/go-examples-for-beginners) - Getting Started Go
+*   [stc-community/CloudX3](https://github.com/stc-community/CloudX3) - The CloudX DePIN system provides a brand-new cloud computing platform that can help Web2 applications quickly realize decentralization and Web3ization, and provide higher security, credibility and scalability.
+*   [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components
+*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+*   [aisuda/amis-admin](https://github.com/aisuda/amis-admin) - 基于 amis 的后台项目前端模板
+*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
+*   [cloudflare/worker-sites-template](https://github.com/cloudflare/worker-sites-template) -
+*   [wasmCloud/project-templates](https://github.com/wasmCloud/project-templates) - wasmCloud project templates - use with 'wash new'
+*   [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
+*   [momo0853/kkndme](https://github.com/momo0853/kkndme) - kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。
+*   [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
+*   [viniciussilva-s/earth\_miniature](https://github.com/viniciussilva-s/earth_miniature) - Projeto em Css, html e MiniatureJS
+*   [xswei/d3js\_doc](https://github.com/xswei/d3js_doc) - D3js中文文档  D3中文 :bar\_chart: :chart\_with\_upwards\_trend: :tada:
+*   [forrestchang/readbuidl](https://github.com/forrestchang/readbuidl) -
+*   [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
+*   [WICG/page-lifecycle](https://github.com/WICG/page-lifecycle) - Lifecycle API to support system initiated discarding and freezing
+*   [whatwg/html](https://github.com/whatwg/html) - HTML Standard
+*   [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
+*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+*   [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
+*   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+*   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
+*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
+*   [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
+*   [grpc/grpc.io](https://github.com/grpc/grpc.io) - Repository for the gRPC website and documentation
+*   [fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
+*   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
+*   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+*   [sologgfun/drinkNow](https://github.com/sologgfun/drinkNow) -
+*   [tobiashochguertel/c4-draw.io](https://github.com/tobiashochguertel/c4-draw.io) - C4 Modelling little bit easier
+*   [xiaoymin/knife4j](https://github.com/xiaoymin/knife4j) - Knife4j is a set of Swagger2 and OpenAPI3 All-in-one enhancement solution
+*   [rovast/php-frameworks-benchmark](https://github.com/rovast/php-frameworks-benchmark) - php 主流框架的压力测试
+*   [reeze/tipi](https://github.com/reeze/tipi) - Thinking In PHP Internals, An open book on PHP Internals
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+*   [lifesinger/blog](https://github.com/lifesinger/blog) - 岁月如歌
+*   [HADB/GetWeixinCode](https://github.com/HADB/GetWeixinCode) - 解决微信OAuth2.0网页授权只能设置一个回调域名的问题
+*   [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
+*   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
+*   [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
+*   [daylerees/colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
 
 ## Python
 
@@ -573,7 +625,7 @@
 *   [Edgenesis/shifu](https://github.com/Edgenesis/shifu) - Kubernetes-native Industrial Edge
 *   [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - @IceFireLabs -> IceFireDB is a database built for web3.0 It strives to fill the gap between web2 and web3.0 with a friendly database experience, making web3 application data storage more convenient, and making it easier for web2 applications to achieve decentralization and data immutability.
 *   [michaelsauter/crane](https://github.com/michaelsauter/crane) - Crane - Lift containers with ease
-*   [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
+*   [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 *   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
 *   [frain-dev/convoy](https://github.com/frain-dev/convoy) - Open Source Webhooks Gateway; For both incoming & outgoing events.
 *   [ZTDBP/ZAManager](https://github.com/ZTDBP/ZAManager) - ZAManager is the controller of ZASentinel
@@ -686,7 +738,6 @@
 *   [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework focusing on RPC scenarios.
 *   [shadowsocks/v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
 *   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-*   [gitsrc/httpt](https://github.com/gitsrc/httpt) - A probe resistant proxy
 *   [caddyserver/forwardproxy](https://github.com/caddyserver/forwardproxy) - Forward proxy plugin for the Caddy web server
 *   [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 *   [grab/talaria](https://github.com/grab/talaria) - TalariaDB is a distributed, highly available, and low latency time-series database for Presto
@@ -1086,57 +1137,6 @@
 *   [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 *   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-
-## HTML
-
-*   [phil-opp/blog\_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-*   [pengzhile/pandora-cloud](https://github.com/pengzhile/pandora-cloud) - A package for Pandora-ChatGPT
-*   [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
-*   [pengan1987/computer-museum-dnbwg](https://github.com/pengan1987/computer-museum-dnbwg) - 电脑博物馆 - compumuseum.com
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-*   [duanbiaowu/go-examples-for-beginners](https://github.com/duanbiaowu/go-examples-for-beginners) - Getting Started Go
-*   [stc-community/CloudX3](https://github.com/stc-community/CloudX3) - The CloudX DePIN system provides a brand-new cloud computing platform that can help Web2 applications quickly realize decentralization and Web3ization, and provide higher security, credibility and scalability.
-*   [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components
-*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-*   [aisuda/amis-admin](https://github.com/aisuda/amis-admin) - 基于 amis 的后台项目前端模板
-*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
-*   [cloudflare/worker-sites-template](https://github.com/cloudflare/worker-sites-template) -
-*   [wasmCloud/project-templates](https://github.com/wasmCloud/project-templates) - wasmCloud project templates - use with 'wash new'
-*   [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
-*   [momo0853/kkndme](https://github.com/momo0853/kkndme) - kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。
-*   [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
-*   [viniciussilva-s/earth\_miniature](https://github.com/viniciussilva-s/earth_miniature) - Projeto em Css, html e MiniatureJS
-*   [xswei/d3js\_doc](https://github.com/xswei/d3js_doc) - D3js中文文档  D3中文 :bar\_chart: :chart\_with\_upwards\_trend: :tada:
-*   [forrestchang/readbuidl](https://github.com/forrestchang/readbuidl) -
-*   [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
-*   [WICG/page-lifecycle](https://github.com/WICG/page-lifecycle) - Lifecycle API to support system initiated discarding and freezing
-*   [whatwg/html](https://github.com/whatwg/html) - HTML Standard
-*   [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
-*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-*   [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
-*   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-*   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
-*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
-*   [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
-*   [grpc/grpc.io](https://github.com/grpc/grpc.io) - Repository for the gRPC website and documentation
-*   [fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
-*   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
-*   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
-*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-*   [sologgfun/drinkNow](https://github.com/sologgfun/drinkNow) -
-*   [tobiashochguertel/c4-draw.io](https://github.com/tobiashochguertel/c4-draw.io) - C4 Modelling little bit easier
-*   [xiaoymin/knife4j](https://github.com/xiaoymin/knife4j) - Knife4j is a set of Swagger2 and OpenAPI3 All-in-one enhancement solution
-*   [rovast/php-frameworks-benchmark](https://github.com/rovast/php-frameworks-benchmark) - php 主流框架的压力测试
-*   [reeze/tipi](https://github.com/reeze/tipi) - Thinking In PHP Internals, An open book on PHP Internals
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-*   [lifesinger/blog](https://github.com/lifesinger/blog) - 岁月如歌
-*   [HADB/GetWeixinCode](https://github.com/HADB/GetWeixinCode) - 解决微信OAuth2.0网页授权只能设置一个回调域名的问题
-*   [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
-*   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
-*   [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
-*   [daylerees/colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
 
 ## Vue
 
