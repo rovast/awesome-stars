@@ -266,7 +266,7 @@
 *   [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 *   [EYHN/hexo-helper-live2d](https://github.com/EYHN/hexo-helper-live2d) - Add the Sseexxyyy live2d to your hexo!
 *   [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-*   [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
+*   [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
 *   [zq99299/gitbook-plugin-anchor-navigation-ex](https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex) - Supports two navigation mode, title, anchor effect is the default theme, style, follow the website
 *   [GitbookIO/plugin-hints](https://github.com/GitbookIO/plugin-hints) - GitBook plugin. Defines 4 types of styled hint blocks: info, danger, tip, working
 *   [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli) - 🖌 docsify cli tool - A magical documentation generator.
