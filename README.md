@@ -38,7 +38,6 @@
 *   [CartoCSS](#cartocss)
 *   [Kotlin](#kotlin)
 *   [Smarty](#smarty)
-*   [Makefile](#makefile)
 *   [HCL](#hcl)
 *   [Dockerfile](#dockerfile)
 *   [Elixir](#elixir)
@@ -50,6 +49,7 @@
 *   [Perl](#perl)
 *   [SCSS](#scss)
 *   [R](#r)
+*   [Makefile](#makefile)
 *   [Starlark](#starlark)
 *   [WebAssembly](#webassembly)
 *   [Vim script](#vim-script)
@@ -949,6 +949,7 @@
 *   [zxh0/wasmgo-book](https://github.com/zxh0/wasmgo-book) - 《WebAssembly原理与核心技术》随书源代码
 *   [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) -
 *   [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
+*   [hashicorp/http-echo](https://github.com/hashicorp/http-echo) - A tiny go web server that echos what you start it with!
 *   [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 *   [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 *   [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
@@ -1605,14 +1606,6 @@
 *   [Taction/wasmcloud-nomad-pack](https://github.com/Taction/wasmcloud-nomad-pack) -
 *   [apache/skywalking-helm](https://github.com/apache/skywalking-helm) - Apache SkyWalking Kubernetes Deployment Helm Chart
 
-## Makefile
-
-*   [hashicorp/http-echo](https://github.com/hashicorp/http-echo) - A tiny go web server that echos what you start it with!
-*   [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance) - Standardizing Service Mesh Value Measurement
-*   [servicemeshinterface/smi-spec](https://github.com/servicemeshinterface/smi-spec) - Service Mesh Interface
-*   [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
-*   [tumregels/Network-Programming-with-Go](https://github.com/tumregels/Network-Programming-with-Go) - Network programming with Go
-
 ## HCL
 
 *   [hashicorp/learn-nomad-cluster-setup](https://github.com/hashicorp/learn-nomad-cluster-setup) - Companion repo for the HashiCorp tutorial collection on Nomad cluster setup
@@ -1674,6 +1667,13 @@
 ## R
 
 *   [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R
+
+## Makefile
+
+*   [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance) - Standardizing Service Mesh Value Measurement
+*   [servicemeshinterface/smi-spec](https://github.com/servicemeshinterface/smi-spec) - Service Mesh Interface
+*   [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
+*   [tumregels/Network-Programming-with-Go](https://github.com/tumregels/Network-Programming-with-Go) - Network programming with Go
 
 ## Starlark
 
