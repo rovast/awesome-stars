@@ -385,7 +385,7 @@
 
 ## TypeScript
 
-*   [yesmore/inke](https://github.com/yesmore/inke) - A markdown-like web editor with AI-powered, store data locally.
+*   [yesmore/inke](https://github.com/yesmore/inke) - 📖 A markdown-like web editor with AI-powered, store data locally.
 *   [tsndr/cloudflare-worker-jwt](https://github.com/tsndr/cloudflare-worker-jwt) - A lightweight JWT implementation with ZERO dependencies for Cloudflare Workers.
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 *   [wuba/Picasso](https://github.com/wuba/Picasso) - 一款UI自动生成代码插件，提供UI自动生成代码全流程解决方案。
