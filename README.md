@@ -201,7 +201,6 @@
 *   [vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
 *   [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 *   [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
-*   [koderover/zadig-portal](https://github.com/koderover/zadig-portal) - The zadig web component
 *   [chaijs/chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 *   [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
 *   [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源客服系统
@@ -531,6 +530,7 @@
 *   [jplhomer/laravel-realtime-chat-demo](https://github.com/jplhomer/laravel-realtime-chat-demo) - Realtime chat demo using Laravel 5.4, VueJS and Pusher
 *   [Zizaco/entrust](https://github.com/Zizaco/entrust) - Role-based Permissions for Laravel 5
 *   [overtrue/socialite](https://github.com/overtrue/socialite) - Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
+*   [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
 ## Shell
 
