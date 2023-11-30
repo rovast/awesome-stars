@@ -234,7 +234,7 @@
 *   [nodejscn/node-api-cn](https://github.com/nodejscn/node-api-cn) - Node.js API 中文文档
 *   [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 *   [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
-*   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+*   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 *   [d3/d3-scale-chromatic](https://github.com/d3/d3-scale-chromatic) - Sequential, diverging and categorical color scales.
 *   [SkyAPMTest/skywalking-client-test](https://github.com/SkyAPMTest/skywalking-client-test) - skywalking-client-js test demo
 *   [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
@@ -693,7 +693,7 @@
 *   [lizhiyao/sentry-miniapp](https://github.com/lizhiyao/sentry-miniapp) - Sentry 小程序/小游戏 SDK：用于小程序/小游戏平台的 Sentry SDK（目前支持微信、字节跳动、支付宝、钉钉、QQ、百度小程序，微信、QQ 小游戏）
 *   [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description) - A GitHub action to update a Docker Hub repository description from README.md
 *   [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-*   [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
+*   [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 *   [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 *   [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 *   [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
