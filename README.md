@@ -66,6 +66,7 @@
 
 ## TypeScript
 
+*   [hujiulong/gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具
 *   [netease-kit/Kit-FullSearch-Electron](https://github.com/netease-kit/Kit-FullSearch-Electron) -
 *   [netease-kit/nim-uikit-web](https://github.com/netease-kit/nim-uikit-web) - nim uikit  web
 *   [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
@@ -1524,7 +1525,6 @@
 *   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 *   [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 *   [shadowsocks/shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) - A cross-platform shadowsocks GUI client
-*   [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
 
 ## Jupyter Notebook
 
