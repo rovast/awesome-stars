@@ -66,6 +66,8 @@
 
 ## TypeScript
 
+*   [ethanleeX/MyTiktok](https://github.com/ethanleeX/MyTiktok) -
+*   [matheuscastroweb/tiktok-clone](https://github.com/matheuscastroweb/tiktok-clone) - Clone of the TikTok app layout with React Native
 *   [hujiulong/gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具
 *   [netease-kit/Kit-FullSearch-Electron](https://github.com/netease-kit/Kit-FullSearch-Electron) -
 *   [netease-kit/nim-uikit-web](https://github.com/netease-kit/nim-uikit-web) - nim uikit  web
@@ -144,7 +146,6 @@
 *   [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 *   [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
 *   [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
-*   [ttu-ttu/ebook-reader](https://github.com/ttu-ttu/ebook-reader) - Online e-book reader that supports Yomichan
 *   [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 *   [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 *   [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
@@ -551,8 +552,6 @@
 *   [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 *   [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications
 *   [laravel-mix/laravel-mix](https://github.com/laravel-mix/laravel-mix) - The power of webpack, distilled for the rest of us.
-*   [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-*   [ruanyf/webpack-demos](https://github.com/ruanyf/webpack-demos) - a collection of simple demos of Webpack
 
 ## Objective-C
 
@@ -1566,6 +1565,7 @@
 
 *   [erskingardner/nostr-how](https://github.com/erskingardner/nostr-how) -
 *   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+*   [ttu-ttu/ebook-reader](https://github.com/ttu-ttu/ebook-reader) - Online e-book reader that supports Yomichan
 
 ## Solidity
 
