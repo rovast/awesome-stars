@@ -390,7 +390,7 @@
 *   [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
 *   [dfinity/motoko-playground](https://github.com/dfinity/motoko-playground) - Motoko playground
 *   [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 *   [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 *   [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design
 *   [arco-design/arco-design-vue](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library based on Arco Design
@@ -1514,7 +1514,7 @@
 *   [chenshuo/muduo](https://github.com/chenshuo/muduo) - Event-driven network library for multi-threaded Linux server in C++11
 *   [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 *   [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
-*   [matyhtf/phpx](https://github.com/matyhtf/phpx) - 💗 C++ wrapper for Zend API
+*   [swoole/phpx](https://github.com/swoole/phpx) - 💗 C++ wrapper for Zend API
 *   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 *   [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 *   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
