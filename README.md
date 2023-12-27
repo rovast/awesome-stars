@@ -165,7 +165,7 @@
 *   [berwin/easy-to-understand-Vue.js-examples](https://github.com/berwin/easy-to-understand-Vue.js-examples) - 《深入浅出Vue.js》的相关代码
 *   [antfu/wenyan-lang](https://github.com/antfu/wenyan-lang) - 文言文編程語言 A programming language for the ancient Chinese.
 *   [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-*   [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+*   [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 *   [Agezao/confetti-js](https://github.com/Agezao/confetti-js) - Easily Generate random confetti for your above-the-fold content
 *   [web3-storage/web3.storage](https://github.com/web3-storage/web3.storage) - ⁂ The simple file storage service for IPFS & Filecoin
 *   [CryptozombiesHQ/cryptozombies-lesson-code](https://github.com/CryptozombiesHQ/cryptozombies-lesson-code) - cryptozomebie lesson code
@@ -966,7 +966,7 @@
 *   [ZTDBP/ZAPortal](https://github.com/ZTDBP/ZAPortal) -
 *   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 *   [binjie09/chatgpt-web](https://github.com/binjie09/chatgpt-web) - 使用 express 和 vue3 搭建的 ChartGPT 演示网页
-*   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，GPT4接口官方只是在申请阶段，后期会一点一点的将OpenAI接口进行接入大家支持一下，微信群号在下方，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
+*   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
 *   [xpf0000/PhpWebStudy](https://github.com/xpf0000/PhpWebStudy) - Php and Web development environment manage tool for MacOS system, the better way to manage your local web server
 *   [ischenliang/quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed) - 轻快图床：使用koa + vue3.x + typescript全家桶实现的在线图床系统，支持在线存储桶插件开发，目前支持腾讯云COS、又拍云Upyun、阿里云OSS、github图床、gitee图床、本地存储桶、七牛云 KODO等在线图床存储桶。市面上最火的图床系统是picgo，但由于picgo是桌面应用程序，换了新电脑需要重新下载安装配置，十分麻烦，为了解决该问题，故诞生了这款系统。支持ChatGPT功能演示。
 *   [lagrangedao/website-frontend](https://github.com/lagrangedao/website-frontend) - Frontend of Lagrange DAO
