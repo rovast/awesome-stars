@@ -327,7 +327,7 @@
 *   [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 *   [yesmore/inke](https://github.com/yesmore/inke) - 📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。
 *   [tsndr/cloudflare-worker-jwt](https://github.com/tsndr/cloudflare-worker-jwt) - A lightweight JWT implementation with ZERO dependencies for Cloudflare Workers.
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
 *   [wuba/Picasso](https://github.com/wuba/Picasso) - 一款UI自动生成代码插件，提供UI自动生成代码全流程解决方案。
 *   [LokerL/tts-vue](https://github.com/LokerL/tts-vue) - 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。
 *   [Murphy-hub/hello](https://github.com/Murphy-hub/hello) -
