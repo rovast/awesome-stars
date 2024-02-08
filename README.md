@@ -66,7 +66,7 @@
 
 ## JavaScript
 
-*   [lencx/Noi](https://github.com/lencx/Noi) - 🦄 AI + Tools + Plugins + Community
+*   [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 *   [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
 *   [nklayman/vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Easily Build Your Vue.js App For Desktop With Electron
 *   [netease-kit/NIM\_Web\_Demo](https://github.com/netease-kit/NIM_Web_Demo) - 网易云信Web Demo发布仓库。#推荐客户得京东卡#首次推荐成单得3000元京东卡,连续推荐4500元/单,上不封顶。点击参与https://yunxin.163.com/promotion/recommend
