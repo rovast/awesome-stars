@@ -273,7 +273,7 @@
 *   [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 *   [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 *   [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
-*   [sutandojs/sutando](https://github.com/sutandojs/sutando) - Sutando is a modern Node.js ORM, like Laravel's ORM Eloquent. supports MySQL, PostgreSQL, SQLite, MSSQL.
+*   [sutandojs/sutando](https://github.com/sutandojs/sutando) - Sutando is a modern Node.js ORM, like Laravel Eloquent.
 *   [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 *   [braid-org/braidjs](https://github.com/braid-org/braidjs) - Monorepo for Braid Projects in Javascript
 *   [fanmingming/live](https://github.com/fanmingming/live) - ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
@@ -654,7 +654,7 @@
 *   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 *   [github/release-radar](https://github.com/github/release-radar) - Repo for submission of projects to consider for the GitHub Release Radar 📡
 *   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
-*   [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
+*   [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 *   [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 *   [filecoin-project/community](https://github.com/filecoin-project/community) - Filecoin community and ecosystem channels, discussion forums, and more
 *   [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
@@ -970,7 +970,7 @@
 *   [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 *   [nauxliu/auto-correct](https://github.com/nauxliu/auto-correct) - 自动给中英文之间加入合理的空格并纠正专用名词大小写
 *   [d13r/laravel-breadcrumbs](https://github.com/d13r/laravel-breadcrumbs) - Please see the Diglactic fork.
-*   [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel 4|5|6|7|8|9|10|11
+*   [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel
 *   [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 *   [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application
 *   [z-song/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes
