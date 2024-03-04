@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
@@ -25,7 +26,6 @@
 *   [Objective-C++](#objective-c-1)
 *   [Zig](#zig)
 *   [C++](#c-1)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [MDX](#mdx)
 *   [Ruby](#ruby)
 *   [Markdown](#markdown)
@@ -63,6 +63,16 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Astro](#astro)
 *   [Clojure](#clojure)
+
+## Jupyter Notebook
+
+*   [zhongqiangwu960812/AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem) - 该仓库尝试整理推荐系统领域的一些经典算法模型
+*   [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) - \[🔥updating ...] AI 自动量化交易机器人 AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant
+*   [Hvass-Labs/TensorFlow-Tutorials-Chinese](https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese) - TensorFlow 中文教程 (Chinese Tutorials)
+*   [datitran/raccoon\_dataset](https://github.com/datitran/raccoon_dataset) - The dataset is used to train my own raccoon detector and I blogged about it on Medium
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+*   [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
+*   [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 
 ## TypeScript
 
@@ -250,6 +260,7 @@
 *   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 *   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 *   [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 *   [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 *   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 *   [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
@@ -505,7 +516,6 @@
 *   [perftools/xhgui](https://github.com/perftools/xhgui) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 *   [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love\_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 *   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 *   [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 *   [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 *   [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
@@ -565,7 +575,7 @@
 *   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 *   [binjie09/chatgpt-web](https://github.com/binjie09/chatgpt-web) - 使用 express 和 vue3 搭建的 ChartGPT 演示网页
 *   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
-*   [xpf0000/PhpWebStudy](https://github.com/xpf0000/PhpWebStudy) - Powerful Local Web Server For MacOS
+*   [xpf0000/PhpWebStudy](https://github.com/xpf0000/PhpWebStudy) - Powerful Web and PHP Development Environment for macOS
 *   [lagrangedao/website-frontend](https://github.com/lagrangedao/website-frontend) - Frontend of Lagrange DAO
 *   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 *   [meterscao/Speechless](https://github.com/meterscao/Speechless) - 把新浪微博的内容，导出成 PDF 文件进行备份的 Chrome Extension。
@@ -668,7 +678,7 @@
 *   [jassics/security-study-plan](https://github.com/jassics/security-study-plan) - Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
 *   [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
 *   [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-*   [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
+*   [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS®
 *   [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 *   [infoslack/awesome-unikernels](https://github.com/infoslack/awesome-unikernels) - A list about Unikernels
 *   [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
@@ -1457,7 +1467,6 @@
 
 *   [ppz-pro/mess-reader](https://github.com/ppz-pro/mess-reader) - epub 阅读器
 *   [mzlogin/chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines) - Chinese Copywriting Guidelines：中文文案排版指北（简体中文版）
-*   [soyjavi/QuoJS](https://github.com/soyjavi/QuoJS) - Micro #JavaScript Library for Mobile Devices
 
 ## Dart
 
@@ -1525,15 +1534,6 @@
 *   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 *   [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 *   [shadowsocks/shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) - A cross-platform shadowsocks GUI client
-
-## Jupyter Notebook
-
-*   [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) - \[🔥updating ...] AI 自动量化交易机器人 AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant
-*   [Hvass-Labs/TensorFlow-Tutorials-Chinese](https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese) - TensorFlow 中文教程 (Chinese Tutorials)
-*   [datitran/raccoon\_dataset](https://github.com/datitran/raccoon_dataset) - The dataset is used to train my own raccoon detector and I blogged about it on Medium
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-*   [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
-*   [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 
 ## MDX
 
