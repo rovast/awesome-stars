@@ -74,7 +74,6 @@
 *   [arcane4096/vuexy-admin-template](https://github.com/arcane4096/vuexy-admin-template) - Vuexy Admin Template v9.5.0
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 *   [ZTDBP/ZAPortal](https://github.com/ZTDBP/ZAPortal) -
-*   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 *   [binjie09/chatgpt-web](https://github.com/binjie09/chatgpt-web) - 使用 express 和 vue3 搭建的 ChartGPT 演示网页
 *   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
 *   [xpf0000/PhpWebStudy](https://github.com/xpf0000/PhpWebStudy) - Powerful Web and PHP Development Environment for macOS
@@ -520,6 +519,7 @@
 *   [M-cheng-web/web-tracing](https://github.com/M-cheng-web/web-tracing) - 为前端项目提供【 埋点、行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段
 *   [sambauers/tailwindcss-3d](https://github.com/sambauers/tailwindcss-3d) - Add 3D transforms to your TailwindCSS project
 *   [Akryum/floating-vue](https://github.com/Akryum/floating-vue) - 💬 Easy tooltips, popovers, dropdown, menus... for Vue
+*   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 *   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 *   [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 *   [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
@@ -1150,7 +1150,7 @@
 *   [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 *   [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
 *   [phpmyadmin/docker](https://github.com/phpmyadmin/docker) - Docker container for phpMyAdmin
-*   [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - 🍪 Write gorgeous documentation for your products using Markdown inside your Laravel app.
+*   [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - ✏️ Write and ship beautiful documentation with your Laravel applications using MarkDown
 *   [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 *   [jxlwqq/id-validator](https://github.com/jxlwqq/id-validator) - 中华人民共和国居民身份证、中华人民共和国港澳居民居住证以及中华人民共和国台湾居民居住证号码验证工具（PHP 版）
 *   [overtrue/weather](https://github.com/overtrue/weather) - :rainbow: 基于高德开放平台接口的 PHP 天气信息组件。
