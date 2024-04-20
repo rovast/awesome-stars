@@ -426,7 +426,7 @@
 *   [t4t5/flamingo](https://github.com/t4t5/flamingo) - a Nostr browser extension focused on UX 🦩
 *   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 *   [mistic100/Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer) - A JavaScript library to display 360° sphere panoramas.
-*   [zu1k/bs-core](https://github.com/zu1k/bs-core) -
+*   [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
 *   [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 *   [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 *   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
