@@ -66,6 +66,7 @@
 
 ## TypeScript
 
+*   [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 *   [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue  表单/表格解决方案
 *   [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
 *   [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
@@ -803,7 +804,6 @@
 *   [ruanyf/loppo](https://github.com/ruanyf/loppo) - an extremely easy static site generator of markdown documents
 *   [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 *   [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-*   [vakata/jstree](https://github.com/vakata/jstree) - jquery tree plugin
 
 ## C
 
