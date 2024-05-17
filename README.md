@@ -362,7 +362,7 @@
 ## TypeScript
 
 *   [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
-*   [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - Vxe table 表格组件
+*   [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - Vxe table 的表格组件
 *   [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
 *   [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
 *   [heyform/heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
@@ -1077,7 +1077,7 @@
 *   [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 *   [fiatjaf/relayer](https://github.com/fiatjaf/relayer) - A Nostr relay server framework.
 *   [Lilypad-Tech/lilypad-v0](https://github.com/Lilypad-Tech/lilypad-v0) - A simple and lightweight FVM oracle using Bacalhau
-*   [eryajf/ChatGPT-DingTalk](https://github.com/eryajf/ChatGPT-DingTalk) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
+*   [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
 *   [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 *   [solywsh/chatgpt](https://github.com/solywsh/chatgpt) - chartgpt client for golang（use gpt3）
 *   [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
