@@ -541,6 +541,7 @@
 *   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 *   [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 *   [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
+*   [silverwind/is-cidr](https://github.com/silverwind/is-cidr) - Check if a string is an IP address in CIDR notation
 *   [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 *   [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 *   [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
@@ -776,7 +777,7 @@
 *   [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 *   [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 *   [xyflow/react-flow-docs](https://github.com/xyflow/react-flow-docs) - ⚠️ This repo contains old versions of the React Flow website. The new repo is located at:
-*   [devilwjp/veaury](https://github.com/devilwjp/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible!
+*   [gloriasoft/veaury](https://github.com/gloriasoft/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible!
 *   [akashgoswami/vue-reactflow](https://github.com/akashgoswami/vue-reactflow) - An experiment to render a React component inside a Vue.js application.
 *   [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 *   [sensorsdata/sa-sdk-javascript](https://github.com/sensorsdata/sa-sdk-javascript) - 神策数据官方 Web JavaScript 埋点 SDK，是一款轻量级用于 Web 端和 H5 端的数据采集埋点 SDK。使用原生 JavaScript 技术实现代码埋点、全埋点、可视化全埋点、网页热力图和触达图等功能。
@@ -843,7 +844,6 @@
 *   [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
 *   [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源客服系统
 *   [qiao/PathFinding.js](https://github.com/qiao/PathFinding.js) - A comprehensive path-finding library for grid based games
-*   [silverwind/is-cidr](https://github.com/silverwind/is-cidr) - Check if a string is an IP address in CIDR notation
 *   [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 *   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 *   [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
