@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Java](#java)
 *   [Dart](#dart)
+*   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [PHP](#php)
 *   [JavaScript](#javascript)
@@ -64,6 +64,22 @@
 *   [Astro](#astro)
 *   [Clojure](#clojure)
 
+## Dart
+
+*   [adler0518/github\_client\_flutter\_app](https://github.com/adler0518/github_client_flutter_app) - Flutter demo - GitHub client
+*   [flutter/gallery](https://github.com/flutter/gallery) - Flutter Gallery was a resource to help developers evaluate and use Flutter
+*   [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
+*   [wendux/flutter\_in\_action\_2](https://github.com/wendux/flutter_in_action_2) - Flutter实战第二版随书源码
+*   [CoderTitan/mahuaPet](https://github.com/CoderTitan/mahuaPet) - Flutter跨平台开发的完整项目---麻花宠物, 一款记录宠物生活的APP
+*   [robertodoering/harpy](https://github.com/robertodoering/harpy) - a Twitter app built with Flutter 🦅
+*   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+*   [flutterchina/flukit](https://github.com/flutterchina/flukit) -  A Flutter UI Kit（一个 Flutter UI组件库），包含 ScaleView, Swiper, PullRefresh, WaterMark, GradientCircularProgressIndicator...
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+*   [DargonLee/easy\_pasta](https://github.com/DargonLee/easy_pasta) - EasyPasta是一个 PC 平台的剪贴板记录工具
+*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+*   [OrchidTechnologies/orchid](https://github.com/OrchidTechnologies/orchid) - Orchid: VPN, Personal Firewall
+*   [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
+
 ## Java
 
 *   [wendux/DSBridge-Android](https://github.com/wendux/DSBridge-Android) - :earth\_americas: A modern cross-platform JavaScript bridge, through which you can invoke each other's functions synchronously or asynchronously between JavaScript and native.
@@ -97,19 +113,6 @@
 *   [oracle/opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
 *   [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document\_detail/137663.html) 团队出品，为监控而生的数据库连接池
 *   [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
-
-## Dart
-
-*   [wendux/flutter\_in\_action\_2](https://github.com/wendux/flutter_in_action_2) - Flutter实战第二版随书源码
-*   [CoderTitan/mahuaPet](https://github.com/CoderTitan/mahuaPet) - Flutter跨平台开发的完整项目---麻花宠物, 一款记录宠物生活的APP
-*   [robertodoering/harpy](https://github.com/robertodoering/harpy) - a Twitter app built with Flutter 🦅
-*   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-*   [flutterchina/flukit](https://github.com/flutterchina/flukit) -  A Flutter UI Kit（一个 Flutter UI组件库），包含 ScaleView, Swiper, PullRefresh, WaterMark, GradientCircularProgressIndicator...
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-*   [DargonLee/easy\_pasta](https://github.com/DargonLee/easy_pasta) - EasyPasta是一个 PC 平台的剪贴板记录工具
-*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-*   [OrchidTechnologies/orchid](https://github.com/OrchidTechnologies/orchid) - Orchid: VPN, Personal Firewall
-*   [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 
 ## miscellaneous
 
@@ -755,9 +758,6 @@
 *   [mycolorway/simditor](https://github.com/mycolorway/simditor) - An Easy and Fast WYSIWYG Editor
 *   [akalongman/sublimetext-material-nil](https://github.com/akalongman/sublimetext-material-nil) - Minimalist Sublime Text 2/3 UI dark theme and color schemes. Includes HDPI support for retina displays.
 *   [yyjhao/markmon](https://github.com/yyjhao/markmon) - A pandoc/markdown previewer with fast Mathjax re-rendering.
-*   [shashankmehta/slick.js](https://github.com/shashankmehta/slick.js) - Embed presentations when you can't use SpeakerDeck or SlideShare
-*   [mythz/jquip](https://github.com/mythz/jquip) - jQuery in Parts
-*   [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech\_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 
 ## Jupyter Notebook
 
