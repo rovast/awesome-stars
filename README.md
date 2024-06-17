@@ -699,7 +699,7 @@
 *   [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love\_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 *   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 *   [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-*   [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
+*   [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 *   [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
 *   [ngryman/cz-emoji](https://github.com/ngryman/cz-emoji) - Commitizen adapter formatting commit messages using emojis.
 *   [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
