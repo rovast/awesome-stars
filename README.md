@@ -4,11 +4,12 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
+*   [SCSS](#scss)
 *   [Dart](#dart)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [PHP](#php)
-*   [JavaScript](#javascript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
 *   [Go](#go)
@@ -47,7 +48,6 @@
 *   [ANTLR](#antlr)
 *   [Mustache](#mustache)
 *   [Perl](#perl)
-*   [SCSS](#scss)
 *   [R](#r)
 *   [Makefile](#makefile)
 *   [Starlark](#starlark)
@@ -64,393 +64,9 @@
 *   [Astro](#astro)
 *   [Clojure](#clojure)
 
-## Dart
-
-*   [adler0518/github\_client\_flutter\_app](https://github.com/adler0518/github_client_flutter_app) - Flutter demo - GitHub client
-*   [flutter/gallery](https://github.com/flutter/gallery) - Flutter Gallery was a resource to help developers evaluate and use Flutter
-*   [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
-*   [wendux/flutter\_in\_action\_2](https://github.com/wendux/flutter_in_action_2) - Flutter实战第二版随书源码
-*   [CoderTitan/mahuaPet](https://github.com/CoderTitan/mahuaPet) - Flutter跨平台开发的完整项目---麻花宠物, 一款记录宠物生活的APP
-*   [robertodoering/harpy](https://github.com/robertodoering/harpy) - a Twitter app built with Flutter 🦅
-*   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-*   [flutterchina/flukit](https://github.com/flutterchina/flukit) -  A Flutter UI Kit（一个 Flutter UI组件库），包含 ScaleView, Swiper, PullRefresh, WaterMark, GradientCircularProgressIndicator...
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-*   [DargonLee/easy\_pasta](https://github.com/DargonLee/easy_pasta) - EasyPasta是一个 PC 平台的剪贴板记录工具
-*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-*   [OrchidTechnologies/orchid](https://github.com/OrchidTechnologies/orchid) - Orchid: VPN, Personal Firewall
-*   [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
-
-## Java
-
-*   [wendux/DSBridge-Android](https://github.com/wendux/DSBridge-Android) - :earth\_americas: A modern cross-platform JavaScript bridge, through which you can invoke each other's functions synchronously or asynchronously between JavaScript and native.
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
-*   [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
-*   [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB
-*   [uknownothingsnow/JsBridge](https://github.com/uknownothingsnow/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
-*   [bardsoftware/ganttproject](https://github.com/bardsoftware/ganttproject) - Official GanttProject repository.
-*   [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
-*   [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
-*   [elunez/eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-*   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
-*   [smithy-lang/smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
-*   [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
-*   [TencentFemas/femas](https://github.com/TencentFemas/femas) - JavaAgent-based Microservice Governance Platform
-*   [PigZhuJ/cs61b\_sp19](https://github.com/PigZhuJ/cs61b_sp19) - Data Structures
-*   [Berkeley-CS61B/skeleton-sp19](https://github.com/Berkeley-CS61B/skeleton-sp19) -
-*   [Berkeley-CS61B/lectureCode-sp19](https://github.com/Berkeley-CS61B/lectureCode-sp19) - Code created for lecture during spring 19
-*   [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-*   [jenkinsci/blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin) - Blue Ocean is a reboot of the Jenkins CI/CD User Experience
-*   [apache/flink](https://github.com/apache/flink) - Apache Flink
-*   [apache/logging-flume](https://github.com/apache/logging-flume) - Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log-like data
-*   [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
-*   [trojan-gfw/igniter](https://github.com/trojan-gfw/igniter) - A trojan client for Android (UNDER CONSTRUCTION).
-*   [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
-*   [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
-*   [ngbdf/redis-manager](https://github.com/ngbdf/redis-manager) - Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作
-*   [mymmsc/books](https://github.com/mymmsc/books) - 常用书籍
-*   [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
-*   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-*   [oracle/opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
-*   [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document\_detail/137663.html) 团队出品，为监控而生的数据库连接池
-*   [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
-
-## miscellaneous
-
-*   [CarGuo/gsy\_flutter\_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
-*   [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
-*   [kimcrowing/IPTV](https://github.com/kimcrowing/IPTV) - IPTV直播源
-*   [Moexin/IPTV](https://github.com/Moexin/IPTV) - MyIPTV
-*   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
-*   [towerstreet/IPTV-TVBOX](https://github.com/towerstreet/IPTV-TVBOX) - 互联网搜集的各位大佬维护的IPTV,自用。
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-*   [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
-*   [cuizhenjie/software-engineering-document](https://github.com/cuizhenjie/software-engineering-document) - 软件工程常用文档模板及示例：可行性分析报告、开发计划、需求分析文档、概要设计文档、详细设计文档、用户操作手册、测试计划、测试分析报告、开发进度报告、项目开发总结报告、软件维护手册等
-*   [strengthen/iTV](https://github.com/strengthen/iTV) - 更好用的直播源播放器
-*   [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
-*   [byoungd/how-to-create-a-funny-mini-program](https://github.com/byoungd/how-to-create-a-funny-mini-program) - A Beneficial Guide to Operating an Engaging Mini Program  🎆  离谱的小程序指南，教你以一己之力开发出一款用户量一千四佰万的小程序
-*   [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
-*   [blend-os/blendOS](https://github.com/blend-os/blendOS) - A seamless blend of all Linux distributions.
-*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-*   [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
-*   [walter201230/Python](https://github.com/walter201230/Python) - 最良心的 Python 教程：
-*   [rfyiamcool/share\_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  个人做过的技术分享... ( topic: 高性能架构,  中间件原理实践，云原生，Golang 等)
-*   [Cyril0563/lanjing\_live](https://github.com/Cyril0563/lanjing_live) - 🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看
-*   [ZTDBP/website\_public](https://github.com/ZTDBP/website_public) - website public
-*   [sglvladi/TensorFlowObjectDetectionTutorial](https://github.com/sglvladi/TensorFlowObjectDetectionTutorial) - A tutorial on object detection using TensorFlow
-*   [hax/heshijun\_v\_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼
-*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-*   [github/release-radar](https://github.com/github/release-radar) - Repo for submission of projects to consider for the GitHub Release Radar 📡
-*   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
-*   [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
-*   [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
-*   [filecoin-project/community](https://github.com/filecoin-project/community) - Filecoin community and ecosystem channels, discussion forums, and more
-*   [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
-*   [smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) - Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition
-*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
-*   [immunefi-team/Web3-Security-Library](https://github.com/immunefi-team/Web3-Security-Library) - Information about web3 security and programming tutorials/tools
-*   [ewasm/design](https://github.com/ewasm/design) - Ewasm Design Overview and Specification
-*   [eliaszon/Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
-*   [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities
-*   [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
-*   [jassics/security-study-plan](https://github.com/jassics/security-study-plan) - Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
-*   [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
-*   [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-*   [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
-*   [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
-*   [infoslack/awesome-unikernels](https://github.com/infoslack/awesome-unikernels) - A list about Unikernels
-*   [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
-*   [eryajf/awesome-navigation](https://github.com/eryajf/awesome-navigation) - 🧭 优秀的导航项目，优质的导航站搜集整理
-*   [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
-*   [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
-*   [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
-*   [overtrue/redius.xyz](https://github.com/overtrue/redius.xyz) - wip
-*   [protocol/research-grants](https://github.com/protocol/research-grants) - Protocol Labs Research Grants
-*   [filecoin-project/devgrants](https://github.com/filecoin-project/devgrants) - 👟 Apply for a Filecoin devgrant. Help build the Filecoin ecosystem!
-*   [rovast/awesome-stars](https://github.com/rovast/awesome-stars) - 🤩 我的star列表，每天凌晨自动更新
-*   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
-*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
-*   [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南
-*   [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
-*   [libp2p/specs](https://github.com/libp2p/specs) - Technical specifications for the libp2p networking stack
-*   [ipfs/in-web-browsers](https://github.com/ipfs/in-web-browsers) - Tracking the endeavor towards getting web browsers to natively support IPFS and content-addressing
-*   [GuoYaxiang/craftinginterpreters\_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh) - 手撸解释器教程《Crafting Interpreters》中文翻译
-*   [wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-IceFireDB](https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-IceFireDB) -
-*   [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
-*   [yu-steven/openit](https://github.com/yu-steven/openit) - 致力于打造免费无感的翻墙环境
-*   [regolith-linux/regolith-desktop](https://github.com/regolith-linux/regolith-desktop) - Meta package for the Regolith Desktop Environment
-*   [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
-*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
-*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
-*   [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
-*   [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese) - 中文版的 MIT xv6 文档
-*   [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
-*   [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
-*   [silvermagic/xv6-labs-2020](https://github.com/silvermagic/xv6-labs-2020) - MIT操作系统实验
-*   [networkpolicy/tutorial](https://github.com/networkpolicy/tutorial) - Kubernetes Network Policy Tutorial
-*   [magna25/Attack-Lab](https://github.com/magna25/Attack-Lab) - Walk-through of Attack Lab also known as Buffer Bomb in Systems
-*   [apifox/apifox](https://github.com/apifox/apifox) - Apifox = Postman + Swagger + Mock + JMeter。Apifox 官网：https://www.apifox.cn/
-*   [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
-*   [ThreatHuntingProject/ThreatHunting](https://github.com/ThreatHuntingProject/ThreatHunting) - An informational repo about hunting for adversaries in your IT environment.
-*   [GammaGao/bitcoinwhitepaper](https://github.com/GammaGao/bitcoinwhitepaper) - Bitcoin Whitepaper and Bitcoin Developer Guide 比特币白皮书 比特币开发者指南 中文版
-*   [spring2go/cs\_study\_plan](https://github.com/spring2go/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
-*   [easychen/http-t-shirts](https://github.com/easychen/http-t-shirts) - Open source http status code T shirt  ·  http状态码系列T恤设计稿
-*   [StabilityMan/StabilityGuide](https://github.com/StabilityMan/StabilityGuide) - 【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。
-*   [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
-*   [phodal/tangping](https://github.com/phodal/tangping) - 躺平即正义。Nothing is true, everything is permitted
-*   [Snipaste/feedback](https://github.com/Snipaste/feedback) - Feedback & wiki for Snipaste https://snipaste.com
-*   [Mrrabbitan/learningMaterials](https://github.com/Mrrabbitan/learningMaterials) - pdf and others
-*   [Zainking/LearningPixi](https://github.com/Zainking/LearningPixi) - ⚡️Pixi教程中文版
-*   [baidu/bfe-book](https://github.com/baidu/bfe-book) - In-depth Understanding of BFE《深入理解BFE》（Book for BFE, a CNCF open source project. both in English and in Chinese）
-*   [lindelof/awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects
-*   [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
-*   [opentracing/specification](https://github.com/opentracing/specification) - A place to document (and discuss) the OpenTracing specification. 🛑 This project is DEPRECATED! https://github.com/opentracing/specification/issues/163
-*   [qzfzz/php7-extension-dev-book](https://github.com/qzfzz/php7-extension-dev-book) - this book is a upgrade of phpbook from walu
-*   [taowen/modularization-examples](https://github.com/taowen/modularization-examples) - 代码防腐实用技术
-*   [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
-*   [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
-*   [tangwz/db-monthly](https://github.com/tangwz/db-monthly) - 阿里云数据库内核月报分类整理（定时更新） http://mysql.taobao.org/monthly/
-*   [metrics20/spec](https://github.com/metrics20/spec) -
-*   [LeadroyaL/pdd\_3years](https://github.com/LeadroyaL/pdd_3years) -
-*   [spring2go/engineer\_competency\_framework](https://github.com/spring2go/engineer_competency_framework) - 软件工程师职级胜任力框架(engineer level & competency framework)
-*   [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
-*   [MeFelixWang/D3-v4-API-](https://github.com/MeFelixWang/D3-v4-API-) - 学习D3的时候顺便翻译了API文档
-*   [xswei/d3-force](https://github.com/xswei/d3-force) - d3-force 中文
-*   [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
-*   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
-*   [bigbully/Dapper-translation](https://github.com/bigbully/Dapper-translation) - translate the paper of "Dapper, a Large-Scale Distributed Systems Tracing Infrastructure"
-*   [wu-sheng/STAM](https://github.com/wu-sheng/STAM) - STAM, Streaming Topology Analysis Method
-*   [apache/skywalking-query-protocol](https://github.com/apache/skywalking-query-protocol) - Query Protocol for Apache SkyWalking in GraphQL format
-*   [EtherDream/web-frontend-magic](https://github.com/EtherDream/web-frontend-magic) - #前端黑魔法# 整理
-*   [88250/liandi](https://github.com/88250/liandi) - 📕 一款桌面端的 Markdown 块级引用和双向链接笔记应用，支持 Windows、Mac 和 Linux。A desktop Markdown Block-Reference and Bidirectional-Link note-taking application, supports Windows, Mac and Linux.
-*   [duzyn/material-axure-library](https://github.com/duzyn/material-axure-library) - An Axure widget library based on Google Material Design.
-*   [slacka/WoeUSB](https://github.com/slacka/WoeUSB) -  WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
-*   [LiuBoyu/blockchain](https://github.com/LiuBoyu/blockchain) - 区块链 - 中文资源
-*   [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
-*   [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms) - Bug-tracking for Jeff's algorithms book, notes, etc.
-*   [jyfc/ebook](https://github.com/jyfc/ebook) - classic books of computer science
-*   [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
-*   [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
-*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-*   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-*   [0voice/from\_coder\_to\_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
-*   [Micropoor/Micro8](https://github.com/Micropoor/Micro8) - Gitbook
-*   [623637646/996.Leave](https://github.com/623637646/996.Leave) - 逃离996
-*   [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-*   [xiaolai/time-as-a-friend](https://github.com/xiaolai/time-as-a-friend) - 《把时间当作朋友》
-*   [facebook/react-devtools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-*   [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
-*   [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
-*   [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
-*   [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
-*   [php-fig/fig-standards](https://github.com/php-fig/fig-standards) - Standards either proposed or approved by the Framework Interop Group
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-*   [overtrue/phpmd-rulesets](https://github.com/overtrue/phpmd-rulesets) - PHP\_MD 规则
-*   [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-*   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
-*   [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
-*   [ekaragodin/idea-sublime-keymap](https://github.com/ekaragodin/idea-sublime-keymap) - Sublime keymap for Jetbrains IDEA
-*   [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
-*   [opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) - 微信小程序开源项目库汇总
-*   [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-*   [hfpp2012/docker-tutorial](https://github.com/hfpp2012/docker-tutorial) - 零基础学习docker，从应用入手带你深入理解docker
-*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-*   [goodjack/developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) - 2021 年成為 Web 開發人員的路線圖 台灣正體中文版
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-*   [nineyang/clean-php-code](https://github.com/nineyang/clean-php-code) - clean-php-code翻译版
-*   [pangudashu/php7-internal](https://github.com/pangudashu/php7-internal) - PHP7内核剖析
-*   [dgallinari/phpstorm-sublime](https://github.com/dgallinari/phpstorm-sublime) - A PhpStorm keymap strongly inspired on Sublime Text 3 (some packages' keymaps included).
-*   [daylerees/material-peacock](https://github.com/daylerees/material-peacock) - Peacock colour scheme optimized for the Material UI PHPStorm theme.
-*   [jiangfengming/webpack-and-spa-guide](https://github.com/jiangfengming/webpack-and-spa-guide) - Webpack 4 和单页应用入门
-*   [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-*   [ZTfer/weui-sketch](https://github.com/ZTfer/weui-sketch) - weui sketch by ZTfer
-*   [forecho/awesome-yii2](https://github.com/forecho/awesome-yii2) - Yii2 干货集
-*   [nilium/st2-nil-theme](https://github.com/nilium/st2-nil-theme) - Minimalist Sublime Text 2 UI dark and light themes and color schemes. Includes HDPI support for retina displays. (Unmaintained)
-*   [hrsetyono/eightlime](https://github.com/hrsetyono/eightlime) - Eightlime - Sublime Text theme with Metro style
-*   [jonschlinkert/sublime-markdown-extended](https://github.com/jonschlinkert/sublime-markdown-extended) - Top 100 Sublime Text plugin! Markdown syntax highlighter for Sublime Text, with extended support for GFM fenced code blocks, with language-specific syntax highlighting. YAML Front Matter. Works with ST2/ST3. Goes great with Assemble.
-*   [jonschlinkert/sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended) - Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.
-
-## PHP
-
-*   [spatie/laravel-query-builder](https://github.com/spatie/laravel-query-builder) - Easily build Eloquent queries from API requests
-*   [yikeio/server](https://github.com/yikeio/server) - https://yike.io 服务端源码，项目基于 Laravel 10 开发。
-*   [lxerxa/actionview](https://github.com/lxerxa/actionview) - An issue tracking tool based on laravel+reactjs for small and medium-sized enterprises, open-source and free, similar to Jira.
-*   [slowlyo/owl-admin](https://github.com/slowlyo/owl-admin) - 🎈 Owl Admin : 基于 laravel 和 amis 开发的后台框架, 友好的组件使用体验, 可轻松实现复杂页面, 内置代码生成器, 让开发者快速搭建后台管理系统
-*   [laravel/prompts](https://github.com/laravel/prompts) - Beautiful and user-friendly forms for your command-line PHP applications.
-*   [overtrue/php-opencc](https://github.com/overtrue/php-opencc) - 中文简繁转换，支持词汇级别的转换、异体字转换和地区习惯用词转换（中国大陆、台湾、香港、日本新字体）。
-*   [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
-*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
-*   [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development
-*   [basis-company/nats.php](https://github.com/basis-company/nats.php) - nats jetstream client for php
-*   [feiffy/codeIgnitor-ide-helper](https://github.com/feiffy/codeIgnitor-ide-helper) - codeignitor ide helper
-*   [php-deal/framework](https://github.com/php-deal/framework) - Design by Contract framework for PHP
-*   [TitasGailius/terminal](https://github.com/TitasGailius/terminal) - An Elegent wrapper around Symfony's Process component.
-*   [wowiwj/story-server](https://github.com/wowiwj/story-server) -
-*   [jukylin/jaeger-php](https://github.com/jukylin/jaeger-php) - Jaeger Bindings for PHP OpenTracing API
-*   [composer/satis](https://github.com/composer/satis) - Simple static Composer repository generator - For a full private Composer repo use Private Packagist
-*   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. Liberating Web Analytics. Star us on Github? +1.  And we love Pull Requests!
-*   [mayocream/ask\_mayo\_bot](https://github.com/mayocream/ask_mayo_bot) - Telegram 上的类似 ask.fm 的提问 / 留言板。
-*   [bschmitt/laravel-amqp](https://github.com/bschmitt/laravel-amqp) - AMQP wrapper for Laravel and Lumen to publish and consume messages
-*   [amphp/parallel](https://github.com/amphp/parallel) - An advanced parallelization library for PHP, enabling efficient multitasking, optimizing resource use, and application responsiveness through multiple CPU threads.
-*   [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
-*   [php/php-langspec](https://github.com/php/php-langspec) - PHP Language Specification
-*   [yriveiro/php-fslock](https://github.com/yriveiro/php-fslock) - A simple lock implementation using flock.
-*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-*   [symfony/event-dispatcher](https://github.com/symfony/event-dispatcher) - Provides tools that allow your application components to communicate with each other by dispatching events and listening to them
-*   [gitonomy/gitlib](https://github.com/gitonomy/gitlib) - Library for accessing Git repositories with PHP
-*   [FangStarNet/php-validator](https://github.com/FangStarNet/php-validator) - 一个强大好用的PHP参数校验组件，比起Laravel的Validator来说，简单易用，文档清晰！
-*   [f00b4r/nusoap](https://github.com/f00b4r/nusoap) - :smirk: Fixed NuSOAP for PHP 5.6 - 8.2
-*   [nikic/FastRoute](https://github.com/nikic/FastRoute) - Fast request router for PHP
-*   [slince/composer-registry-manager](https://github.com/slince/composer-registry-manager) - :hammer\_and\_wrench: :hammer: Composer registry manager that help to easily switch to the  composer repository you want.
-*   [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
-*   [laravel/installer](https://github.com/laravel/installer) - The Laravel application installer.
-*   [laravel/lumen](https://github.com/laravel/lumen) - The Laravel Lumen Framework.
-*   [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
-*   [opentracing/opentracing-php](https://github.com/opentracing/opentracing-php) - OpenTracing API for PHP
-*   [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
-*   [overtrue/laravel-query-logger](https://github.com/overtrue/laravel-query-logger) - :pencil: A dev tool to log all queries for laravel application.
-*   [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
-*   [doctrine/inflector](https://github.com/doctrine/inflector) - Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.
-*   [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis client for PHP.
-*   [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
-*   [lobtao/phpdesktop](https://github.com/lobtao/phpdesktop) - Developing Desktop Applications Like Developing Websites => phpdesktop
-*   [fideloper/TrustedProxy](https://github.com/fideloper/TrustedProxy) - Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries.
-*   [symfony/yaml](https://github.com/symfony/yaml) - Loads and dumps YAML files
-*   [doctrine/collections](https://github.com/doctrine/collections) - Collections Abstraction Library
-*   [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser
-*   [symfony/finder](https://github.com/symfony/finder) - Finds files and directories via an intuitive fluent interface
-*   [zircote/swagger-php](https://github.com/zircote/swagger-php) - A php swagger annotation and parsing library
-*   [santigarcor/laratrust](https://github.com/santigarcor/laratrust) - Handle roles and permissions in your Laravel application
-*   [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
-*   [php-pm/php-pm](https://github.com/php-pm/php-pm) - PPM is a process manager, supercharger and load balancer for modern PHP applications.
-*   [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-*   [bovigo/vfsStream](https://github.com/bovigo/vfsStream) - vfsStream is a stream wrapper for a virtual file system that may be helpful in unit tests to mock the real file system. It can be used with any unit test framework, like PHPUnit or SimpleTest.
-*   [phpspec/prophecy](https://github.com/phpspec/prophecy) - Highly opinionated mocking framework for PHP 5.3+
-*   [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
-*   [dancryer/php-docblock-checker](https://github.com/dancryer/php-docblock-checker) - A simple tool for checking that your PHP classes and methods use docblocks.
-*   [sebastianbergmann/phpcpd](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code.
-*   [dancryer/PHPCI](https://github.com/dancryer/PHPCI) - PHPCI is a free and open source continuous integration tool specifically designed for PHP.
-*   [maxmind/GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - PHP API for GeoIP2 webservice client and database reader
-*   [slince/event-dispatcher](https://github.com/slince/event-dispatcher) - :fire: A flexible event dispatching library for PHP
-*   [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
-*   [php-fig/container](https://github.com/php-fig/container) -
-*   [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
-*   [longxinH/xhprof](https://github.com/longxinH/xhprof) - PHP7/PHP8 support
-*   [pinguo/php-msf-demo](https://github.com/pinguo/php-msf-demo) -
-*   [pinguo/php-msf](https://github.com/pinguo/php-msf) - PHP微服务框架即Micro Service Framework For PHP
-*   [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
-*   [overtrue/chinese-calendar](https://github.com/overtrue/chinese-calendar) - :date: 中国农历（阴历）与阳历（公历）转换与查询工具
-*   [rovast/design-pattern-talk](https://github.com/rovast/design-pattern-talk) - 《大话设计模式》的 PHP 版本实现
-*   [xujiajun/php-framework-benchmark](https://github.com/xujiajun/php-framework-benchmark) - php framework benchmark (include laravel、symfony、silex、lumen、slim、yii2、tastphp etc)
-*   [phacility/xhprof](https://github.com/phacility/xhprof) - XHProf is a function-level hierarchical profiler for PHP and has a simple HTML based user interface.
-*   [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
-*   [slince/config](https://github.com/slince/config) - :bamboo: A flexible configuration file loader that supports multiple file formats
-*   [slince/di](https://github.com/slince/di) - :sheep: A flexible  dependency injection container; It is an implementation of PSR-11
-*   [cakephp/utility](https://github.com/cakephp/utility) - \[READ-ONLY] CakePHP Utility classes such as Inflector, Text, Hash, Security and Xml. This repo is a split of the main code that can be found in https://github.com/cakephp/cakephp
-*   [symfony/http-foundation](https://github.com/symfony/http-foundation) - Defines an object-oriented layer for the HTTP specification
-*   [phpmd/phpmd](https://github.com/phpmd/phpmd) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measured by PHP Depend.
-*   [squizlabs/PHP\_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP\_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
-*   [devaneando/Wikitten](https://github.com/devaneando/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
-*   [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).
-*   [overtrue/package-builder](https://github.com/overtrue/package-builder) - :package: A composer package builder.
-*   [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
-*   [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
-*   [phpmyadmin/docker](https://github.com/phpmyadmin/docker) - Docker container for phpMyAdmin
-*   [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - ✏️ Write and ship beautiful documentation with your Laravel applications using MarkDown
-*   [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-*   [jxlwqq/id-validator](https://github.com/jxlwqq/id-validator) - 中华人民共和国居民身份证、中华人民共和国港澳居民居住证以及中华人民共和国台湾居民居住证号码验证工具（PHP 版）
-*   [overtrue/weather](https://github.com/overtrue/weather) - :rainbow: 基于高德开放平台接口的 PHP 天气信息组件。
-*   [yyx990803/laravel-vue-cli-3](https://github.com/yyx990803/laravel-vue-cli-3) - Example project using Vue CLI 3 with Laravel
-*   [MAXakaWIZARD/JsonCollectionParser](https://github.com/MAXakaWIZARD/JsonCollectionParser) - Streaming parser for JSON collections
-*   [salsify/jsonstreamingparser](https://github.com/salsify/jsonstreamingparser) - A JSON streaming parser implementation in PHP.
-*   [LinkedDestiny/swoole-concise-guide](https://github.com/LinkedDestiny/swoole-concise-guide) -
-*   [kcloze/multiprocess](https://github.com/kcloze/multiprocess) - 🚀Easy to make the common PHP/Python/js...script change daemon and multi-process execution
-*   [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) - LaravelS is an out-of-the-box adapter between Laravel/Lumen and Swoole.
-*   [swoft-cloud/swoft](https://github.com/swoft-cloud/swoft) - 🚀 PHP Microservice Full Coroutine Framework
-*   [wudi/swoole-ide-helper](https://github.com/wudi/swoole-ide-helper) - Auto completion, trigger suggest and view docs for Swoole in editor.
-*   [rap2hpoutre/laravel-log-viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - :dromedary\_camel: Laravel log viewer
-*   [cpriego/valet-linux](https://github.com/cpriego/valet-linux) - A fork of Laravel Valet to work in Linux.
-*   [wowiwj/ding-notice](https://github.com/wowiwj/ding-notice) - 钉钉推送机器人消息发送laravel扩展包
-*   [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
-*   [guidocella/eloquent-insert-on-duplicate-key](https://github.com/guidocella/eloquent-insert-on-duplicate-key) - Macros for INSERT ON DUPLICATE KEY UPDATE and INSERT IGNORE with Eloquent
-*   [dingo/api](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks.
-*   [php-pds/skeleton](https://github.com/php-pds/skeleton) - Standard PHP package skeleton.
-*   [mdbootstrap/adminlte-laravel](https://github.com/mdbootstrap/adminlte-laravel) - A Laravel 5 package that switchs default Laravel scaffolding/boilerplate to AdminLTE template and Pratt Landing Page with Bootstrap 3.0
-*   [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
-*   [codekerala/laravel-and-vue.js-spa-Recipe-Box](https://github.com/codekerala/laravel-and-vue.js-spa-Recipe-Box) - Single Page Application with Laravel 5.4 and Vue.js 2 - Recipe Box
-*   [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
-*   [PHP-DI/PHP-DI](https://github.com/PHP-DI/PHP-DI) - The dependency injection container for humans
-*   [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
-*   [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - The Official MongoDB PHP library
-*   [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
-*   [php-enqueue/enqueue-dev](https://github.com/php-enqueue/enqueue-dev) - Message Queue, Job Queue, Broadcasting, WebSockets packages for PHP, Symfony, Laravel, Magento. DEVELOPMENT REPOSITORY - provided by Forma-Pro
-*   [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
-*   [spatie/laravel-backup](https://github.com/spatie/laravel-backup) - A package to backup your Laravel app
-*   [davibennun/laravel-push-notification](https://github.com/davibennun/laravel-push-notification) - Laravel package to enable sending push notifications to devices
-*   [webpatser/laravel-uuid](https://github.com/webpatser/laravel-uuid) - Laravel package to generate and to validate a UUID according to the RFC 4122 standard. Only support for version 1, 3, 4 and 5 UUID are built-in.
-*   [tighten/collect](https://github.com/tighten/collect) - A Collections-only split from Laravel's Illuminate Support
-*   [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
-*   [yadakhov/insert-on-duplicate-key](https://github.com/yadakhov/insert-on-duplicate-key) -
-*   [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP
-*   [jae-jae/QueryList](https://github.com/jae-jae/QueryList) - :spider: The progressive PHP crawler framework!  优雅的渐进式PHP采集框架。
-*   [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper
-*   [apollocn/phalcon-swoole](https://github.com/apollocn/phalcon-swoole) - php
-*   [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
-*   [nauxliu/auto-correct](https://github.com/nauxliu/auto-correct) - 自动给中英文之间加入合理的空格并纠正专用名词大小写
-*   [d13r/laravel-breadcrumbs](https://github.com/d13r/laravel-breadcrumbs) - Please see the Diglactic fork.
-*   [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel
-*   [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
-*   [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application
-*   [z-song/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes
-*   [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - IDE Helper for Laravel
-*   [zedisdog/laravel-schema-extend](https://github.com/zedisdog/laravel-schema-extend) - supplement for eloquent migration
-*   [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) - An easy-to-use PHP QrCode generator with first-party support for Laravel.
-*   [amzn/amazon-advertising-api-php-sdk](https://github.com/amzn/amazon-advertising-api-php-sdk) - ⛔️ DEPRECATED - Amazon Advertising API PHP Client Library
-*   [hamcrest/hamcrest-php](https://github.com/hamcrest/hamcrest-php) - PHP Hamcrest implementation \[Official]
-*   [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols.
-*   [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 📲 一款满足你的多种发送需求的短信发送组件
-*   [jenssegers/agent](https://github.com/jenssegers/agent) - 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
-*   [overtrue/laravel-wechat](https://github.com/overtrue/laravel-wechat) - 微信 SDK for Laravel, 基于 overtrue/wechat
-*   [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5/6/7/8/9/10/11
-*   [Germey/LaravelGeetest](https://github.com/Germey/LaravelGeetest) - Geetest Package for Laravel5
-*   [greggilbert/recaptcha](https://github.com/greggilbert/recaptcha) - \[ABANDONED] reCAPTCHA Validator for Laravel 5
-*   [jcc/blog](https://github.com/jcc/blog) - :star2: PJ Blog is an open source blog built with Laravel and Vue.js.
-*   [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
-*   [nicolaslopezj/searchable](https://github.com/nicolaslopezj/searchable) - A php trait to search laravel models
-*   [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10/11
-*   [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
-*   [actuallymab/laravel-comment](https://github.com/actuallymab/laravel-comment) - Just another comment system for your awesome Laravel project.
-*   [etrepat/baum](https://github.com/etrepat/baum) - Baum is an implementation of the Nested Set pattern for Laravel's Eloquent ORM.
-*   [laracasts/flash](https://github.com/laracasts/flash) - Easy flash notifications
-*   [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
-*   [overtrue/laravel-lang](https://github.com/overtrue/laravel-lang) - :earth\_asia: 75 languages support for Laravel application.
-*   [Hesto/multi-auth](https://github.com/Hesto/multi-auth) - Laravel 5.3, 5.4, 5.5, 5.6, 5.7 multi auth package
-*   [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
-*   [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
-*   [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
-*   [thedevdojo/voyager](https://github.com/thedevdojo/voyager) - Voyager - The Missing Laravel Admin
-*   [DevMarketer/multiauth\_tutorial](https://github.com/DevMarketer/multiauth_tutorial) -
-*   [jplhomer/laravel-realtime-chat-demo](https://github.com/jplhomer/laravel-realtime-chat-demo) - Realtime chat demo using Laravel 5.4, VueJS and Pusher
-*   [Zizaco/entrust](https://github.com/Zizaco/entrust) - Role-based Permissions for Laravel 5
-*   [overtrue/socialite](https://github.com/overtrue/socialite) - Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
-*   [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
-*   [LaravelCollective/html](https://github.com/LaravelCollective/html) - HTML and Form Builders for the Laravel Framework
-*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
-*   [walkor/web-msg-sender](https://github.com/walkor/web-msg-sender) - Web message pusher  written in PHP based on workerman.
-*   [summerblue/phphub5](https://github.com/summerblue/phphub5) - PHPHub Ver 5 is a Forum project Powered by Laravel 5.1, and it is also the project build up PHP & Laravel China community （此项目已弃用）
-*   [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
-*   [dodgepudding/wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk) - 微信公众平台php开发包, weixin developer SDK.
-*   [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) - Auth manager for Yii2 (RBAC Manager)
-*   [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) - AdminLTE Asset Bundle for Backend Theme in Yii2 Framework
-
 ## JavaScript
 
+*   [kongweigen/pg-kit](https://github.com/kongweigen/pg-kit) -
 *   [flutterchina/flutter\_in\_action\_2nd](https://github.com/flutterchina/flutter_in_action_2nd) - 《Flutter实战 第二版》 书稿
 *   [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
 *   [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
@@ -759,6 +375,397 @@
 *   [akalongman/sublimetext-material-nil](https://github.com/akalongman/sublimetext-material-nil) - Minimalist Sublime Text 2/3 UI dark theme and color schemes. Includes HDPI support for retina displays.
 *   [yyjhao/markmon](https://github.com/yyjhao/markmon) - A pandoc/markdown previewer with fast Mathjax re-rendering.
 
+## SCSS
+
+*   [HeroCloudy/yyg-demo-ui](https://github.com/HeroCloudy/yyg-demo-ui) -
+*   [Shimada666/v-code-diff](https://github.com/Shimada666/v-code-diff) - A vue code diff display plugin, support Vue2 / Vue3
+*   [mayocream/hugo-theme-kagami](https://github.com/mayocream/hugo-theme-kagami) - Kagami theme for Hugo
+*   [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
+*   [vinceliuice/Mojave-gtk-theme](https://github.com/vinceliuice/Mojave-gtk-theme) - Mojave is a macos Mojave like theme for GTK 3, GTK 2 and Gnome-Shell
+
+## Dart
+
+*   [adler0518/github\_client\_flutter\_app](https://github.com/adler0518/github_client_flutter_app) - Flutter demo - GitHub client
+*   [flutter/gallery](https://github.com/flutter/gallery) - Flutter Gallery was a resource to help developers evaluate and use Flutter
+*   [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
+*   [wendux/flutter\_in\_action\_2](https://github.com/wendux/flutter_in_action_2) - Flutter实战第二版随书源码
+*   [CoderTitan/mahuaPet](https://github.com/CoderTitan/mahuaPet) - Flutter跨平台开发的完整项目---麻花宠物, 一款记录宠物生活的APP
+*   [robertodoering/harpy](https://github.com/robertodoering/harpy) - a Twitter app built with Flutter 🦅
+*   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+*   [flutterchina/flukit](https://github.com/flutterchina/flukit) -  A Flutter UI Kit（一个 Flutter UI组件库），包含 ScaleView, Swiper, PullRefresh, WaterMark, GradientCircularProgressIndicator...
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+*   [DargonLee/easy\_pasta](https://github.com/DargonLee/easy_pasta) - EasyPasta是一个 PC 平台的剪贴板记录工具
+*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+*   [OrchidTechnologies/orchid](https://github.com/OrchidTechnologies/orchid) - Orchid: VPN, Personal Firewall
+*   [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
+
+## Java
+
+*   [wendux/DSBridge-Android](https://github.com/wendux/DSBridge-Android) - :earth\_americas: A modern cross-platform JavaScript bridge, through which you can invoke each other's functions synchronously or asynchronously between JavaScript and native.
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+*   [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
+*   [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB
+*   [uknownothingsnow/JsBridge](https://github.com/uknownothingsnow/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
+*   [bardsoftware/ganttproject](https://github.com/bardsoftware/ganttproject) - Official GanttProject repository.
+*   [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
+*   [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
+*   [elunez/eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+*   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
+*   [smithy-lang/smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
+*   [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
+*   [TencentFemas/femas](https://github.com/TencentFemas/femas) - JavaAgent-based Microservice Governance Platform
+*   [PigZhuJ/cs61b\_sp19](https://github.com/PigZhuJ/cs61b_sp19) - Data Structures
+*   [Berkeley-CS61B/skeleton-sp19](https://github.com/Berkeley-CS61B/skeleton-sp19) -
+*   [Berkeley-CS61B/lectureCode-sp19](https://github.com/Berkeley-CS61B/lectureCode-sp19) - Code created for lecture during spring 19
+*   [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+*   [jenkinsci/blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin) - Blue Ocean is a reboot of the Jenkins CI/CD User Experience
+*   [apache/flink](https://github.com/apache/flink) - Apache Flink
+*   [apache/logging-flume](https://github.com/apache/logging-flume) - Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log-like data
+*   [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
+*   [trojan-gfw/igniter](https://github.com/trojan-gfw/igniter) - A trojan client for Android (UNDER CONSTRUCTION).
+*   [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
+*   [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+*   [ngbdf/redis-manager](https://github.com/ngbdf/redis-manager) - Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作
+*   [mymmsc/books](https://github.com/mymmsc/books) - 常用书籍
+*   [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
+*   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+*   [oracle/opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
+*   [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document\_detail/137663.html) 团队出品，为监控而生的数据库连接池
+*   [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
+
+## miscellaneous
+
+*   [CarGuo/gsy\_flutter\_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
+*   [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
+*   [kimcrowing/IPTV](https://github.com/kimcrowing/IPTV) - IPTV直播源
+*   [Moexin/IPTV](https://github.com/Moexin/IPTV) - MyIPTV
+*   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+*   [towerstreet/IPTV-TVBOX](https://github.com/towerstreet/IPTV-TVBOX) - 互联网搜集的各位大佬维护的IPTV,自用。
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+*   [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
+*   [cuizhenjie/software-engineering-document](https://github.com/cuizhenjie/software-engineering-document) - 软件工程常用文档模板及示例：可行性分析报告、开发计划、需求分析文档、概要设计文档、详细设计文档、用户操作手册、测试计划、测试分析报告、开发进度报告、项目开发总结报告、软件维护手册等
+*   [strengthen/iTV](https://github.com/strengthen/iTV) - 更好用的直播源播放器
+*   [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
+*   [byoungd/how-to-create-a-funny-mini-program](https://github.com/byoungd/how-to-create-a-funny-mini-program) - A Beneficial Guide to Operating an Engaging Mini Program  🎆  离谱的小程序指南，教你以一己之力开发出一款用户量一千四佰万的小程序
+*   [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
+*   [blend-os/blendOS](https://github.com/blend-os/blendOS) - A seamless blend of all Linux distributions.
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+*   [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
+*   [walter201230/Python](https://github.com/walter201230/Python) - 最良心的 Python 教程：
+*   [rfyiamcool/share\_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  个人做过的技术分享... ( topic: 高性能架构,  中间件原理实践，云原生，Golang 等)
+*   [Cyril0563/lanjing\_live](https://github.com/Cyril0563/lanjing_live) - 🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看
+*   [ZTDBP/website\_public](https://github.com/ZTDBP/website_public) - website public
+*   [sglvladi/TensorFlowObjectDetectionTutorial](https://github.com/sglvladi/TensorFlowObjectDetectionTutorial) - A tutorial on object detection using TensorFlow
+*   [hax/heshijun\_v\_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼
+*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+*   [github/release-radar](https://github.com/github/release-radar) - Repo for submission of projects to consider for the GitHub Release Radar 📡
+*   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
+*   [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+*   [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
+*   [filecoin-project/community](https://github.com/filecoin-project/community) - Filecoin community and ecosystem channels, discussion forums, and more
+*   [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
+*   [smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) - Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition
+*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+*   [immunefi-team/Web3-Security-Library](https://github.com/immunefi-team/Web3-Security-Library) - Information about web3 security and programming tutorials/tools
+*   [ewasm/design](https://github.com/ewasm/design) - Ewasm Design Overview and Specification
+*   [eliaszon/Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
+*   [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities
+*   [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+*   [jassics/security-study-plan](https://github.com/jassics/security-study-plan) - Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
+*   [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
+*   [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+*   [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
+*   [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
+*   [infoslack/awesome-unikernels](https://github.com/infoslack/awesome-unikernels) - A list about Unikernels
+*   [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
+*   [eryajf/awesome-navigation](https://github.com/eryajf/awesome-navigation) - 🧭 优秀的导航项目，优质的导航站搜集整理
+*   [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
+*   [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
+*   [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
+*   [overtrue/redius.xyz](https://github.com/overtrue/redius.xyz) - wip
+*   [protocol/research-grants](https://github.com/protocol/research-grants) - Protocol Labs Research Grants
+*   [filecoin-project/devgrants](https://github.com/filecoin-project/devgrants) - 👟 Apply for a Filecoin devgrant. Help build the Filecoin ecosystem!
+*   [rovast/awesome-stars](https://github.com/rovast/awesome-stars) - 🤩 我的star列表，每天凌晨自动更新
+*   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
+*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
+*   [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南
+*   [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
+*   [libp2p/specs](https://github.com/libp2p/specs) - Technical specifications for the libp2p networking stack
+*   [ipfs/in-web-browsers](https://github.com/ipfs/in-web-browsers) - Tracking the endeavor towards getting web browsers to natively support IPFS and content-addressing
+*   [GuoYaxiang/craftinginterpreters\_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh) - 手撸解释器教程《Crafting Interpreters》中文翻译
+*   [wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-IceFireDB](https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-IceFireDB) -
+*   [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
+*   [yu-steven/openit](https://github.com/yu-steven/openit) - 致力于打造免费无感的翻墙环境
+*   [regolith-linux/regolith-desktop](https://github.com/regolith-linux/regolith-desktop) - Meta package for the Regolith Desktop Environment
+*   [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
+*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
+*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
+*   [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
+*   [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese) - 中文版的 MIT xv6 文档
+*   [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
+*   [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
+*   [silvermagic/xv6-labs-2020](https://github.com/silvermagic/xv6-labs-2020) - MIT操作系统实验
+*   [networkpolicy/tutorial](https://github.com/networkpolicy/tutorial) - Kubernetes Network Policy Tutorial
+*   [magna25/Attack-Lab](https://github.com/magna25/Attack-Lab) - Walk-through of Attack Lab also known as Buffer Bomb in Systems
+*   [apifox/apifox](https://github.com/apifox/apifox) - Apifox = Postman + Swagger + Mock + JMeter。Apifox 官网：https://www.apifox.cn/
+*   [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+*   [ThreatHuntingProject/ThreatHunting](https://github.com/ThreatHuntingProject/ThreatHunting) - An informational repo about hunting for adversaries in your IT environment.
+*   [GammaGao/bitcoinwhitepaper](https://github.com/GammaGao/bitcoinwhitepaper) - Bitcoin Whitepaper and Bitcoin Developer Guide 比特币白皮书 比特币开发者指南 中文版
+*   [spring2go/cs\_study\_plan](https://github.com/spring2go/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
+*   [easychen/http-t-shirts](https://github.com/easychen/http-t-shirts) - Open source http status code T shirt  ·  http状态码系列T恤设计稿
+*   [StabilityMan/StabilityGuide](https://github.com/StabilityMan/StabilityGuide) - 【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。
+*   [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
+*   [phodal/tangping](https://github.com/phodal/tangping) - 躺平即正义。Nothing is true, everything is permitted
+*   [Snipaste/feedback](https://github.com/Snipaste/feedback) - Feedback & wiki for Snipaste https://snipaste.com
+*   [Mrrabbitan/learningMaterials](https://github.com/Mrrabbitan/learningMaterials) - pdf and others
+*   [Zainking/LearningPixi](https://github.com/Zainking/LearningPixi) - ⚡️Pixi教程中文版
+*   [baidu/bfe-book](https://github.com/baidu/bfe-book) - In-depth Understanding of BFE《深入理解BFE》（Book for BFE, a CNCF open source project. both in English and in Chinese）
+*   [lindelof/awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects
+*   [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
+*   [opentracing/specification](https://github.com/opentracing/specification) - A place to document (and discuss) the OpenTracing specification. 🛑 This project is DEPRECATED! https://github.com/opentracing/specification/issues/163
+*   [qzfzz/php7-extension-dev-book](https://github.com/qzfzz/php7-extension-dev-book) - this book is a upgrade of phpbook from walu
+*   [taowen/modularization-examples](https://github.com/taowen/modularization-examples) - 代码防腐实用技术
+*   [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
+*   [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
+*   [tangwz/db-monthly](https://github.com/tangwz/db-monthly) - 阿里云数据库内核月报分类整理（定时更新） http://mysql.taobao.org/monthly/
+*   [metrics20/spec](https://github.com/metrics20/spec) -
+*   [LeadroyaL/pdd\_3years](https://github.com/LeadroyaL/pdd_3years) -
+*   [spring2go/engineer\_competency\_framework](https://github.com/spring2go/engineer_competency_framework) - 软件工程师职级胜任力框架(engineer level & competency framework)
+*   [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
+*   [MeFelixWang/D3-v4-API-](https://github.com/MeFelixWang/D3-v4-API-) - 学习D3的时候顺便翻译了API文档
+*   [xswei/d3-force](https://github.com/xswei/d3-force) - d3-force 中文
+*   [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
+*   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
+*   [bigbully/Dapper-translation](https://github.com/bigbully/Dapper-translation) - translate the paper of "Dapper, a Large-Scale Distributed Systems Tracing Infrastructure"
+*   [wu-sheng/STAM](https://github.com/wu-sheng/STAM) - STAM, Streaming Topology Analysis Method
+*   [apache/skywalking-query-protocol](https://github.com/apache/skywalking-query-protocol) - Query Protocol for Apache SkyWalking in GraphQL format
+*   [EtherDream/web-frontend-magic](https://github.com/EtherDream/web-frontend-magic) - #前端黑魔法# 整理
+*   [88250/liandi](https://github.com/88250/liandi) - 📕 一款桌面端的 Markdown 块级引用和双向链接笔记应用，支持 Windows、Mac 和 Linux。A desktop Markdown Block-Reference and Bidirectional-Link note-taking application, supports Windows, Mac and Linux.
+*   [duzyn/material-axure-library](https://github.com/duzyn/material-axure-library) - An Axure widget library based on Google Material Design.
+*   [slacka/WoeUSB](https://github.com/slacka/WoeUSB) -  WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
+*   [LiuBoyu/blockchain](https://github.com/LiuBoyu/blockchain) - 区块链 - 中文资源
+*   [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
+*   [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms) - Bug-tracking for Jeff's algorithms book, notes, etc.
+*   [jyfc/ebook](https://github.com/jyfc/ebook) - classic books of computer science
+*   [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
+*   [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+*   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+*   [0voice/from\_coder\_to\_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
+*   [Micropoor/Micro8](https://github.com/Micropoor/Micro8) - Gitbook
+*   [623637646/996.Leave](https://github.com/623637646/996.Leave) - 逃离996
+*   [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+*   [xiaolai/time-as-a-friend](https://github.com/xiaolai/time-as-a-friend) - 《把时间当作朋友》
+*   [facebook/react-devtools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+*   [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
+*   [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+*   [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
+*   [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
+*   [php-fig/fig-standards](https://github.com/php-fig/fig-standards) - Standards either proposed or approved by the Framework Interop Group
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+*   [overtrue/phpmd-rulesets](https://github.com/overtrue/phpmd-rulesets) - PHP\_MD 规则
+*   [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+*   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
+*   [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+*   [ekaragodin/idea-sublime-keymap](https://github.com/ekaragodin/idea-sublime-keymap) - Sublime keymap for Jetbrains IDEA
+*   [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
+*   [opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) - 微信小程序开源项目库汇总
+*   [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+*   [hfpp2012/docker-tutorial](https://github.com/hfpp2012/docker-tutorial) - 零基础学习docker，从应用入手带你深入理解docker
+*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+*   [goodjack/developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) - 2021 年成為 Web 開發人員的路線圖 台灣正體中文版
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [nineyang/clean-php-code](https://github.com/nineyang/clean-php-code) - clean-php-code翻译版
+*   [pangudashu/php7-internal](https://github.com/pangudashu/php7-internal) - PHP7内核剖析
+*   [dgallinari/phpstorm-sublime](https://github.com/dgallinari/phpstorm-sublime) - A PhpStorm keymap strongly inspired on Sublime Text 3 (some packages' keymaps included).
+*   [daylerees/material-peacock](https://github.com/daylerees/material-peacock) - Peacock colour scheme optimized for the Material UI PHPStorm theme.
+*   [jiangfengming/webpack-and-spa-guide](https://github.com/jiangfengming/webpack-and-spa-guide) - Webpack 4 和单页应用入门
+*   [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+*   [ZTfer/weui-sketch](https://github.com/ZTfer/weui-sketch) - weui sketch by ZTfer
+*   [forecho/awesome-yii2](https://github.com/forecho/awesome-yii2) - Yii2 干货集
+*   [nilium/st2-nil-theme](https://github.com/nilium/st2-nil-theme) - Minimalist Sublime Text 2 UI dark and light themes and color schemes. Includes HDPI support for retina displays. (Unmaintained)
+*   [hrsetyono/eightlime](https://github.com/hrsetyono/eightlime) - Eightlime - Sublime Text theme with Metro style
+
+## PHP
+
+*   [spatie/laravel-query-builder](https://github.com/spatie/laravel-query-builder) - Easily build Eloquent queries from API requests
+*   [yikeio/server](https://github.com/yikeio/server) - https://yike.io 服务端源码，项目基于 Laravel 10 开发。
+*   [lxerxa/actionview](https://github.com/lxerxa/actionview) - An issue tracking tool based on laravel+reactjs for small and medium-sized enterprises, open-source and free, similar to Jira.
+*   [slowlyo/owl-admin](https://github.com/slowlyo/owl-admin) - 🎈 Owl Admin : 基于 laravel 和 amis 开发的后台框架, 友好的组件使用体验, 可轻松实现复杂页面, 内置代码生成器, 让开发者快速搭建后台管理系统
+*   [laravel/prompts](https://github.com/laravel/prompts) - Beautiful and user-friendly forms for your command-line PHP applications.
+*   [overtrue/php-opencc](https://github.com/overtrue/php-opencc) - 中文简繁转换，支持词汇级别的转换、异体字转换和地区习惯用词转换（中国大陆、台湾、香港、日本新字体）。
+*   [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
+*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+*   [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development
+*   [basis-company/nats.php](https://github.com/basis-company/nats.php) - nats jetstream client for php
+*   [feiffy/codeIgnitor-ide-helper](https://github.com/feiffy/codeIgnitor-ide-helper) - codeignitor ide helper
+*   [php-deal/framework](https://github.com/php-deal/framework) - Design by Contract framework for PHP
+*   [TitasGailius/terminal](https://github.com/TitasGailius/terminal) - An Elegent wrapper around Symfony's Process component.
+*   [wowiwj/story-server](https://github.com/wowiwj/story-server) -
+*   [jukylin/jaeger-php](https://github.com/jukylin/jaeger-php) - Jaeger Bindings for PHP OpenTracing API
+*   [composer/satis](https://github.com/composer/satis) - Simple static Composer repository generator - For a full private Composer repo use Private Packagist
+*   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. Liberating Web Analytics. Star us on Github? +1.  And we love Pull Requests!
+*   [mayocream/ask\_mayo\_bot](https://github.com/mayocream/ask_mayo_bot) - Telegram 上的类似 ask.fm 的提问 / 留言板。
+*   [bschmitt/laravel-amqp](https://github.com/bschmitt/laravel-amqp) - AMQP wrapper for Laravel and Lumen to publish and consume messages
+*   [amphp/parallel](https://github.com/amphp/parallel) - An advanced parallelization library for PHP, enabling efficient multitasking, optimizing resource use, and application responsiveness through multiple CPU threads.
+*   [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
+*   [php/php-langspec](https://github.com/php/php-langspec) - PHP Language Specification
+*   [yriveiro/php-fslock](https://github.com/yriveiro/php-fslock) - A simple lock implementation using flock.
+*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+*   [symfony/event-dispatcher](https://github.com/symfony/event-dispatcher) - Provides tools that allow your application components to communicate with each other by dispatching events and listening to them
+*   [gitonomy/gitlib](https://github.com/gitonomy/gitlib) - Library for accessing Git repositories with PHP
+*   [FangStarNet/php-validator](https://github.com/FangStarNet/php-validator) - 一个强大好用的PHP参数校验组件，比起Laravel的Validator来说，简单易用，文档清晰！
+*   [f00b4r/nusoap](https://github.com/f00b4r/nusoap) - :smirk: Fixed NuSOAP for PHP 5.6 - 8.2
+*   [nikic/FastRoute](https://github.com/nikic/FastRoute) - Fast request router for PHP
+*   [slince/composer-registry-manager](https://github.com/slince/composer-registry-manager) - :hammer\_and\_wrench: :hammer: Composer registry manager that help to easily switch to the  composer repository you want.
+*   [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
+*   [laravel/installer](https://github.com/laravel/installer) - The Laravel application installer.
+*   [laravel/lumen](https://github.com/laravel/lumen) - The Laravel Lumen Framework.
+*   [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
+*   [opentracing/opentracing-php](https://github.com/opentracing/opentracing-php) - OpenTracing API for PHP
+*   [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
+*   [overtrue/laravel-query-logger](https://github.com/overtrue/laravel-query-logger) - :pencil: A dev tool to log all queries for laravel application.
+*   [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
+*   [doctrine/inflector](https://github.com/doctrine/inflector) - Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.
+*   [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis client for PHP.
+*   [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
+*   [lobtao/phpdesktop](https://github.com/lobtao/phpdesktop) - Developing Desktop Applications Like Developing Websites => phpdesktop
+*   [fideloper/TrustedProxy](https://github.com/fideloper/TrustedProxy) - Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries.
+*   [symfony/yaml](https://github.com/symfony/yaml) - Loads and dumps YAML files
+*   [doctrine/collections](https://github.com/doctrine/collections) - Collections Abstraction Library
+*   [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser
+*   [symfony/finder](https://github.com/symfony/finder) - Finds files and directories via an intuitive fluent interface
+*   [zircote/swagger-php](https://github.com/zircote/swagger-php) - A php swagger annotation and parsing library
+*   [santigarcor/laratrust](https://github.com/santigarcor/laratrust) - Handle roles and permissions in your Laravel application
+*   [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
+*   [php-pm/php-pm](https://github.com/php-pm/php-pm) - PPM is a process manager, supercharger and load balancer for modern PHP applications.
+*   [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+*   [bovigo/vfsStream](https://github.com/bovigo/vfsStream) - vfsStream is a stream wrapper for a virtual file system that may be helpful in unit tests to mock the real file system. It can be used with any unit test framework, like PHPUnit or SimpleTest.
+*   [phpspec/prophecy](https://github.com/phpspec/prophecy) - Highly opinionated mocking framework for PHP 5.3+
+*   [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
+*   [dancryer/php-docblock-checker](https://github.com/dancryer/php-docblock-checker) - A simple tool for checking that your PHP classes and methods use docblocks.
+*   [sebastianbergmann/phpcpd](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code.
+*   [dancryer/PHPCI](https://github.com/dancryer/PHPCI) - PHPCI is a free and open source continuous integration tool specifically designed for PHP.
+*   [maxmind/GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - PHP API for GeoIP2 webservice client and database reader
+*   [slince/event-dispatcher](https://github.com/slince/event-dispatcher) - :fire: A flexible event dispatching library for PHP
+*   [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
+*   [php-fig/container](https://github.com/php-fig/container) -
+*   [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
+*   [longxinH/xhprof](https://github.com/longxinH/xhprof) - PHP7/PHP8 support
+*   [pinguo/php-msf-demo](https://github.com/pinguo/php-msf-demo) -
+*   [pinguo/php-msf](https://github.com/pinguo/php-msf) - PHP微服务框架即Micro Service Framework For PHP
+*   [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
+*   [overtrue/chinese-calendar](https://github.com/overtrue/chinese-calendar) - :date: 中国农历（阴历）与阳历（公历）转换与查询工具
+*   [rovast/design-pattern-talk](https://github.com/rovast/design-pattern-talk) - 《大话设计模式》的 PHP 版本实现
+*   [xujiajun/php-framework-benchmark](https://github.com/xujiajun/php-framework-benchmark) - php framework benchmark (include laravel、symfony、silex、lumen、slim、yii2、tastphp etc)
+*   [phacility/xhprof](https://github.com/phacility/xhprof) - XHProf is a function-level hierarchical profiler for PHP and has a simple HTML based user interface.
+*   [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
+*   [slince/config](https://github.com/slince/config) - :bamboo: A flexible configuration file loader that supports multiple file formats
+*   [slince/di](https://github.com/slince/di) - :sheep: A flexible  dependency injection container; It is an implementation of PSR-11
+*   [cakephp/utility](https://github.com/cakephp/utility) - \[READ-ONLY] CakePHP Utility classes such as Inflector, Text, Hash, Security and Xml. This repo is a split of the main code that can be found in https://github.com/cakephp/cakephp
+*   [symfony/http-foundation](https://github.com/symfony/http-foundation) - Defines an object-oriented layer for the HTTP specification
+*   [phpmd/phpmd](https://github.com/phpmd/phpmd) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measured by PHP Depend.
+*   [squizlabs/PHP\_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP\_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
+*   [devaneando/Wikitten](https://github.com/devaneando/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
+*   [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).
+*   [overtrue/package-builder](https://github.com/overtrue/package-builder) - :package: A composer package builder.
+*   [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
+*   [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
+*   [phpmyadmin/docker](https://github.com/phpmyadmin/docker) - Docker container for phpMyAdmin
+*   [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - ✏️ Write and ship beautiful documentation with your Laravel applications using MarkDown
+*   [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+*   [jxlwqq/id-validator](https://github.com/jxlwqq/id-validator) - 中华人民共和国居民身份证、中华人民共和国港澳居民居住证以及中华人民共和国台湾居民居住证号码验证工具（PHP 版）
+*   [overtrue/weather](https://github.com/overtrue/weather) - :rainbow: 基于高德开放平台接口的 PHP 天气信息组件。
+*   [yyx990803/laravel-vue-cli-3](https://github.com/yyx990803/laravel-vue-cli-3) - Example project using Vue CLI 3 with Laravel
+*   [MAXakaWIZARD/JsonCollectionParser](https://github.com/MAXakaWIZARD/JsonCollectionParser) - Streaming parser for JSON collections
+*   [salsify/jsonstreamingparser](https://github.com/salsify/jsonstreamingparser) - A JSON streaming parser implementation in PHP.
+*   [LinkedDestiny/swoole-concise-guide](https://github.com/LinkedDestiny/swoole-concise-guide) -
+*   [kcloze/multiprocess](https://github.com/kcloze/multiprocess) - 🚀Easy to make the common PHP/Python/js...script change daemon and multi-process execution
+*   [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) - LaravelS is an out-of-the-box adapter between Laravel/Lumen and Swoole.
+*   [swoft-cloud/swoft](https://github.com/swoft-cloud/swoft) - 🚀 PHP Microservice Full Coroutine Framework
+*   [wudi/swoole-ide-helper](https://github.com/wudi/swoole-ide-helper) - Auto completion, trigger suggest and view docs for Swoole in editor.
+*   [rap2hpoutre/laravel-log-viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - :dromedary\_camel: Laravel log viewer
+*   [cpriego/valet-linux](https://github.com/cpriego/valet-linux) - A fork of Laravel Valet to work in Linux.
+*   [wowiwj/ding-notice](https://github.com/wowiwj/ding-notice) - 钉钉推送机器人消息发送laravel扩展包
+*   [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
+*   [guidocella/eloquent-insert-on-duplicate-key](https://github.com/guidocella/eloquent-insert-on-duplicate-key) - Macros for INSERT ON DUPLICATE KEY UPDATE and INSERT IGNORE with Eloquent
+*   [dingo/api](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks.
+*   [php-pds/skeleton](https://github.com/php-pds/skeleton) - Standard PHP package skeleton.
+*   [mdbootstrap/adminlte-laravel](https://github.com/mdbootstrap/adminlte-laravel) - A Laravel 5 package that switchs default Laravel scaffolding/boilerplate to AdminLTE template and Pratt Landing Page with Bootstrap 3.0
+*   [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+*   [codekerala/laravel-and-vue.js-spa-Recipe-Box](https://github.com/codekerala/laravel-and-vue.js-spa-Recipe-Box) - Single Page Application with Laravel 5.4 and Vue.js 2 - Recipe Box
+*   [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
+*   [PHP-DI/PHP-DI](https://github.com/PHP-DI/PHP-DI) - The dependency injection container for humans
+*   [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+*   [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - The Official MongoDB PHP library
+*   [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
+*   [php-enqueue/enqueue-dev](https://github.com/php-enqueue/enqueue-dev) - Message Queue, Job Queue, Broadcasting, WebSockets packages for PHP, Symfony, Laravel, Magento. DEVELOPMENT REPOSITORY - provided by Forma-Pro
+*   [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
+*   [spatie/laravel-backup](https://github.com/spatie/laravel-backup) - A package to backup your Laravel app
+*   [davibennun/laravel-push-notification](https://github.com/davibennun/laravel-push-notification) - Laravel package to enable sending push notifications to devices
+*   [webpatser/laravel-uuid](https://github.com/webpatser/laravel-uuid) - Laravel package to generate and to validate a UUID according to the RFC 4122 standard. Only support for version 1, 3, 4 and 5 UUID are built-in.
+*   [tighten/collect](https://github.com/tighten/collect) - A Collections-only split from Laravel's Illuminate Support
+*   [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
+*   [yadakhov/insert-on-duplicate-key](https://github.com/yadakhov/insert-on-duplicate-key) -
+*   [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP
+*   [jae-jae/QueryList](https://github.com/jae-jae/QueryList) - :spider: The progressive PHP crawler framework!  优雅的渐进式PHP采集框架。
+*   [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper
+*   [apollocn/phalcon-swoole](https://github.com/apollocn/phalcon-swoole) - php
+*   [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
+*   [nauxliu/auto-correct](https://github.com/nauxliu/auto-correct) - 自动给中英文之间加入合理的空格并纠正专用名词大小写
+*   [d13r/laravel-breadcrumbs](https://github.com/d13r/laravel-breadcrumbs) - Please see the Diglactic fork.
+*   [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel
+*   [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
+*   [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application
+*   [z-song/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes
+*   [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - IDE Helper for Laravel
+*   [zedisdog/laravel-schema-extend](https://github.com/zedisdog/laravel-schema-extend) - supplement for eloquent migration
+*   [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) - An easy-to-use PHP QrCode generator with first-party support for Laravel.
+*   [amzn/amazon-advertising-api-php-sdk](https://github.com/amzn/amazon-advertising-api-php-sdk) - ⛔️ DEPRECATED - Amazon Advertising API PHP Client Library
+*   [hamcrest/hamcrest-php](https://github.com/hamcrest/hamcrest-php) - PHP Hamcrest implementation \[Official]
+*   [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols.
+*   [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 📲 一款满足你的多种发送需求的短信发送组件
+*   [jenssegers/agent](https://github.com/jenssegers/agent) - 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
+*   [overtrue/laravel-wechat](https://github.com/overtrue/laravel-wechat) - 微信 SDK for Laravel, 基于 overtrue/wechat
+*   [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5/6/7/8/9/10/11
+*   [Germey/LaravelGeetest](https://github.com/Germey/LaravelGeetest) - Geetest Package for Laravel5
+*   [greggilbert/recaptcha](https://github.com/greggilbert/recaptcha) - \[ABANDONED] reCAPTCHA Validator for Laravel 5
+*   [jcc/blog](https://github.com/jcc/blog) - :star2: PJ Blog is an open source blog built with Laravel and Vue.js.
+*   [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
+*   [nicolaslopezj/searchable](https://github.com/nicolaslopezj/searchable) - A php trait to search laravel models
+*   [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10/11
+*   [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
+*   [actuallymab/laravel-comment](https://github.com/actuallymab/laravel-comment) - Just another comment system for your awesome Laravel project.
+*   [etrepat/baum](https://github.com/etrepat/baum) - Baum is an implementation of the Nested Set pattern for Laravel's Eloquent ORM.
+*   [laracasts/flash](https://github.com/laracasts/flash) - Easy flash notifications
+*   [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+*   [overtrue/laravel-lang](https://github.com/overtrue/laravel-lang) - :earth\_asia: 75 languages support for Laravel application.
+*   [Hesto/multi-auth](https://github.com/Hesto/multi-auth) - Laravel 5.3, 5.4, 5.5, 5.6, 5.7 multi auth package
+*   [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
+*   [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
+*   [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
+*   [thedevdojo/voyager](https://github.com/thedevdojo/voyager) - Voyager - The Missing Laravel Admin
+*   [DevMarketer/multiauth\_tutorial](https://github.com/DevMarketer/multiauth_tutorial) -
+*   [jplhomer/laravel-realtime-chat-demo](https://github.com/jplhomer/laravel-realtime-chat-demo) - Realtime chat demo using Laravel 5.4, VueJS and Pusher
+*   [Zizaco/entrust](https://github.com/Zizaco/entrust) - Role-based Permissions for Laravel 5
+*   [overtrue/socialite](https://github.com/overtrue/socialite) - Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
+*   [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
+*   [LaravelCollective/html](https://github.com/LaravelCollective/html) - HTML and Form Builders for the Laravel Framework
+*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
+*   [walkor/web-msg-sender](https://github.com/walkor/web-msg-sender) - Web message pusher  written in PHP based on workerman.
+*   [summerblue/phphub5](https://github.com/summerblue/phphub5) - PHPHub Ver 5 is a Forum project Powered by Laravel 5.1, and it is also the project build up PHP & Laravel China community （此项目已弃用）
+*   [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
+*   [dodgepudding/wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk) - 微信公众平台php开发包, weixin developer SDK.
+*   [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) - Auth manager for Yii2 (RBAC Manager)
+*   [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) - AdminLTE Asset Bundle for Backend Theme in Yii2 Framework
+
 ## Jupyter Notebook
 
 *   [keitazoumana/Medium-Articles-Notebooks](https://github.com/keitazoumana/Medium-Articles-Notebooks) -
@@ -934,11 +941,11 @@
 *   [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 *   [pufferffish/wireproxy](https://github.com/pufferffish/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
 *   [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
-*   [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+*   [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 *   [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 *   [jstemmer/go-junit-report](https://github.com/jstemmer/go-junit-report) - Convert Go test output to JUnit XML
 *   [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
-*   [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
+*   [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented DevOps platform
 *   [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 Go Captcha is a behavior security captcha, which implements text click verification, slide verification and rotation verification.
 *   [sergeyfrolov/httpt](https://github.com/sergeyfrolov/httpt) - A probe resistant proxy
 *   [icexin/eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
@@ -1757,13 +1764,6 @@
 ## Perl
 
 *   [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
-
-## SCSS
-
-*   [Shimada666/v-code-diff](https://github.com/Shimada666/v-code-diff) - A vue code diff display plugin, support Vue2 / Vue3
-*   [mayocream/hugo-theme-kagami](https://github.com/mayocream/hugo-theme-kagami) - Kagami theme for Hugo
-*   [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
-*   [vinceliuice/Mojave-gtk-theme](https://github.com/vinceliuice/Mojave-gtk-theme) - Mojave is a macos Mojave like theme for GTK 3, GTK 2 and Gnome-Shell
 
 ## R
 
