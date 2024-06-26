@@ -78,7 +78,7 @@
 *   [ZTDBP/ZAPortal](https://github.com/ZTDBP/ZAPortal) -
 *   [binjie09/chatgpt-web](https://github.com/binjie09/chatgpt-web) - 使用 express 和 vue3 搭建的 ChartGPT 演示网页
 *   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star。
-*   [xpf0000/PhpWebStudy](https://github.com/xpf0000/PhpWebStudy) - Powerful Web and PHP Development Environment for macOS
+*   [xpf0000/PhpWebStudy](https://github.com/xpf0000/PhpWebStudy) - Powerful Web and PHP Development Environment. Support both macOS and windows
 *   [lagrangedao/website-frontend](https://github.com/lagrangedao/website-frontend) - Frontend of Lagrange DAO
 *   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 *   [meterscao/Speechless](https://github.com/meterscao/Speechless) - 把新浪微博的内容，导出成 PDF 文件进行备份的 Chrome Extension。
@@ -235,7 +235,6 @@
 *   [facebook/react-devtools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 *   [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
-*   [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) -
 *   [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
 *   [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
 *   [php-fig/fig-standards](https://github.com/php-fig/fig-standards) - Standards either proposed or approved by the Framework Interop Group
@@ -923,7 +922,7 @@
 *   [wb14123/seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet) - Play couplet with seq2seq model. 用深度学习对对联。
 *   [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
 *   [wavexx/screenkey](https://github.com/wavexx/screenkey) - A screencast tool to display your keys inspired by Screenflick
-*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool and alternative to CyberArk.         广受欢迎的开源堡垒机。
+*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
 *   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 *   [egalpin/apt-vim](https://github.com/egalpin/apt-vim) - Fully-automated, Cross-platform Plugin Manager for Vim
 *   [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
@@ -1801,6 +1800,7 @@
 *   [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 *   [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 *   [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
+*   [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) -
 *   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 *   [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 
