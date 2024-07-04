@@ -262,7 +262,7 @@
 *   [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 *   [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 *   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-*   [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC.
+*   [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC.
 *   [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 *   [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 *   [mindoc-org/mindoc](https://github.com/mindoc-org/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
