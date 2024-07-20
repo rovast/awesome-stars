@@ -808,7 +808,7 @@
 *   [zheeeng/export-from-json](https://github.com/zheeeng/export-from-json) - Export to plain text, css, html, json, csv, xls, xml files from JSON.
 *   [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
 *   [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
-*   [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+*   [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 *   [cardinalby/webext-buildtools-pack-extension-dir-action](https://github.com/cardinalby/webext-buildtools-pack-extension-dir-action) - Reads manifest and packs WebExtension dir to zip
 *   [cardinalby/webext-buildtools-chrome-crx-action](https://github.com/cardinalby/webext-buildtools-chrome-crx-action) - Github Action to pack and sign crx file for your WebExtension
 *   [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
