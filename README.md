@@ -411,7 +411,6 @@
 *   [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 *   [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep iFrames sized to their content.
 *   [tw93/Maple](https://github.com/tw93/Maple) - 🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。
-*   [buzz/newsdash](https://github.com/buzz/newsdash) - A news dashboard inspired by iGoogle and Netvibes
 *   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 *   [ethereum/solidity-website](https://github.com/ethereum/solidity-website) -
 *   [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
@@ -726,6 +725,7 @@
 *   [machinefi/w3bstream-studio](https://github.com/machinefi/w3bstream-studio) - W3bstream development and node management GUI
 *   [Equal-UI/Equal](https://github.com/Equal-UI/Equal) - Equal UI is a Vue 3 UI library empowered by Tailwindcss
 *   [Redstone-1/xwg-cli](https://github.com/Redstone-1/xwg-cli) - A front-end cli for starting your project quickly
+*   [buzz/newsdash](https://github.com/buzz/newsdash) - A news dashboard inspired by iGoogle and Netvibes
 *   [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 *   [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 *   [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
