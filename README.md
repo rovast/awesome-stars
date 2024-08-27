@@ -115,7 +115,7 @@
 *   [maxd010/sheng-qi](https://github.com/maxd010/sheng-qi) - 一个简单的升旗仪式。
 *   [wasmCloud/weld](https://github.com/wasmCloud/weld) - tools for processing smithy models
 *   [wasmCloud/examples](https://github.com/wasmCloud/examples) - ARCHIVED: This repository contains examples for pre-1.0 versions of wasmCloud. All examples are now located in the main wasmCloud repository https://github.com/wasmCloud/wasmCloud/tree/main/examples.
-*   [wasmCloud/interfaces](https://github.com/wasmCloud/interfaces) - wasmCloud API interfaces: smithy IDLs and shared libraries
+*   [wasmCloud/interfaces](https://github.com/wasmCloud/interfaces) - Deprecated: wasmCloud API interfaces: smithy IDLs and shared libraries
 *   [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
 *   [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 *   [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
