@@ -1060,7 +1060,7 @@
 *   [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
 *   [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms) - Bug-tracking for Jeff's algorithms book, notes, etc.
 *   [jyfc/ebook](https://github.com/jyfc/ebook) - classic books of computer science
-*   [iffybug/reverse-interview-zh](https://github.com/iffybug/reverse-interview-zh) - 技术面试最后反问面试官的话
+*   [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh) - 技术面试最后反问面试官的话
 *   [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
 *   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 *   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
