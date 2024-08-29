@@ -574,7 +574,6 @@
 *   [keymetrics/pm2-logrotate](https://github.com/keymetrics/pm2-logrotate) - Automatically rotate all applications logs managed by PM2
 *   [ddchef/vue-code-diff](https://github.com/ddchef/vue-code-diff) - vue文件差异对比
 *   [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 *   [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
 *   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 *   [sandoche/Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
@@ -745,7 +744,7 @@
 *   [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !  weapp-vite 把现代化的开发模式带入小程序开发
 *   [electron-vite/vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) - :electron: Electron⚡️Vite core repo
 *   [ethanleeX/MyTiktok](https://github.com/ethanleeX/MyTiktok) -
-*   [matheuscastroweb/tiktok-clone](https://github.com/matheuscastroweb/tiktok-clone) - Clone of the TikTok app layout with React Native
+*   [matheuspelegrino/tiktok-clone](https://github.com/matheuspelegrino/tiktok-clone) - Clone of the TikTok app layout with React Native
 *   [hujiulong/gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具
 *   [netease-kit/Kit-FullSearch-Electron](https://github.com/netease-kit/Kit-FullSearch-Electron) -
 *   [netease-kit/nim-uikit-web](https://github.com/netease-kit/nim-uikit-web) - nim uikit  web
@@ -866,13 +865,14 @@
 *   [mgcrea/node-xlsx](https://github.com/mgcrea/node-xlsx) - NodeJS excel file parser & builder
 *   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 *   [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 *   [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 *   [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 *   [silverwind/is-cidr](https://github.com/silverwind/is-cidr) - Check if a string is an IP address in CIDR notation
 *   [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 *   [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 *   [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 *   [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 *   [ui-schema/ui-schema](https://github.com/ui-schema/ui-schema) - Use JSON-Schema with React, generate Forms + UIs with any design system, easy creation of complex custom widgets.
 *   [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) - A powerful micro front-end framework 🚚
