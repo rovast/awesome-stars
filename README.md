@@ -321,7 +321,6 @@
 *   [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 *   [txthinking/zoro](https://github.com/txthinking/zoro) - zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration.
 *   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
-*   [gwuhaolin/lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
 *   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 *   [gopcp/example.v2](https://github.com/gopcp/example.v2) - An example project for book 'Go Programming & Concurrency in Practice, 2nd edition' (《Go并发编程实战》第2版).
 *   [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
@@ -1375,6 +1374,7 @@
 *   [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 *   [dodgepudding/wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk) - 微信公众平台php开发包, weixin developer SDK.
 *   [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) - Auth manager for Yii2 (RBAC Manager)
+*   [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) - AdminLTE Asset Bundle for Backend Theme in Yii2 Framework
 
 ## Jupyter Notebook
 
@@ -1456,6 +1456,7 @@
 *   [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 *   [FreedomBen/rtl8188ce-linux-driver](https://github.com/FreedomBen/rtl8188ce-linux-driver) - This modified version of the RealTek WiFi driver fixes some issues with RealTek cards on Linux.
 *   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
+*   [lyfeyaj/sublime-text-imfix](https://github.com/lyfeyaj/sublime-text-imfix) - Fix Sublime Text 3 Input method problem (CJK words) under Ubuntu
 
 ## Objective-C
 
@@ -1514,7 +1515,6 @@
 *   [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 *   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 *   [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
-*   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
 *   [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 *   [grpc/grpc.io](https://github.com/grpc/grpc.io) - Repository for the gRPC website and documentation
 *   [fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
