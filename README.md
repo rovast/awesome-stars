@@ -23,13 +23,13 @@
 *   [HTML](#html)
 *   [Rust](#rust)
 *   [CoffeeScript](#coffeescript)
+*   [Markdown](#markdown)
 *   [OCaml](#ocaml)
 *   [Objective-C++](#objective-c-1)
 *   [Zig](#zig)
 *   [C++](#c-1)
 *   [MDX](#mdx)
 *   [Ruby](#ruby)
-*   [Markdown](#markdown)
 *   [Svelte](#svelte)
 *   [Solidity](#solidity)
 *   [Gherkin](#gherkin)
@@ -963,7 +963,6 @@
 *   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 *   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 *   [blend-os/blendOS](https://github.com/blend-os/blendOS) - A seamless blend of all Linux distributions.
-*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 *   [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 *   [walter201230/Python](https://github.com/walter201230/Python) - 最良心的 Python 教程：
 *   [rfyiamcool/share\_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  个人做过的技术分享... ( topic: 高性能架构,  中间件原理实践，云原生，Golang 等)
@@ -1580,6 +1579,15 @@
 *   [mzlogin/chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines) - Chinese Copywriting Guidelines：中文文案排版指北（简体中文版）
 *   [soyjavi/QuoJS](https://github.com/soyjavi/QuoJS) - Micro #JavaScript Library for Mobile Devices
 
+## Markdown
+
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+*   [brunosimon/threejs-journey-uptime](https://github.com/brunosimon/threejs-journey-uptime) - 📈 Uptime monitor and status page for Bruno Simon, powered by @upptime
+*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+*   [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs
+*   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+*   [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
+
 ## OCaml
 
 *   [dfinity/motoko](https://github.com/dfinity/motoko) - Simple high-level language for writing Internet Computer canisters
@@ -1657,14 +1665,6 @@
 *   [capistrano/laravel](https://github.com/capistrano/laravel) - Gem for deploying Laravel projects with capistrano v3.\*
 *   [capistrano/composer](https://github.com/capistrano/composer) - Capistrano extension for Composer tasks
 *   [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
-
-## Markdown
-
-*   [brunosimon/threejs-journey-uptime](https://github.com/brunosimon/threejs-journey-uptime) - 📈 Uptime monitor and status page for Bruno Simon, powered by @upptime
-*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-*   [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs
-*   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-*   [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 
 ## Svelte
 
