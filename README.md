@@ -1351,7 +1351,7 @@
 *   [nicolaslopezj/searchable](https://github.com/nicolaslopezj/searchable) - A php trait to search laravel models
 *   [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10/11
 *   [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
-*   [actuallymab/laravel-comment](https://github.com/actuallymab/laravel-comment) - Just another comment system for your awesome Laravel project.
+*   [ShortlyMAB/laravel-comment](https://github.com/ShortlyMAB/laravel-comment) - Just another comment system for your awesome Laravel project.
 *   [etrepat/baum](https://github.com/etrepat/baum) - Baum is an implementation of the Nested Set pattern for Laravel's Eloquent ORM.
 *   [laracasts/flash](https://github.com/laracasts/flash) - Easy flash notifications
 *   [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
