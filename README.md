@@ -584,7 +584,7 @@
 *   [harmonycloud/Bifrost](https://github.com/harmonycloud/Bifrost) - Bifrost is an open source solution enabling L2 network for kubernetes. The network traffic in Bifrost can be managed and monitored by traditional devices.
 *   [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 *   [Jrohy/trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
-*   [golang-module/carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for time
+*   [dromara/carbon](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly golang package for time
 *   [pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
 *   [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 *   [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
