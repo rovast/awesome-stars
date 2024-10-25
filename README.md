@@ -45,7 +45,6 @@
 *   [Vala](#vala)
 *   [C#](#c-2)
 *   [Haskell](#haskell)
-*   [ANTLR](#antlr)
 *   [Mustache](#mustache)
 *   [JSON](#json)
 *   [Perl](#perl)
@@ -432,6 +431,7 @@
 *   [wasmCloud/examples](https://github.com/wasmCloud/examples) - ARCHIVED: This repository contains examples for pre-1.0 versions of wasmCloud. All examples are now located in the main wasmCloud repository https://github.com/wasmCloud/wasmCloud/tree/main/examples.
 *   [wasmCloud/interfaces](https://github.com/wasmCloud/interfaces) - Deprecated: wasmCloud API interfaces: smithy IDLs and shared libraries
 *   [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
+*   [lbc-team/solidity-doc-cn](https://github.com/lbc-team/solidity-doc-cn) - 以太坊Solidity语言中文文档
 *   [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 *   [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 *   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
@@ -1749,10 +1749,6 @@
 
 *   [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 *   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-
-## ANTLR
-
-*   [lbc-team/solidity-doc-cn](https://github.com/lbc-team/solidity-doc-cn) - 以太坊Solidity语言中文文档
 
 ## Mustache
 
