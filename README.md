@@ -1039,7 +1039,7 @@
 *   [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
 *   [eryajf/awesome-navigation](https://github.com/eryajf/awesome-navigation) - 🧭 优秀的导航项目，优质的导航站搜集整理
 *   [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
-*   [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
+*   [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
 *   [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 *   [overtrue/redius.xyz](https://github.com/overtrue/redius.xyz) - wip
 *   [protocol/research-grants](https://github.com/protocol/research-grants) - Protocol Labs Research Grants
