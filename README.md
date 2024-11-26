@@ -1714,7 +1714,7 @@
 
 ## HCL
 
-*   [hashicorp/learn-nomad-cluster-setup](https://github.com/hashicorp/learn-nomad-cluster-setup) - Companion repo for the HashiCorp tutorial collection on Nomad cluster setup
+*   [hashicorp-education/learn-nomad-cluster-setup](https://github.com/hashicorp-education/learn-nomad-cluster-setup) - Companion repo for the HashiCorp tutorial collection on Nomad cluster setup
 
 ## Dockerfile
 
