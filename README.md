@@ -660,7 +660,7 @@
 *   [kailong321200875/vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin) - A backend management system based on vue3, typescript, element-plus, and vite
 *   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 *   [ztalab/ZAPortal](https://github.com/ztalab/ZAPortal) - The zero-trust management platform provides users with a control interface with low thresholds.
-*   [wenlng/go-captcha-vue](https://github.com/wenlng/go-captcha-vue) - 🖖 GoCaptcha of Vue, which implements click mode, slider mode, drag-drop mode and rotation mode.
+*   [wenlng/go-captcha-vue](https://github.com/wenlng/go-captcha-vue) - 🖖 GoCaptcha for Vue, which implements click mode, slider mode, drag-drop mode and rotation mode.
 *   [inoutcode/ethereum\_book](https://github.com/inoutcode/ethereum_book) - 精通以太坊 （中文版）
 *   [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 *   [eclipsesource/jsonforms-vue-seed](https://github.com/eclipsesource/jsonforms-vue-seed) - Vue 3 and Vue 2 seed for JSON Forms
@@ -1709,7 +1709,6 @@
 ## Smarty
 
 *   [Taction/wasmcloud-nomad-pack](https://github.com/Taction/wasmcloud-nomad-pack) -
-*   [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 *   [apache/skywalking-helm](https://github.com/apache/skywalking-helm) - Apache SkyWalking Kubernetes Deployment Helm Chart
 
 ## HCL
@@ -1753,6 +1752,7 @@
 ## Mustache
 
 *   [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - The helm chart to deploy Harbor
+*   [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 *   [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 
 ## JSON
