@@ -72,7 +72,7 @@
 *   [dash14/v-network-graph](https://github.com/dash14/v-network-graph) - An interactive network graph visualization component for Vue 3
 *   [plus-pro-components/plus-pro-components](https://github.com/plus-pro-components/plus-pro-components) - 🔥Page level components developed based on Element Plus.  ProComponents in vue.
 *   [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
-*   [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue 表格解决方案
+*   [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - Vxe Table 支持 vue2, vue3 的表格解决方案
 *   [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
 *   [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
 *   [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
@@ -308,7 +308,7 @@
 *   [DanielKeep/tlborm](https://github.com/DanielKeep/tlborm) - The Little Book of Rust Macros
 *   [wasmCloud/wash](https://github.com/wasmCloud/wash) - WAsmcloud SHell - the comprehensive command-line tool for wasmCloud development
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-*   [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
+*   [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 *   [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
 *   [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
 *   [apache/skywalking-php](https://github.com/apache/skywalking-php) - Apache SkyWalking PHP Agent
@@ -722,7 +722,7 @@
 *   [michaelsauter/crane](https://github.com/michaelsauter/crane) - Crane - Lift containers with ease
 *   [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 *   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 #1 Rated Web-based Linux Server Management Tool. / 现代化、开源的 Linux 服务器运维管理面板。
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more,  letting you streamlines your server management experience.
 *   [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
 *   [ZTDBP/ZAManager](https://github.com/ZTDBP/ZAManager) - ZAManager is the controller of ZASentinel
 *   [ZTDBP/ZASentinel-MYSQL](https://github.com/ZTDBP/ZASentinel-MYSQL) -
