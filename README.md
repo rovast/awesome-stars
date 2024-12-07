@@ -764,7 +764,7 @@
 *   [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 *   [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 *   [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-*   [RedTimeDB/RedTimeDB](https://github.com/RedTimeDB/RedTimeDB) - Welcome to the next-generation time series database, based on the memory write-through model, with ultra-high performance.
+*   [RedEpochDB/RedEpochDB](https://github.com/RedEpochDB/RedEpochDB) - Next-Generation Time Series Database for AI and Web3.0, built on an in-memory model, offering ultra-high-speed write and query performance with advanced data AI capabilities and blockchain integration for faster, smarter, and more secure time series data management.
 *   [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
 *   [rsc/2fa](https://github.com/rsc/2fa) - Two-factor authentication on the command line
 *   [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -1827,7 +1827,7 @@
 
 ## Rich Text Format
 
-*   [ThinkDevelopers/PHPConChina](https://github.com/ThinkDevelopers/PHPConChina) -
+*   [bobxia/PHPConChina](https://github.com/bobxia/PHPConChina) -
 
 ## Astro
 
