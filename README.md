@@ -4,9 +4,10 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
+*   [Go](#go)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
-*   [Go](#go)
 *   [Java](#java)
 *   [Rust](#rust)
 *   [MDX](#mdx)
@@ -14,7 +15,6 @@
 *   [CSS](#css)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
-*   [Shell](#shell)
 *   [SCSS](#scss)
 *   [Dart](#dart)
 *   [PHP](#php)
@@ -62,6 +62,272 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Astro](#astro)
 *   [Clojure](#clojure)
+
+## Shell
+
+*   [swagger-api/swagger-converter](https://github.com/swagger-api/swagger-converter) - OpenAPI/Swagger 2.0 to OpenAPI 3.0 Converter WebService
+*   [mayocream/mayo.sh](https://github.com/mayocream/mayo.sh) - curl -L mayo.sh | sh
+*   [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only.
+*   [nanqinlang-script/testrace](https://github.com/nanqinlang-script/testrace) - convenient to test your traceroute
+*   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
+*   [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
+*   [QiuChenlyOpenSource/MyMacsAppCrack](https://github.com/QiuChenlyOpenSource/MyMacsAppCrack) - MacBook 自用软件破解（macOS Intel）
+*   [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
+*   [wowu/docker-rollout](https://github.com/wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
+*   [xiqishow/bing\_wallpaper](https://github.com/xiqishow/bing_wallpaper) - Schedule changing macOS wallpaper from Bing
+*   [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
+*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+*   [jinwyp/one\_click\_script](https://github.com/jinwyp/one_click_script) - install latest or LTS linux kernel and enable BBR or BBR plus
+*   [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
+*   [bats-core/bats-assert](https://github.com/bats-core/bats-assert) - Common assertions for Bats
+*   [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+*   [521xueweihan/OneFile](https://github.com/521xueweihan/OneFile) - 只有一个文件！
+*   [katalon-studio/katalon-studio](https://github.com/katalon-studio/katalon-studio) -
+*   [snail007/proxy\_admin\_free](https://github.com/snail007/proxy_admin_free) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
+*   [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
+*   [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh My Zsh and plugins inside a Docker container with one line!
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+*   [mayocream/alpine-box](https://github.com/mayocream/alpine-box) - This builds an up-to-date Vagrant Alpine Linux Base Box
+*   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
+*   [kuoruan/shell-scripts](https://github.com/kuoruan/shell-scripts) - Linux Shell Scripts
+*   [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
+*   [popsuper1982/tcpipillustrated](https://github.com/popsuper1982/tcpipillustrated) -
+*   [vinceliuice/McMojave-circle](https://github.com/vinceliuice/McMojave-circle) - McMojave-circle icon theme for linux desktops
+*   [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
+*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
+*   [shipping-docker/vessel](https://github.com/shipping-docker/vessel) - Up and running with small Docker environments
+*   [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more
+*   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
+*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+*   [laravel/settler](https://github.com/laravel/settler) -
+*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+*   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+*   [addy-dclxvi/tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
+*   [oblique/create\_ap](https://github.com/oblique/create_ap) - \[NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
+*   [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+*   [nullrndtx/Infinality-Debian-Jessie](https://github.com/nullrndtx/Infinality-Debian-Jessie) - Better Font Rendering With Infinality Font Rendering
+
+## Go
+
+*   [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
+*   [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
+*   [Tufin/oasdiff](https://github.com/Tufin/oasdiff) - OpenAPI Diff and Breaking Changes
+*   [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
+*   [pretty66/fastcar](https://github.com/pretty66/fastcar) - PHP long connection proxy, eliminates short links and reduces request latency
+*   [wasmate/wasmate-runtime](https://github.com/wasmate/wasmate-runtime) - WASMATE, a transformative force, not only empowers developers with efficient WebAssembly runtimes for Web2.0 applications but also propels them into the decentralized future of Web3.0, unleashing a contagious wave of innovation and security in the web development landscape.
+*   [jdomzhang/pdf2image](https://github.com/jdomzhang/pdf2image) - command line to convert pdf file to image files
+*   [yunionio/cloudpods](https://github.com/yunionio/cloudpods) - A cloud-native open-source unified multi-cloud and hybrid-cloud platform. 开源、云原生的多云管理及混合云融合平台
+*   [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+*   [ignite/cli](https://github.com/ignite/cli) - Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK
+*   [stc-community/nin](https://github.com/stc-community/nin) - Nin is a client framework for nostr-relayer
+*   [Edgenesis/shifu](https://github.com/Edgenesis/shifu) - Kubernetes-native IoT gateway
+*   [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - @IceFireLabs -> IceFireDB is a database built for web3.0 It strives to fill the gap between web2 and web3.0 with a friendly database experience, making web3 application data storage more convenient, and making it easier for web2 applications to achieve decentralization and data immutability.
+*   [michaelsauter/crane](https://github.com/michaelsauter/crane) - Crane - Lift containers with ease
+*   [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
+*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
+*   [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
+*   [ZTDBP/ZAManager](https://github.com/ZTDBP/ZAManager) - ZAManager is the controller of ZASentinel
+*   [ZTDBP/ZASentinel-MYSQL](https://github.com/ZTDBP/ZASentinel-MYSQL) -
+*   [ZTDBP/ZASentinel](https://github.com/ZTDBP/ZASentinel) -
+*   [stc-community/stc-container-cloud](https://github.com/stc-community/stc-container-cloud) -
+*   [lwch/natpass](https://github.com/lwch/natpass) - 🔥居家办公，远程开发神器
+*   [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
+*   [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+*   [fiatjaf/relayer](https://github.com/fiatjaf/relayer) - A Nostr relay server framework.
+*   [Lilypad-Tech/lilypad-v0](https://github.com/Lilypad-Tech/lilypad-v0) - A simple and lightweight FVM oracle using Bacalhau
+*   [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
+*   [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+*   [solywsh/chatgpt](https://github.com/solywsh/chatgpt) - chartgpt client for golang（use gpt3）
+*   [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
+*   [ztalab/mysqlproxy](https://github.com/ztalab/mysqlproxy) -
+*   [stc-community/stc-dpki](https://github.com/stc-community/stc-dpki) - Decentralized PKI infrastructure to increase application trust.
+*   [jordan-rash/wasmcloud-go](https://github.com/jordan-rash/wasmcloud-go) -
+*   [Taction/wasmcloud-http-provider-go](https://github.com/Taction/wasmcloud-http-provider-go) - wasmcloud http provider in go
+*   [google/martian](https://github.com/google/martian) - Martian is a library for building custom HTTP/S proxies
+*   [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+*   [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
+*   [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
+*   [FlowShield/FlowShield-fyne-gui](https://github.com/FlowShield/FlowShield-fyne-gui) - FlowShield-fyne-gui
+*   [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
+*   [hr3lxphr6j/bililive-go](https://github.com/hr3lxphr6j/bililive-go) - 一个直播录制工具
+*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+*   [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+*   [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
+*   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
+*   [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
+*   [klzgrad/forwardproxy](https://github.com/klzgrad/forwardproxy) - Forward proxy plugin for the Caddy web server
+*   [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
+*   [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
+*   [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
+*   [zxh0/wasmgo-book](https://github.com/zxh0/wasmgo-book) - 《WebAssembly原理与核心技术》随书源代码
+*   [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) -
+*   [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
+*   [hashicorp/http-echo](https://github.com/hashicorp/http-echo) - A tiny go web server that echos what you start it with!
+*   [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+*   [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
+*   [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+*   [RedEpochDB/RedEpochDB](https://github.com/RedEpochDB/RedEpochDB) - Next-Generation Time Series Database for AI and Web3.0, built on an in-memory model, offering ultra-high-speed write and query performance with advanced data AI capabilities and blockchain integration for faster, smarter, and more secure time series data management.
+*   [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
+*   [rsc/2fa](https://github.com/rsc/2fa) - Two-factor authentication on the command line
+*   [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+*   [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
+*   [liudanking/quic-proxy](https://github.com/liudanking/quic-proxy) - A http/https proxy using QUIC as transport layer
+*   [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+*   [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
+*   [nats-io/nats-architecture-and-design](https://github.com/nats-io/nats-architecture-and-design) - Architecture and Design Docs
+*   [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
+*   [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+*   [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
+*   [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
+*   [nats-io/prometheus-nats-exporter](https://github.com/nats-io/prometheus-nats-exporter) - A Prometheus exporter for NATS metrics
+*   [nats-io/natscli](https://github.com/nats-io/natscli) - The NATS Command Line Interface
+*   [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes' cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台
+*   [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies' licenses.
+*   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+*   [wa-lang/wa](https://github.com/wa-lang/wa) - The Wa Programming Language
+*   [FlowShield/flowshield](https://github.com/FlowShield/flowshield) - Global web3.0 decentralized private retrieval of data security network，Building Cyber Sovereignty.  by @IceFireLabs
+*   [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
+*   [DataDrake/cli-ng](https://github.com/DataDrake/cli-ng) - An easy to use CLI library for the Go language
+*   [songgao/water](https://github.com/songgao/water) - A simple TUN/TAP library written in native Go.
+*   [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
+*   [nisainan/wstunnel](https://github.com/nisainan/wstunnel) - A proxy based on native ws protocal.
+*   [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code)
+*   [google/trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
+*   [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
+*   [kitasuke/monkey-go](https://github.com/kitasuke/monkey-go) - "Writing An Interpreter in Go" and "Wring A Compiler in Go"
+*   [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
+*   [bytedance/Elkeid](https://github.com/bytedance/Elkeid) - Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless. It is derived from ByteDance's internal best practices.
+*   [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat) - A terminal-based P2P chat application using libp2p and Golang that uses a Kademlia DHT and the IPFS network for peer discovery and routing
+*   [ztalab/zaca-sdk](https://github.com/ztalab/zaca-sdk) - Zaca system is equipped with Ca SDK, which can automatically apply for certificates, rotate certificates, and support OCSP verification
+*   [wujunwei/docker-registry-client](https://github.com/wujunwei/docker-registry-client) - An API client for the V2 Docker Registry API.  (copy form heroku / docker-registry-client and fix some bug add support for multiply manifest)
+*   [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+*   [pufferffish/wireproxy](https://github.com/pufferffish/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
+*   [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+*   [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
+*   [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
+*   [jstemmer/go-junit-report](https://github.com/jstemmer/go-junit-report) - Convert Go test output to JUnit XML
+*   [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
+*   [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented DevOps platform
+*   [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 GoCaptcha is a behavior captcha, which implements click mode, slider mode, drag-drop mode and rotation mode.
+*   [sergeyfrolov/httpt](https://github.com/sergeyfrolov/httpt) - A probe resistant proxy
+*   [icexin/eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
+*   [erjadi/kubecraftadmin](https://github.com/erjadi/kubecraftadmin) -
+*   [layer5io/learn-layer5](https://github.com/layer5io/learn-layer5) - A sample application for learning how to service mesh and for validating SMI conformance
+*   [layer5io/getnighthawk](https://github.com/layer5io/getnighthawk) - Putting Nighthawk into the hands of many
+*   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+*   [mayocream/pastebin-ipfs](https://github.com/mayocream/pastebin-ipfs) - 🌐 (Web 3.0) Pastebin built on IPFS, securely served by Distributed Web and Edge Network.
+*   [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
+*   [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
+*   [schollz/websitechanges](https://github.com/schollz/websitechanges) - Alerts you via email about a website change.
+*   [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
+*   [alecbcs/hyprspace](https://github.com/alecbcs/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks.
+*   [nknorg/nkn](https://github.com/nknorg/nkn) - Official Go implementation of NKN full node.
+*   [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+*   [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
+*   [go-chassis/kie-client](https://github.com/go-chassis/kie-client) - Go client of https://github.com/apache/servicecomb-kie
+*   [Jeiwan/blockchain\_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
+*   [apache/servicecomb-kie](https://github.com/apache/servicecomb-kie) - Apache ServiceComb MetaConfig
+*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
+*   [ICKelin/article](https://github.com/ICKelin/article) - 读书笔记，博客文章
+*   [mayocream/chaos-mesh-controlpanel-demo](https://github.com/mayocream/chaos-mesh-controlpanel-demo) - 💣 Chaos Mesh Control Panel demo
+*   [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
+*   [IceFireDB/redhub](https://github.com/IceFireDB/redhub) - High-performance Redis-Server multi-threaded framework, based on rawepoll model.
+*   [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework focusing on RPC scenarios.
+*   [shadowsocks/v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
+*   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
+*   [caddyserver/forwardproxy](https://github.com/caddyserver/forwardproxy) - Forward proxy plugin for the Caddy web server
+*   [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
+*   [grab/talaria](https://github.com/grab/talaria) - TalariaDB is a distributed, highly available, and low latency time-series database for Presto
+*   [fenixsoft/fenix-cli](https://github.com/fenixsoft/fenix-cli) - Interactive Cloud-Native Environment Client
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+*   [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
+*   [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
+*   [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+*   [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
+*   [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+*   [prometheus/node\_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
+*   [harmonycloud/Bifrost](https://github.com/harmonycloud/Bifrost) - Bifrost is an open source solution enabling L2 network for kubernetes. The network traffic in Bifrost can be managed and monitored by traditional devices.
+*   [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
+*   [Jrohy/trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
+*   [dromara/carbon](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly  time  package for golang
+*   [pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
+*   [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
+*   [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+*   [golang-design/under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+*   [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
+*   [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+*   [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+*   [cyfdecyf/cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
+*   [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB)
+*   [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
+*   [gaochao1/swcollector](https://github.com/gaochao1/swcollector) -
+*   [ccfos/nightingale](https://github.com/ccfos/nightingale) - An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
+*   [open-falcon/falcon-plus](https://github.com/open-falcon/falcon-plus) -  An open-source and enterprise-level monitoring system.
+*   [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+*   [apache/skywalking-satellite](https://github.com/apache/skywalking-satellite) - The Sidecar Project of Apache SkyWalking
+*   [SkyAPM/go2sky](https://github.com/SkyAPM/go2sky) - Distributed tracing and monitor SDK in Go for Apache SkyWalking APM
+*   [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
+*   [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
+*   [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
+*   [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+*   [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+*   [prometheus/OpenMetrics](https://github.com/prometheus/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
+*   [netheril96/MEOW](https://github.com/netheril96/MEOW) - MEOW is a fork of COW that uses whitelist mode.
+*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
+*   [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
+*   [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters, used by Milvus and Beego.
+*   [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+*   [mosn/mosn](https://github.com/mosn/mosn) - The Cloud-Native Network Proxy Platform
+*   [lindb/lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
+*   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+*   [golang-design/history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
+*   [adonovan/gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
+*   [tidwall/evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
+*   [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
+*   [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
+*   [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
+*   [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
+*   [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
+*   [teamgram/teamgram-server](https://github.com/teamgram/teamgram-server) - Unofficial open source mtproto server written in golang with compatible telegram client.
+*   [bilibili/overlord](https://github.com/bilibili/overlord) - Overlord是哔哩哔哩基于Go语言编写的memcache和redis\&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。
+*   [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
+*   [txthinking/zoro](https://github.com/txthinking/zoro) - zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration.
+*   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
+*   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+*   [gopcp/example.v2](https://github.com/gopcp/example.v2) - An example project for book 'Go Programming & Concurrency in Practice, 2nd edition' (《Go并发编程实战》第2版).
+*   [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
+*   [golang/go](https://github.com/golang/go) - The Go programming language
+*   [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
+*   [refraction-networking/utls](https://github.com/refraction-networking/utls) -  Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
+*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
+*   [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
+*   [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+*   [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
+*   [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+*   [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
+*   [mindoc-org/mindoc](https://github.com/mindoc-org/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
+*   [radondb/radon](https://github.com/radondb/radon) - RadonDB is an open source, cloud-native MySQL database for building global, scalable cloud services
+*   [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+*   [Waitfantasy/unicorn](https://github.com/Waitfantasy/unicorn) -
+*   [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
+*   [dreamans/syncd](https://github.com/dreamans/syncd) - syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.
+*   [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+*   [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
+*   [ua-nick/Data-Structures-and-Algorithms](https://github.com/ua-nick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
+*   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+*   [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
+*   [shadowsocks/shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - go port of shadowsocks (Deprecated)
 
 ## JavaScript
 
@@ -362,8 +628,6 @@
 *   [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 *   [ruanyf/webpack-demos](https://github.com/ruanyf/webpack-demos) - a collection of simple demos of Webpack
 *   [fex-team/ueditor](https://github.com/fex-team/ueditor) - rich text 富文本编辑器
-*   [jieyou/lazyload](https://github.com/jieyou/lazyload) - 一个jQuery或zepto的图片延迟加载插件。An jQuery | zepto plugin for lazy loading images.
-*   [tuupola/lazyload](https://github.com/tuupola/lazyload) - Vanilla JavaScript plugin for lazyloading images
 
 ## TypeScript
 
@@ -587,223 +851,6 @@
 *   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 *   [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 *   [leongersen/noUiSlider](https://github.com/leongersen/noUiSlider) - noUiSlider is a lightweight, ARIA-accessible JavaScript range slider with multi-touch and keyboard support. It is fully GPU animated: no reflows, so it is fast; even on older devices. It also fits wonderfully in responsive designs and has no dependencies.
-
-## Go
-
-*   [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
-*   [Tufin/oasdiff](https://github.com/Tufin/oasdiff) - OpenAPI Diff and Breaking Changes
-*   [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
-*   [pretty66/fastcar](https://github.com/pretty66/fastcar) - PHP long connection proxy, eliminates short links and reduces request latency
-*   [wasmate/wasmate-runtime](https://github.com/wasmate/wasmate-runtime) - WASMATE, a transformative force, not only empowers developers with efficient WebAssembly runtimes for Web2.0 applications but also propels them into the decentralized future of Web3.0, unleashing a contagious wave of innovation and security in the web development landscape.
-*   [jdomzhang/pdf2image](https://github.com/jdomzhang/pdf2image) - command line to convert pdf file to image files
-*   [yunionio/cloudpods](https://github.com/yunionio/cloudpods) - A cloud-native open-source unified multi-cloud and hybrid-cloud platform. 开源、云原生的多云管理及混合云融合平台
-*   [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
-*   [ignite/cli](https://github.com/ignite/cli) - Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK
-*   [stc-community/nin](https://github.com/stc-community/nin) - Nin is a client framework for nostr-relayer
-*   [Edgenesis/shifu](https://github.com/Edgenesis/shifu) - Kubernetes-native IoT gateway
-*   [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - @IceFireLabs -> IceFireDB is a database built for web3.0 It strives to fill the gap between web2 and web3.0 with a friendly database experience, making web3 application data storage more convenient, and making it easier for web2 applications to achieve decentralization and data immutability.
-*   [michaelsauter/crane](https://github.com/michaelsauter/crane) - Crane - Lift containers with ease
-*   [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
-*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
-*   [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
-*   [ZTDBP/ZAManager](https://github.com/ZTDBP/ZAManager) - ZAManager is the controller of ZASentinel
-*   [ZTDBP/ZASentinel-MYSQL](https://github.com/ZTDBP/ZASentinel-MYSQL) -
-*   [ZTDBP/ZASentinel](https://github.com/ZTDBP/ZASentinel) -
-*   [stc-community/stc-container-cloud](https://github.com/stc-community/stc-container-cloud) -
-*   [lwch/natpass](https://github.com/lwch/natpass) - 🔥居家办公，远程开发神器
-*   [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
-*   [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
-*   [fiatjaf/relayer](https://github.com/fiatjaf/relayer) - A Nostr relay server framework.
-*   [Lilypad-Tech/lilypad-v0](https://github.com/Lilypad-Tech/lilypad-v0) - A simple and lightweight FVM oracle using Bacalhau
-*   [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
-*   [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
-*   [solywsh/chatgpt](https://github.com/solywsh/chatgpt) - chartgpt client for golang（use gpt3）
-*   [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
-*   [ztalab/mysqlproxy](https://github.com/ztalab/mysqlproxy) -
-*   [stc-community/stc-dpki](https://github.com/stc-community/stc-dpki) - Decentralized PKI infrastructure to increase application trust.
-*   [jordan-rash/wasmcloud-go](https://github.com/jordan-rash/wasmcloud-go) -
-*   [Taction/wasmcloud-http-provider-go](https://github.com/Taction/wasmcloud-http-provider-go) - wasmcloud http provider in go
-*   [google/martian](https://github.com/google/martian) - Martian is a library for building custom HTTP/S proxies
-*   [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-*   [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
-*   [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
-*   [FlowShield/FlowShield-fyne-gui](https://github.com/FlowShield/FlowShield-fyne-gui) - FlowShield-fyne-gui
-*   [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
-*   [hr3lxphr6j/bililive-go](https://github.com/hr3lxphr6j/bililive-go) - 一个直播录制工具
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-*   [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
-*   [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
-*   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
-*   [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
-*   [klzgrad/forwardproxy](https://github.com/klzgrad/forwardproxy) - Forward proxy plugin for the Caddy web server
-*   [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
-*   [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
-*   [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-*   [zxh0/wasmgo-book](https://github.com/zxh0/wasmgo-book) - 《WebAssembly原理与核心技术》随书源代码
-*   [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) -
-*   [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
-*   [hashicorp/http-echo](https://github.com/hashicorp/http-echo) - A tiny go web server that echos what you start it with!
-*   [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-*   [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
-*   [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-*   [RedEpochDB/RedEpochDB](https://github.com/RedEpochDB/RedEpochDB) - Next-Generation Time Series Database for AI and Web3.0, built on an in-memory model, offering ultra-high-speed write and query performance with advanced data AI capabilities and blockchain integration for faster, smarter, and more secure time series data management.
-*   [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
-*   [rsc/2fa](https://github.com/rsc/2fa) - Two-factor authentication on the command line
-*   [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
-*   [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
-*   [liudanking/quic-proxy](https://github.com/liudanking/quic-proxy) - A http/https proxy using QUIC as transport layer
-*   [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-*   [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
-*   [nats-io/nats-architecture-and-design](https://github.com/nats-io/nats-architecture-and-design) - Architecture and Design Docs
-*   [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
-*   [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
-*   [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
-*   [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
-*   [nats-io/prometheus-nats-exporter](https://github.com/nats-io/prometheus-nats-exporter) - A Prometheus exporter for NATS metrics
-*   [nats-io/natscli](https://github.com/nats-io/natscli) - The NATS Command Line Interface
-*   [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes' cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台
-*   [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies' licenses.
-*   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-*   [wa-lang/wa](https://github.com/wa-lang/wa) - The Wa Programming Language
-*   [FlowShield/flowshield](https://github.com/FlowShield/flowshield) - Global web3.0 decentralized private retrieval of data security network，Building Cyber Sovereignty.  by @IceFireLabs
-*   [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
-*   [DataDrake/cli-ng](https://github.com/DataDrake/cli-ng) - An easy to use CLI library for the Go language
-*   [songgao/water](https://github.com/songgao/water) - A simple TUN/TAP library written in native Go.
-*   [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
-*   [nisainan/wstunnel](https://github.com/nisainan/wstunnel) - A proxy based on native ws protocal.
-*   [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code)
-*   [google/trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
-*   [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
-*   [kitasuke/monkey-go](https://github.com/kitasuke/monkey-go) - "Writing An Interpreter in Go" and "Wring A Compiler in Go"
-*   [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
-*   [bytedance/Elkeid](https://github.com/bytedance/Elkeid) - Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless. It is derived from ByteDance's internal best practices.
-*   [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat) - A terminal-based P2P chat application using libp2p and Golang that uses a Kademlia DHT and the IPFS network for peer discovery and routing
-*   [ztalab/zaca-sdk](https://github.com/ztalab/zaca-sdk) - Zaca system is equipped with Ca SDK, which can automatically apply for certificates, rotate certificates, and support OCSP verification
-*   [wujunwei/docker-registry-client](https://github.com/wujunwei/docker-registry-client) - An API client for the V2 Docker Registry API.  (copy form heroku / docker-registry-client and fix some bug add support for multiply manifest)
-*   [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-*   [pufferffish/wireproxy](https://github.com/pufferffish/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
-*   [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
-*   [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
-*   [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
-*   [jstemmer/go-junit-report](https://github.com/jstemmer/go-junit-report) - Convert Go test output to JUnit XML
-*   [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
-*   [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented DevOps platform
-*   [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 GoCaptcha is a behavior captcha, which implements click mode, slider mode, drag-drop mode and rotation mode.
-*   [sergeyfrolov/httpt](https://github.com/sergeyfrolov/httpt) - A probe resistant proxy
-*   [icexin/eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
-*   [erjadi/kubecraftadmin](https://github.com/erjadi/kubecraftadmin) -
-*   [layer5io/learn-layer5](https://github.com/layer5io/learn-layer5) - A sample application for learning how to service mesh and for validating SMI conformance
-*   [layer5io/getnighthawk](https://github.com/layer5io/getnighthawk) - Putting Nighthawk into the hands of many
-*   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-*   [mayocream/pastebin-ipfs](https://github.com/mayocream/pastebin-ipfs) - 🌐 (Web 3.0) Pastebin built on IPFS, securely served by Distributed Web and Edge Network.
-*   [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
-*   [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
-*   [schollz/websitechanges](https://github.com/schollz/websitechanges) - Alerts you via email about a website change.
-*   [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
-*   [alecbcs/hyprspace](https://github.com/alecbcs/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks.
-*   [nknorg/nkn](https://github.com/nknorg/nkn) - Official Go implementation of NKN full node.
-*   [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
-*   [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
-*   [go-chassis/kie-client](https://github.com/go-chassis/kie-client) - Go client of https://github.com/apache/servicecomb-kie
-*   [Jeiwan/blockchain\_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
-*   [apache/servicecomb-kie](https://github.com/apache/servicecomb-kie) - Apache ServiceComb MetaConfig
-*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
-*   [ICKelin/article](https://github.com/ICKelin/article) - 读书笔记，博客文章
-*   [mayocream/chaos-mesh-controlpanel-demo](https://github.com/mayocream/chaos-mesh-controlpanel-demo) - 💣 Chaos Mesh Control Panel demo
-*   [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
-*   [IceFireDB/redhub](https://github.com/IceFireDB/redhub) - High-performance Redis-Server multi-threaded framework, based on rawepoll model.
-*   [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework focusing on RPC scenarios.
-*   [shadowsocks/v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
-*   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-*   [caddyserver/forwardproxy](https://github.com/caddyserver/forwardproxy) - Forward proxy plugin for the Caddy web server
-*   [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
-*   [grab/talaria](https://github.com/grab/talaria) - TalariaDB is a distributed, highly available, and low latency time-series database for Presto
-*   [fenixsoft/fenix-cli](https://github.com/fenixsoft/fenix-cli) - Interactive Cloud-Native Environment Client
-*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
-*   [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
-*   [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
-*   [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-*   [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
-*   [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
-*   [prometheus/node\_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
-*   [harmonycloud/Bifrost](https://github.com/harmonycloud/Bifrost) - Bifrost is an open source solution enabling L2 network for kubernetes. The network traffic in Bifrost can be managed and monitored by traditional devices.
-*   [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
-*   [Jrohy/trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
-*   [dromara/carbon](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly  time  package for golang
-*   [pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
-*   [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
-*   [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
-*   [golang-design/under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-*   [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
-*   [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-*   [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-*   [cyfdecyf/cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
-*   [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB)
-*   [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-*   [gaochao1/swcollector](https://github.com/gaochao1/swcollector) -
-*   [ccfos/nightingale](https://github.com/ccfos/nightingale) - An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
-*   [open-falcon/falcon-plus](https://github.com/open-falcon/falcon-plus) -  An open-source and enterprise-level monitoring system.
-*   [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-*   [apache/skywalking-satellite](https://github.com/apache/skywalking-satellite) - The Sidecar Project of Apache SkyWalking
-*   [SkyAPM/go2sky](https://github.com/SkyAPM/go2sky) - Distributed tracing and monitor SDK in Go for Apache SkyWalking APM
-*   [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
-*   [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
-*   [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
-*   [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-*   [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-*   [prometheus/OpenMetrics](https://github.com/prometheus/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
-*   [netheril96/MEOW](https://github.com/netheril96/MEOW) - MEOW is a fork of COW that uses whitelist mode.
-*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-*   [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
-*   [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters, used by Milvus and Beego.
-*   [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-*   [mosn/mosn](https://github.com/mosn/mosn) - The Cloud-Native Network Proxy Platform
-*   [lindb/lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
-*   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-*   [golang-design/history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
-*   [adonovan/gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
-*   [tidwall/evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
-*   [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
-*   [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
-*   [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
-*   [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-*   [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
-*   [teamgram/teamgram-server](https://github.com/teamgram/teamgram-server) - Unofficial open source mtproto server written in golang with compatible telegram client.
-*   [bilibili/overlord](https://github.com/bilibili/overlord) - Overlord是哔哩哔哩基于Go语言编写的memcache和redis\&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。
-*   [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
-*   [txthinking/zoro](https://github.com/txthinking/zoro) - zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration.
-*   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
-*   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-*   [gopcp/example.v2](https://github.com/gopcp/example.v2) - An example project for book 'Go Programming & Concurrency in Practice, 2nd edition' (《Go并发编程实战》第2版).
-*   [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
-*   [golang/go](https://github.com/golang/go) - The Go programming language
-*   [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-*   [refraction-networking/utls](https://github.com/refraction-networking/utls) -  Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
-*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-*   [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
-*   [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-*   [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
-*   [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-*   [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
-*   [mindoc-org/mindoc](https://github.com/mindoc-org/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
-*   [radondb/radon](https://github.com/radondb/radon) - RadonDB is an open source, cloud-native MySQL database for building global, scalable cloud services
-*   [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
-*   [Waitfantasy/unicorn](https://github.com/Waitfantasy/unicorn) -
-*   [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
-*   [dreamans/syncd](https://github.com/dreamans/syncd) - syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.
-*   [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-*   [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
-*   [ua-nick/Data-Structures-and-Algorithms](https://github.com/ua-nick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
-*   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-*   [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
-*   [shadowsocks/shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - go port of shadowsocks (Deprecated)
 
 ## Java
 
@@ -1176,53 +1223,6 @@
 *   [daylerees/material-peacock](https://github.com/daylerees/material-peacock) - Peacock colour scheme optimized for the Material UI PHPStorm theme.
 *   [jiangfengming/webpack-and-spa-guide](https://github.com/jiangfengming/webpack-and-spa-guide) - Webpack 4 和单页应用入门
 *   [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-
-## Shell
-
-*   [mayocream/mayo.sh](https://github.com/mayocream/mayo.sh) - curl -L mayo.sh | sh
-*   [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only.
-*   [nanqinlang-script/testrace](https://github.com/nanqinlang-script/testrace) - convenient to test your traceroute
-*   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
-*   [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
-*   [QiuChenlyOpenSource/MyMacsAppCrack](https://github.com/QiuChenlyOpenSource/MyMacsAppCrack) - MacBook 自用软件破解（macOS Intel）
-*   [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
-*   [wowu/docker-rollout](https://github.com/wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
-*   [xiqishow/bing\_wallpaper](https://github.com/xiqishow/bing_wallpaper) - Schedule changing macOS wallpaper from Bing
-*   [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
-*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-*   [jinwyp/one\_click\_script](https://github.com/jinwyp/one_click_script) - install latest or LTS linux kernel and enable BBR or BBR plus
-*   [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
-*   [bats-core/bats-assert](https://github.com/bats-core/bats-assert) - Common assertions for Bats
-*   [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-*   [521xueweihan/OneFile](https://github.com/521xueweihan/OneFile) - 只有一个文件！
-*   [katalon-studio/katalon-studio](https://github.com/katalon-studio/katalon-studio) -
-*   [snail007/proxy\_admin\_free](https://github.com/snail007/proxy_admin_free) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
-*   [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
-*   [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh My Zsh and plugins inside a Docker container with one line!
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-*   [mayocream/alpine-box](https://github.com/mayocream/alpine-box) - This builds an up-to-date Vagrant Alpine Linux Base Box
-*   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-*   [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
-*   [kuoruan/shell-scripts](https://github.com/kuoruan/shell-scripts) - Linux Shell Scripts
-*   [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
-*   [popsuper1982/tcpipillustrated](https://github.com/popsuper1982/tcpipillustrated) -
-*   [vinceliuice/McMojave-circle](https://github.com/vinceliuice/McMojave-circle) - McMojave-circle icon theme for linux desktops
-*   [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
-*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
-*   [shipping-docker/vessel](https://github.com/shipping-docker/vessel) - Up and running with small Docker environments
-*   [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more
-*   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
-*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-*   [laravel/settler](https://github.com/laravel/settler) -
-*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-*   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-*   [addy-dclxvi/tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
-*   [oblique/create\_ap](https://github.com/oblique/create_ap) - \[NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
-*   [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-*   [nullrndtx/Infinality-Debian-Jessie](https://github.com/nullrndtx/Infinality-Debian-Jessie) - Better Font Rendering With Infinality Font Rendering
 
 ## SCSS
 
