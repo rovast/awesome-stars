@@ -682,7 +682,6 @@
 *   [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 *   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 *   [d3/d3-scale-chromatic](https://github.com/d3/d3-scale-chromatic) - Sequential, diverging and categorical color scales.
-*   [SkyAPMTest/skywalking-client-test](https://github.com/SkyAPMTest/skywalking-client-test) - skywalking-client-js test demo
 *   [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 *   [drudru/ansi\_up](https://github.com/drudru/ansi_up) - A javascript library that converts text with ANSI terminal codes into colorful HTML Zero dependencies.
 *   [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
@@ -968,6 +967,7 @@
 *   [inoutcode/ethereum\_book](https://github.com/inoutcode/ethereum_book) - 精通以太坊 （中文版）
 *   [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 *   [eclipsesource/jsonforms-vue-seed](https://github.com/eclipsesource/jsonforms-vue-seed) - Vue 3 and Vue 2 seed for JSON Forms
+*   [SkyAPMTest/skywalking-client-test](https://github.com/SkyAPMTest/skywalking-client-test) - skywalking-client-js test demo
 *   [apache/skywalking-rocketbot-ui](https://github.com/apache/skywalking-rocketbot-ui) - SkyWalking RocketBot UI
 *   [netease-im/NIM\_Web\_Demo\_H5](https://github.com/netease-im/NIM_Web_Demo_H5) - 网易云信Web Demo Html5 移动端适配。【推荐客户得京东卡，首次推荐成单得1500元京东卡，连续推荐2000元/单，上不封顶。】点击参与https://yunxin.163.com/promotion/recommend
 *   [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
