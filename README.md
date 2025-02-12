@@ -118,7 +118,7 @@
 *   [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
 *   [dfinity/motoko-playground](https://github.com/dfinity/motoko-playground) - Motoko playground
 *   [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 *   [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 *   [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design
 *   [arco-design/arco-design-vue](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library based on Arco Design
