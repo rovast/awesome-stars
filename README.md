@@ -765,7 +765,7 @@
 *   [michaelsauter/crane](https://github.com/michaelsauter/crane) - Crane - Lift containers with ease
 *   [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 *   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
 *   [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
 *   [ZTDBP/ZAManager](https://github.com/ZTDBP/ZAManager) - ZAManager is the controller of ZASentinel
 *   [ZTDBP/ZASentinel-MYSQL](https://github.com/ZTDBP/ZASentinel-MYSQL) -
