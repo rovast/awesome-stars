@@ -65,6 +65,7 @@
 
 ## TypeScript
 
+*   [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 *   [buka-inc/community.opendoc](https://github.com/buka-inc/community.opendoc) - \[WIP]支持OpenAPI/AsyncAPI的接口文档平台
 *   [sheinsight/reactive](https://github.com/sheinsight/reactive) - ⚛️ Reactive: Proxy-driven state for React & Vanilla JavaScript. Intuitive, Flexible and Written in TypeScript.
 *   [keq-request/keq](https://github.com/keq-request/keq) - Request API write by Typescript for flexibility, readability, and a low learning curve
@@ -1419,7 +1420,6 @@
 *   [thedevdojo/voyager](https://github.com/thedevdojo/voyager) - Voyager - The Missing Laravel Admin
 *   [DevMarketer/multiauth\_tutorial](https://github.com/DevMarketer/multiauth_tutorial) -
 *   [jplhomer/laravel-realtime-chat-demo](https://github.com/jplhomer/laravel-realtime-chat-demo) - Realtime chat demo using Laravel 5.4, VueJS and Pusher
-*   [Zizaco/entrust](https://github.com/Zizaco/entrust) - Role-based Permissions for Laravel 5
 
 ## Jupyter Notebook
 
