@@ -1444,7 +1444,7 @@
 *   [imp/dnsmasq](https://github.com/imp/dnsmasq) - Mirror of the upstream dnsmasq repository
 *   [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 *   [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 *   [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 *   [ksyun-kenc/liuguang](https://github.com/ksyun-kenc/liuguang) - 鎏光云游戏引擎
 *   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
