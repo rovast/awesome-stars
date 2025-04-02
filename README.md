@@ -65,6 +65,7 @@
 
 ## TypeScript
 
+*   [keq-request/keq-cache](https://github.com/keq-request/keq-cache) - Add cache strategy for http requests
 *   [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 *   [buka-inc/community.opendoc](https://github.com/buka-inc/community.opendoc) - \[WIP]支持OpenAPI/AsyncAPI的接口文档平台
 *   [sheinsight/reactive](https://github.com/sheinsight/reactive) - ⚛️ Reactive: Proxy-driven state for React & Vanilla JavaScript. Intuitive, Flexible and Written in TypeScript.
@@ -1419,7 +1420,6 @@
 *   [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
 *   [thedevdojo/voyager](https://github.com/thedevdojo/voyager) - Voyager - The Missing Laravel Admin
 *   [DevMarketer/multiauth\_tutorial](https://github.com/DevMarketer/multiauth_tutorial) -
-*   [jplhomer/laravel-realtime-chat-demo](https://github.com/jplhomer/laravel-realtime-chat-demo) - Realtime chat demo using Laravel 5.4, VueJS and Pusher
 
 ## Jupyter Notebook
 
