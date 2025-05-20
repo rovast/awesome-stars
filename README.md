@@ -674,7 +674,6 @@
 *   [jassics/security-study-plan](https://github.com/jassics/security-study-plan) - Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
 *   [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
 *   [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-*   [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.5. PHP 8.5 is built nightly.
 *   [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.
 *   [infoslack/awesome-unikernels](https://github.com/infoslack/awesome-unikernels) - A list about Unikernels
 *   [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
@@ -1659,6 +1658,7 @@
 *   [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing for Ruby
 *   [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 *   [shivammathur/homebrew-extensions](https://github.com/shivammathur/homebrew-extensions) - :beers: Homebrew tap for PHP extensions
+*   [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.5. PHP 8.5 is built nightly.
 *   [junegunn/redis-stat](https://github.com/junegunn/redis-stat) - (UNMAINTAINED) A real-time Redis monitoring tool
 *   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 *   [capistrano/laravel](https://github.com/capistrano/laravel) - Gem for deploying Laravel projects with capistrano v3.\*
