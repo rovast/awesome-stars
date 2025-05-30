@@ -545,6 +545,7 @@
 *   [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
 *   [metachris/vue-highlightjs](https://github.com/metachris/vue-highlightjs) - Syntax highlighting with highlight.js for Vue.js 2.x
 *   [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
+*   [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 *   [haochuan9421/vue-ueditor-wrap](https://github.com/haochuan9421/vue-ueditor-wrap) - 🚴Vue + 🚄UEditor + v-model双向绑定🚀
 *   [Mermade/openapi-webconverter](https://github.com/Mermade/openapi-webconverter) - Mermade Swagger 2.0 to OpenAPI 3.0.0 converter front-end
 *   [asciimath/asciimathml](https://github.com/asciimath/asciimathml) - A new home for asciimathml
@@ -861,7 +862,7 @@
 *   [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 *   [nats-io/prometheus-nats-exporter](https://github.com/nats-io/prometheus-nats-exporter) - A Prometheus exporter for NATS metrics
 *   [nats-io/natscli](https://github.com/nats-io/natscli) - The NATS Command Line Interface
-*   [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes' cloud native application management platform
+*   [goodrain/rainbond](https://github.com/goodrain/rainbond) - A container platform that needs no Kubernetes learning, Build, deploy, and scale apps on Kubernetes, no K8s expertise needed, all in a graphical platform.
 *   [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies' licenses.
 *   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 *   [wa-lang/wa](https://github.com/wa-lang/wa) - The Wa Programming Language
@@ -1420,7 +1421,6 @@
 *   [Zizaco/entrust](https://github.com/Zizaco/entrust) - Role-based Permissions for Laravel 5
 *   [overtrue/socialite](https://github.com/overtrue/socialite) - Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
 *   [LaravelCollective/html](https://github.com/LaravelCollective/html) - HTML and Form Builders for the Laravel Framework
-*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
 
 ## Jupyter Notebook
 
