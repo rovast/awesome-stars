@@ -60,7 +60,6 @@
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Blade](#blade)
 *   [Rich Text Format](#rich-text-format)
-*   [Astro](#astro)
 *   [Clojure](#clojure)
 
 ## Java
@@ -1160,6 +1159,7 @@
 *   [cofess/hexo-theme-pure](https://github.com/cofess/hexo-theme-pure) - Hexo theme pure. It's a pure theme for Hexo.
 *   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 *   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 *   [ruanyf/survivor](https://github.com/ruanyf/survivor) - 博客文集《未来世界的幸存者》
 *   [ruanyf/road](https://github.com/ruanyf/road) - 博客文集《前方的路》
 *   [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
@@ -1828,10 +1828,6 @@
 
 *   [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 *   [bobxia/PHPConChina](https://github.com/bobxia/PHPConChina) -
-
-## Astro
-
-*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Clojure
 
