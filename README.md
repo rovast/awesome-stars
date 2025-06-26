@@ -121,7 +121,7 @@
 *   [dash14/v-network-graph](https://github.com/dash14/v-network-graph) - An interactive network graph visualization component for Vue 3
 *   [plus-pro-components/plus-pro-components](https://github.com/plus-pro-components/plus-pro-components) - 🔥Page level components developed based on Element Plus.  ProComponents in vue.
 *   [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
-*   [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - Vxe Table 支持 vue2, vue3 的表格解决方案
+*   [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe table 支持 vue2, vue3 的表格解决方案
 *   [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
 *   [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
 *   [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
@@ -235,7 +235,7 @@
 *   [trufflesuite/ganache](https://github.com/trufflesuite/ganache) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 *   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 *   [tryethernal/hardhat-ethernal](https://github.com/tryethernal/hardhat-ethernal) - Hardhat plugin for Ethernal
-*   [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
+*   [vinta/pangu.js](https://github.com/vinta/pangu.js) - Opinionated paranoid text spacing in JavaScript
 *   [zheeeng/export-from-json](https://github.com/zheeeng/export-from-json) - Export to plain text, css, html, json, csv, xls, xml files from JSON.
 *   [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
 *   [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
@@ -329,6 +329,7 @@
 *   [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 *   [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 *   [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 *   [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 *   [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 *   [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
@@ -584,7 +585,7 @@
 *   [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
 *   [ngryman/cz-emoji](https://github.com/ngryman/cz-emoji) - Commitizen adapter formatting commit messages using emojis.
 *   [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
-*   [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
+*   [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
 *   [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 *   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 *   [kazupon/vue-i18n](https://github.com/kazupon/vue-i18n) - :globe\_with\_meridians: Internationalization plugin for Vue.js
@@ -1051,7 +1052,7 @@
 *   [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 *   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 *   [yingDev/Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
-*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 *   [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 *   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
 *   [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -1157,7 +1158,6 @@
 *   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
 *   [cofess/hexo-theme-pure](https://github.com/cofess/hexo-theme-pure) - Hexo theme pure. It's a pure theme for Hexo.
 *   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 *   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 *   [ruanyf/survivor](https://github.com/ruanyf/survivor) - 博客文集《未来世界的幸存者》
 *   [ruanyf/road](https://github.com/ruanyf/road) - 博客文集《前方的路》
