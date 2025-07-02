@@ -1334,7 +1334,7 @@
 *   [slince/di](https://github.com/slince/di) - :sheep: A flexible  dependency injection container; It is an implementation of PSR-11
 *   [cakephp/utility](https://github.com/cakephp/utility) - \[READ-ONLY] CakePHP Utility classes such as Inflector, Text, Hash, Security and Xml. This repo is a split of the main code that can be found in https://github.com/cakephp/cakephp
 *   [symfony/http-foundation](https://github.com/symfony/http-foundation) - Defines an object-oriented layer for the HTTP specification
-*   [swoole/phpx](https://github.com/swoole/phpx) - 💗 C++ wrapper for Zend API
+*   [swoole/phpx](https://github.com/swoole/phpx) - C++ wrapper for Zend API
 *   [phpmd/phpmd](https://github.com/phpmd/phpmd) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measured by PHP Depend.
 *   [squizlabs/PHP\_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP\_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 *   [devaneando/Wikitten](https://github.com/devaneando/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
