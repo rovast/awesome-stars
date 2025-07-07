@@ -307,6 +307,7 @@
 *   [ecomfe/zrender](https://github.com/ecomfe/zrender) - A lightweight graphic library providing 2d draw for Apache ECharts
 *   [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
 *   [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
+*   [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 *   [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 *   [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 *   [sheinsight/shineout](https://github.com/sheinsight/shineout) - 高性能 React 组件库
@@ -1216,7 +1217,6 @@
 *   [wb14123/seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet) - Play couplet with seq2seq model. 用深度学习对对联。
 *   [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
 *   [wavexx/screenkey](https://github.com/wavexx/screenkey) - A screencast tool to display your keys inspired by Screenflick
-*   [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 *   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
 *   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
