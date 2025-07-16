@@ -799,7 +799,7 @@
 *   [Edgenesis/shifu](https://github.com/Edgenesis/shifu) - Kubernetes-native IoT gateway
 *   [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - @IceFireLabs -> IceFireDB is a database built for web3.0 It strives to fill the gap between web2 and web3.0 with a friendly database experience, making web3 application data storage more convenient, and making it easier for web2 applications to achieve decentralization and data immutability.
 *   [michaelsauter/crane](https://github.com/michaelsauter/crane) - Crane - Lift containers with ease
-*   [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
+*   [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 *   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 *   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 *   [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
