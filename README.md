@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [Java](#java)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
@@ -37,7 +38,6 @@
 *   [just](#just)
 *   [Stylus](#stylus)
 *   [CartoCSS](#cartocss)
-*   [Kotlin](#kotlin)
 *   [Smarty](#smarty)
 *   [HCL](#hcl)
 *   [Dockerfile](#dockerfile)
@@ -61,6 +61,14 @@
 *   [Blade](#blade)
 *   [Rich Text Format](#rich-text-format)
 *   [Clojure](#clojure)
+
+## Kotlin
+
+*   [tangcent/easy-api](https://github.com/tangcent/easy-api) - Generate API document
+*   [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android
+*   [JetBrains/projector-server](https://github.com/JetBrains/projector-server) - Server-side library for running Swing applications remotely
+*   [pbyrne84/DynamicReturnTypePlugin](https://github.com/pbyrne84/DynamicReturnTypePlugin) -
+*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 
 ## Java
 
@@ -1480,7 +1488,6 @@
 *   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 *   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 *   [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
-*   [daylerees/colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
 
 ## C
 
@@ -1697,13 +1704,6 @@
 ## CartoCSS
 
 *   [CartoDB/basemap-styles](https://github.com/CartoDB/basemap-styles) - CARTO basemap public styles
-
-## Kotlin
-
-*   [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android
-*   [JetBrains/projector-server](https://github.com/JetBrains/projector-server) - Server-side library for running Swing applications remotely
-*   [pbyrne84/DynamicReturnTypePlugin](https://github.com/pbyrne84/DynamicReturnTypePlugin) -
-*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 
 ## Smarty
 
