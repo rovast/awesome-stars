@@ -294,6 +294,7 @@
 *   [netease-kit/Kit-FullSearch-Electron](https://github.com/netease-kit/Kit-FullSearch-Electron) -
 *   [netease-kit/nim-uikit-web](https://github.com/netease-kit/nim-uikit-web) - nim uikit  web
 *   [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more! 9 years of continuous development and counting.
+*   [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 *   [tsndr/cloudflare-worker-jwt](https://github.com/tsndr/cloudflare-worker-jwt) - A lightweight JWT implementation with ZERO dependencies for Cloudflare Workers.
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 *   [wuba/Picasso](https://github.com/wuba/Picasso) - 一款UI自动生成代码插件，提供UI自动生成代码全流程解决方案。
@@ -522,7 +523,6 @@
 *   [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 *   [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 *   [sutandojs/sutando](https://github.com/sutandojs/sutando) - Sutando is a modern Node.js ORM, like Laravel Eloquent.
-*   [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 *   [braid-org/braidjs](https://github.com/braid-org/braidjs) - Monorepo for Braid Projects in Javascript
 *   [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 *   [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
