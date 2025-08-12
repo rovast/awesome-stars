@@ -821,7 +821,7 @@
 *   [fiatjaf/relayer](https://github.com/fiatjaf/relayer) - A Nostr relay server framework.
 *   [Lilypad-Tech/lilypad-v0](https://github.com/Lilypad-Tech/lilypad-v0) - A simple and lightweight FVM oracle using Bacalhau
 *   [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
-*   [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+*   [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 *   [solywsh/chatgpt](https://github.com/solywsh/chatgpt) - chartgpt client for golang（use gpt3）
 *   [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
 *   [ztalab/mysqlproxy](https://github.com/ztalab/mysqlproxy) -
