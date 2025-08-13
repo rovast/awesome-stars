@@ -1074,7 +1074,7 @@
 *   [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) - 🦀 Find the minimum supported Rust version (MSRV) for your project
 *   [wasmCloud/capability-providers](https://github.com/wasmCloud/capability-providers) - ARCHIVED: wasmCloud pre-1.0 capability providers. See up-to-date capability providers in the main repository, https://github.com/wasmcloud/wasmcloud
 *   [DanielKeep/tlborm](https://github.com/DanielKeep/tlborm) - The Little Book of Rust Macros
-*   [wasmCloud/wash](https://github.com/wasmCloud/wash) - WAsmcloud SHell - the comprehensive command-line tool for wasmCloud development
+*   [wasmCloud/wash-archive](https://github.com/wasmCloud/wash-archive) - MOVED: https://github.com/wasmCloud/wasmCloud/tree/main/crates/wash
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 *   [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 *   [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
