@@ -383,7 +383,7 @@
 *   [jj811208/watching-you](https://github.com/jj811208/watching-you) - watching-you is a javascript library for building animations that watch anything on DOM 👀.
 *   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 *   [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
-*   [lizhiyao/sentry-miniapp](https://github.com/lizhiyao/sentry-miniapp) - Sentry 小程序/小游戏 SDK：用于小程序/小游戏平台的 Sentry SDK（目前支持微信、字节跳动、支付宝、钉钉、QQ、百度小程序，微信、QQ 小游戏）
+*   [lizhiyao/sentry-miniapp](https://github.com/lizhiyao/sentry-miniapp) - Sentry 小程序/小游戏 SDK。1.x 版本目前仅支持微信小程序/小游戏应用。
 *   [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description) - A GitHub action to update a Docker Hub repository description from README.md
 *   [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 *   [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
