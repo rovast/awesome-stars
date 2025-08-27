@@ -662,7 +662,7 @@
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 *   [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 *   [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
-*   [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers and response headers, redirect requests, cancel requests
+*   [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers, response headers, response body, redirect requests, cancel requests
 *   [mayocream/HouseFinder](https://github.com/mayocream/HouseFinder) - Browser Extension base on Web Extension API with cloud data sync.
 *   [apache/skywalking-client-js](https://github.com/apache/skywalking-client-js) - Client-side JavaScript exception and tracing library for Apache SkyWalking APM.
 *   [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
