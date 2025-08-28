@@ -626,7 +626,7 @@
 *   [cardinalby/webext-buildtools-pack-extension-dir-action](https://github.com/cardinalby/webext-buildtools-pack-extension-dir-action) - Reads manifest and packs WebExtension dir to zip
 *   [cardinalby/webext-buildtools-chrome-crx-action](https://github.com/cardinalby/webext-buildtools-chrome-crx-action) - Github Action to pack and sign crx file for your WebExtension
 *   [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
-*   [ethereum/solc-js](https://github.com/ethereum/solc-js) - Javascript bindings for the Solidity compiler
+*   [argotorg/solc-js](https://github.com/argotorg/solc-js) - Javascript bindings for the Solidity compiler
 *   [sekmet/mintships-alpha](https://github.com/sekmet/mintships-alpha) - Enable the use of membership/ticket NFTs in physical spaces and allow sharing unlockable content possible and easy for all creators.
 *   [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript
 *   [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
@@ -755,7 +755,7 @@
 *   [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep iframes sized to their content
 *   [tw93/Maple](https://github.com/tw93/Maple) - 🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。
 *   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-*   [ethereum/solidity-website](https://github.com/ethereum/solidity-website) -
+*   [argotorg/solidity-website](https://github.com/argotorg/solidity-website) -
 *   [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 *   [liaoanran/timeline-canvas](https://github.com/liaoanran/timeline-canvas) - 使用canvas写的时间轴插件，可以实现拖动、点击返回时间点、增加录像块、放大缩小等功能
 *   [Blocks-Editor/blocks](https://github.com/Blocks-Editor/blocks) - Blocks. An online drag-and-drop smart contract builder.
@@ -1629,7 +1629,7 @@
 *   [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 *   [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 *   [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-*   [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+*   [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 *   [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 *   [gzc/CLRS](https://github.com/gzc/CLRS) - :notebook:Solutions to Introduction to Algorithms
 *   [baidu/openrasp](https://github.com/baidu/openrasp) - 🔥Open source RASP solution
