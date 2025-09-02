@@ -1709,7 +1709,6 @@
 ## Smarty
 
 *   [Taction/wasmcloud-nomad-pack](https://github.com/Taction/wasmcloud-nomad-pack) -
-*   [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 *   [apache/skywalking-helm](https://github.com/apache/skywalking-helm) - Apache SkyWalking Kubernetes Deployment Helm Chart
 
 ## HCL
@@ -1753,6 +1752,7 @@
 ## Mustache
 
 *   [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - The helm chart to deploy Harbor
+*   [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 *   [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 
 ## JSON
