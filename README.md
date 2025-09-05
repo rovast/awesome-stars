@@ -581,7 +581,7 @@
 *   [Redstone-1/xwg-cli](https://github.com/Redstone-1/xwg-cli) - A front-end cli for starting your project quickly.
 *   [buzz/newsdash](https://github.com/buzz/newsdash) - A news dashboard inspired by iGoogle and Netvibes
 *   [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
-*   [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - a cross-platform image super-resolution tool
+*   [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
 *   [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
 *   [dfinity/motoko-playground](https://github.com/dfinity/motoko-playground) - Motoko playground
 *   [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
