@@ -1246,7 +1246,6 @@
 *   [HeroCloudy/yyg-demo-ui](https://github.com/HeroCloudy/yyg-demo-ui) -
 *   [Shimada666/v-code-diff](https://github.com/Shimada666/v-code-diff) - A vue code diff display plugin, support Vue2 / Vue3
 *   [mayocream/hugo-theme-kagami](https://github.com/mayocream/hugo-theme-kagami) - Kagami theme for Hugo
-*   [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 *   [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
 *   [vinceliuice/Mojave-gtk-theme](https://github.com/vinceliuice/Mojave-gtk-theme) - Mojave is a macos Mojave like theme for GTK 3, GTK 2 and Gnome-Shell
 
@@ -1471,6 +1470,7 @@
 *   [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 *   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 *   [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
+*   [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 *   [grpc/grpc.io](https://github.com/grpc/grpc.io) - Repository for the gRPC website and documentation
 *   [fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
 *   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
