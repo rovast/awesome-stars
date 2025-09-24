@@ -1107,7 +1107,7 @@
 ## Vue
 
 *   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
-*   [x007xyz/fly-cut](https://github.com/x007xyz/fly-cut) - A web-based video editing tool implemented with WebCodecs, similar to CapCut Web.使用webcodecs实现的Web端视频编辑工具，类似剪映Web版。
+*   [x007xyz/flycut](https://github.com/x007xyz/flycut) - A web-based video editing tool implemented with WebCodecs, similar to CapCut Web.使用webcodecs实现的Web端视频编辑工具，类似剪映Web版。
 *   [vaemusic/datav-vue3](https://github.com/vaemusic/datav-vue3) - datav Vue3+TS+Vite版
 *   [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2
 *   [richardtallent/vue-simple-calendar-sample](https://github.com/richardtallent/vue-simple-calendar-sample) - Demo application for the vue-simple-calendar
