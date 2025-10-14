@@ -1352,7 +1352,7 @@
 *   [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 *   [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
 *   [phpmyadmin/docker](https://github.com/phpmyadmin/docker) - Docker container for phpMyAdmin
-*   [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - ✏️ Write and ship beautiful documentation with your Laravel applications using MarkDown
+*   [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - ✏️ Write gorgeous documentation for your products using Markdown inside your Laravel app
 *   [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 *   [jxlwqq/id-validator](https://github.com/jxlwqq/id-validator) - 中华人民共和国居民身份证、中华人民共和国港澳居民居住证以及中华人民共和国台湾居民居住证号码验证工具（PHP 版）
 *   [overtrue/weather](https://github.com/overtrue/weather) - :rainbow: 基于高德开放平台接口的 PHP 天气信息组件。
