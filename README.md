@@ -24,6 +24,7 @@
 *   [C](#c)
 *   [Objective-C](#objective-c)
 *   [Swift](#swift)
+*   [Perl](#perl)
 *   [CoffeeScript](#coffeescript)
 *   [Markdown](#markdown)
 *   [OCaml](#ocaml)
@@ -47,7 +48,6 @@
 *   [Haskell](#haskell)
 *   [Mustache](#mustache)
 *   [JSON](#json)
-*   [Perl](#perl)
 *   [R](#r)
 *   [Makefile](#makefile)
 *   [Starlark](#starlark)
@@ -1495,7 +1495,6 @@
 
 *   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 *   [bryanpkc/corkscrew](https://github.com/bryanpkc/corkscrew) - A tool for tunneling SSH through HTTP proxies
-*   [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 *   [ingepnet/breadboardwatch](https://github.com/ingepnet/breadboardwatch) - Breadboard wristwatch source code for ATtiny84A
 *   [wujunwei/redlock](https://github.com/wujunwei/redlock) - a way to achieve  distributed lock by redis module
 *   [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
@@ -1586,6 +1585,11 @@
 *   [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 *   [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.
 *   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
+
+## Perl
+
+*   [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
+*   [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## CoffeeScript
 
@@ -1758,10 +1762,6 @@
 ## JSON
 
 *   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
-## Perl
-
-*   [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## R
 
