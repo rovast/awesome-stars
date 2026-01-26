@@ -53,6 +53,7 @@
 *   [JSON](#json)
 *   [R](#r)
 *   [Makefile](#makefile)
+*   [Go Template](#go-template)
 *   [Starlark](#starlark)
 *   [WebAssembly](#webassembly)
 *   [Vim script](#vim-script)
@@ -1726,7 +1727,6 @@
 ## Smarty
 
 *   [Taction/wasmcloud-nomad-pack](https://github.com/Taction/wasmcloud-nomad-pack) -
-*   [apache/skywalking-helm](https://github.com/apache/skywalking-helm) - Apache SkyWalking Kubernetes Deployment Helm Chart
 
 ## HCL
 
@@ -1785,6 +1785,10 @@
 *   [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance) - Standardizing Cloud Native Value Measurement
 *   [servicemeshinterface/smi-spec](https://github.com/servicemeshinterface/smi-spec) - Service Mesh Interface
 *   [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
+
+## Go Template
+
+*   [apache/skywalking-helm](https://github.com/apache/skywalking-helm) - Apache SkyWalking Kubernetes Deployment Helm Chart
 
 ## Starlark
 
