@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Blade](#blade)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -61,8 +62,12 @@
 *   [Assembly](#assembly)
 *   [QML](#qml)
 *   [DIGITAL Command Language](#digital-command-language)
-*   [Blade](#blade)
 *   [Rich Text Format](#rich-text-format)
+
+## Blade
+
+*   [ruanyf/ai-test-case](https://github.com/ruanyf/ai-test-case) - AI 编程的测试用例
+*   [ckfinder/ckfinder-laravel-package](https://github.com/ckfinder/ckfinder-laravel-package) - CKFinder 3 package for Laravel
 
 ## TypeScript
 
@@ -1090,7 +1095,7 @@
 *   [wendux/DSBridge-Android](https://github.com/wendux/DSBridge-Android) - :earth\_americas: A modern cross-platform JavaScript bridge, through which you can invoke each other's functions synchronously or asynchronously between JavaScript and native.
 *   [grobidOrg/grobid](https://github.com/grobidOrg/grobid) - A machine learning software for extracting information from scholarly documents
 *   [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-*   [uknownothingsnow/JsBridge](https://github.com/uknownothingsnow/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
+*   [happydog-intj/JsBridge](https://github.com/happydog-intj/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
 *   [bardsoftware/ganttproject](https://github.com/bardsoftware/ganttproject) - Official GanttProject repository.
 *   [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 *   [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
@@ -1460,7 +1465,6 @@
 *   [Germey/LaravelGeetest](https://github.com/Germey/LaravelGeetest) - Geetest Package for Laravel5
 *   [greggilbert/recaptcha](https://github.com/greggilbert/recaptcha) - \[ABANDONED] reCAPTCHA Validator for Laravel 5
 *   [jcc/blog](https://github.com/jcc/blog) - :star2: PJ Blog is an open source blog built with Laravel and Vue.js.
-*   [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
 
 ## Jupyter Notebook
 
@@ -1831,10 +1835,6 @@
 ## DIGITAL Command Language
 
 *   [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
-
-## Blade
-
-*   [ckfinder/ckfinder-laravel-package](https://github.com/ckfinder/ckfinder-laravel-package) - CKFinder 3 package for Laravel
 
 ## Rich Text Format
 
