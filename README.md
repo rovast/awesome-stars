@@ -61,6 +61,7 @@
 *   [Vim Script](#vim-script-1)
 *   [Assembly](#assembly)
 *   [QML](#qml)
+*   [Bru](#bru)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Rich Text Format](#rich-text-format)
 
@@ -294,7 +295,6 @@
 *   [ecomfe/zrender](https://github.com/ecomfe/zrender) - A lightweight graphic library providing 2d draw for Apache ECharts
 *   [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
 *   [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
-*   [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 *   [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 *   [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 *   [sheinsight/shineout](https://github.com/sheinsight/shineout) - 高性能 React 组件库
@@ -1831,6 +1831,10 @@
 ## QML
 
 *   [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
+
+## Bru
+
+*   [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## DIGITAL Command Language
 
