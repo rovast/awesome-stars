@@ -315,7 +315,6 @@
 *   [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 *   [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 *   [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
-*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 *   [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 *   [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
 *   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -931,6 +930,7 @@
 *   [ronaldaug/gramateria](https://github.com/ronaldaug/gramateria) - Drag and drop web builder with Grapes js, Bootstrap 5, Electron js and Netlify deployment.
 *   [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 *   [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
+*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 *   [toxmc/swoole-linux-dash](https://github.com/toxmc/swoole-linux-dash) - 运用swoole友好的实现Linux dash性能监控工具集合（uptime,free等）
 *   [toxmc/swoole-vmstat](https://github.com/toxmc/swoole-vmstat) - 运用swoole在浏览器更友好的实现vmstat
 *   [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
