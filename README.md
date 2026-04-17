@@ -781,7 +781,7 @@
 *   [pretty66/fastcar](https://github.com/pretty66/fastcar) - PHP long connection proxy, eliminates short links and reduces request latency
 *   [HiveMesh/wasmate-runtime](https://github.com/HiveMesh/wasmate-runtime) - WASMATE, a transformative force, not only empowers developers with efficient WebAssembly runtimes for Web2.0 applications but also propels them into the decentralized future of Web3.0, unleashing a contagious wave of innovation and security in the web development landscape.
 *   [jdomzhang/pdf2image](https://github.com/jdomzhang/pdf2image) - command line to convert pdf file to image files
-*   [yunionio/cloudpods](https://github.com/yunionio/cloudpods) - A cloud-native open-source unified multi-cloud and hybrid-cloud platform. 开源、云原生的多云管理及混合云融合平台
+*   [yunionio/cloudpods](https://github.com/yunionio/cloudpods) - An open-source cloud-native unified-cloud platform. 开源云原生融合云平台
 *   [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 *   [ignite/cli](https://github.com/ignite/cli) - Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK
 *   [stc-community/nin](https://github.com/stc-community/nin) - Nin is a client framework for nostr-relayer
