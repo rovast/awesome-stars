@@ -373,6 +373,7 @@
 *   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 *   [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 *   [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
+*   [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) - Web UI for Jaeger
 *   [ckeditor/ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - Official CKEditor 5 Vue.js component.
 *   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 *   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
@@ -770,7 +771,6 @@
 *   [hezhizheng/go-wxpush](https://github.com/hezhizheng/go-wxpush) - 极简且免费的微信消息推送服务 (基于golang)
 *   [chrusty/protoc-gen-jsonschema](https://github.com/chrusty/protoc-gen-jsonschema) - Protobuf to JSON-Schema compiler
 *   [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
-*   [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 *   [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 *   [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 *   [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -998,6 +998,7 @@
 ## JavaScript
 
 *   [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
+*   [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 *   [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 *   [PengChen96/ajax-tools](https://github.com/PengChen96/ajax-tools) - An extension plugin for Chrome that modifies the response of AJAX requests.  一个修改Ajax请求响应结果的Chrome扩展插件
 *   [tulios/kafkajs](https://github.com/tulios/kafkajs) - A modern Apache Kafka client for node.js
@@ -1213,7 +1214,6 @@
 *   [lyricat/wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 *   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 *   [NextBoy/quill-image-extend-module](https://github.com/NextBoy/quill-image-extend-module) - vue-quill-editor的增强模块，提供图片上传，复制插入，拖拽插入，支持与其他模块一起使用
-*   [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) - Web UI for Jaeger
 *   [surmon-china/vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - @quilljs editor component for @vuejs(2)
 *   [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 *   [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
