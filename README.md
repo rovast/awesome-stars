@@ -51,7 +51,6 @@
 *   [C#](#c-2)
 *   [Haskell](#haskell)
 *   [Mustache](#mustache)
-*   [JSON](#json)
 *   [R](#r)
 *   [Makefile](#makefile)
 *   [Go Template](#go-template)
@@ -92,7 +91,7 @@
 *   [leaperone/MultiPost-Extension](https://github.com/leaperone/MultiPost-Extension) - A browser extension that helps users publish content to multiple social media platforms with one click.
 *   [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
 *   [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
-*   [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
+*   [requestly/requestly](https://github.com/requestly/requestly) - Open-Source HTTP Interceptor & Mocking Tool
 *   [justjake/quickjs-emscripten](https://github.com/justjake/quickjs-emscripten) - Safely execute untrusted Javascript in your Javascript, and execute synchronous code that uses async functions
 *   [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io
 *   [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
@@ -1724,6 +1723,7 @@
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 *   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 *   [mdn/translated-content](https://github.com/mdn/translated-content) - 7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.
+*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 *   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - Crack LeetCode, not only how, but also why.
 *   [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 
@@ -1875,10 +1875,6 @@
 *   [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - The helm chart to deploy Harbor
 *   [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 *   [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
-
-## JSON
-
-*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## R
 
