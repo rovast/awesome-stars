@@ -85,7 +85,7 @@
 *   [bufbuild/buf-examples](https://github.com/bufbuild/buf-examples) - Example repository that uses Buf.
 *   [keq-request/keq-cache](https://github.com/keq-request/keq-cache) - Add cache strategy for http requests
 *   [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-*   [buka-ltd/community.opendoc](https://github.com/buka-ltd/community.opendoc) - \[WIP]支持OpenAPI/AsyncAPI的接口文档平台
+*   [buka-ltd/oss.opendoc](https://github.com/buka-ltd/oss.opendoc) - \[WIP]支持OpenAPI/AsyncAPI的接口文档平台
 *   [sheinsight/reactive](https://github.com/sheinsight/reactive) - ⚛️ Reactive: Proxy-driven state for React & Vanilla JavaScript. Intuitive, Flexible and Written in TypeScript.
 *   [keq-request/keq](https://github.com/keq-request/keq) - Request API write by Typescript for flexibility, readability, and a low learning curve
 *   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
@@ -314,7 +314,6 @@
 *   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 *   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 *   [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
-*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 *   [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 *   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 *   [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) - AI-friendly enterprise front-end best practices
@@ -1296,6 +1295,7 @@
 *   [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
 *   [ganeshmax/jcarousellite](https://github.com/ganeshmax/jcarousellite) - jCarousel Lite is a jQuery plugin that carries you on a carousel ride filled with images and HTML content. Put simply, you can navigate images and/or HTML in a carousel-style widget.
 *   [longbill/jquery-date-range-picker](https://github.com/longbill/jquery-date-range-picker) - A jQuery plugin that allows user to select a date range
+*   [bendc/animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web
 
 ## Less
 
