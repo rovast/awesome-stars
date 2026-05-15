@@ -253,6 +253,7 @@
 *   [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 *   [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 *   [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
+*   [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 *   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 *   [antvis/hierarchy](https://github.com/antvis/hierarchy) - Layout algorithms for visualizing hierarchical data.
 *   [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
@@ -315,6 +316,7 @@
 *   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 *   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 *   [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 *   [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 *   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 *   [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) - AI-friendly enterprise front-end best practices
@@ -881,7 +883,6 @@
 *   [erjadi/kubecraftadmin](https://github.com/erjadi/kubecraftadmin) -
 *   [layer5io/learn-layer5](https://github.com/layer5io/learn-layer5) - A sample application for learning how to service mesh and for validating SMI conformance
 *   [layer5io/getnighthawk](https://github.com/layer5io/getnighthawk) - Putting Nighthawk into the hands of many
-*   [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 *   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 *   [mayocream/pastebin-ipfs](https://github.com/mayocream/pastebin-ipfs) - 🌐 (Web 3.0) Pastebin built on IPFS, securely served by Distributed Web and Edge Network.
 *   [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
@@ -1296,7 +1297,6 @@
 *   [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
 *   [ganeshmax/jcarousellite](https://github.com/ganeshmax/jcarousellite) - jCarousel Lite is a jQuery plugin that carries you on a carousel ride filled with images and HTML content. Put simply, you can navigate images and/or HTML in a carousel-style widget.
 *   [longbill/jquery-date-range-picker](https://github.com/longbill/jquery-date-range-picker) - A jQuery plugin that allows user to select a date range
-*   [bendc/animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web
 
 ## Less
 
