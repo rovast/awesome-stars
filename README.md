@@ -318,7 +318,7 @@
 *   [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 *   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 *   [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
-*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 *   [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) - AI-friendly enterprise front-end best practices
 *   [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 *   [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
