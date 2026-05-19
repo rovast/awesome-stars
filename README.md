@@ -1052,7 +1052,7 @@
 *   [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 *   [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 *   [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
-*   [mumuy/data\_location](https://github.com/mumuy/data_location) - 中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）
+*   [mumuy/data\_location](https://github.com/mumuy/data_location) - 中国行政区划代码【省、市、区县、乡镇街道】中国省市区镇三级四级联动行政区划数据（GB/T 2260）
 *   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 *   [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 *   [jb55/nostr-js](https://github.com/jb55/nostr-js) - nodejs nostr library
