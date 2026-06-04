@@ -582,7 +582,7 @@
 *   [filecoin-project/devgrants](https://github.com/filecoin-project/devgrants) - 👟 Apply for a Filecoin devgrant. Help build the Filecoin ecosystem!
 *   [rovast/awesome-stars](https://github.com/rovast/awesome-stars) - 🤩 我的star列表，每天凌晨自动更新
 *   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
-*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
+*   [kkndmetianya/kkndme\_tianya](https://github.com/kkndmetianya/kkndme_tianya) - 天涯 kkndme 神贴聊房价
 *   [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南
 *   [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
 *   [libp2p/specs](https://github.com/libp2p/specs) - Technical specifications for the libp2p networking stack
@@ -1054,7 +1054,7 @@
 *   [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 *   [mumuy/data\_location](https://github.com/mumuy/data_location) - 中国行政区划代码【省、市、区县、乡镇街道】中国省市区镇三级四级联动行政区划数据（GB/T 2260）
 *   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-*   [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+*   [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) - Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required.
 *   [jb55/nostr-js](https://github.com/jb55/nostr-js) - nodejs nostr library
 *   [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 *   [ischenliang/quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed) - 轻快图床：使用nestjs+vue3.x+ts+vite开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能，插件分为上传插件、主题插件、工具箱插件，目前内置数十种插件，支持腾讯云COS、又拍云Upyun、阿里云OSS、github图床、gitee图床、七牛云 KODO等常用对象存储插件以及vscode暗黑主题、Monokai主题等。
