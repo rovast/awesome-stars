@@ -414,7 +414,7 @@
 *   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 *   [imhuso/cunzhi](https://github.com/imhuso/cunzhi) - 告别AI提前终止烦恼，助力AI更加持久
 *   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
-*   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+*   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 *   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 *   [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 *   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -1449,7 +1449,7 @@
 ## Dart
 
 *   [adler0518/github\_client\_flutter\_app](https://github.com/adler0518/github_client_flutter_app) - Flutter demo - GitHub client
-*   [flutter/gallery](https://github.com/flutter/gallery) - Flutter Gallery was a resource to help developers evaluate and use Flutter
+*   [flutter-team-archive/gallery](https://github.com/flutter-team-archive/gallery) - Flutter Gallery was a resource to help developers evaluate and use Flutter
 *   [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
 *   [wendux/flutter\_in\_action\_2](https://github.com/wendux/flutter_in_action_2) - Flutter实战第二版随书源码
 *   [CoderTitan/mahuaPet](https://github.com/CoderTitan/mahuaPet) - Flutter跨平台开发的完整项目---麻花宠物, 一款记录宠物生活的APP
@@ -1794,7 +1794,7 @@
 *   [shivammathur/homebrew-extensions](https://github.com/shivammathur/homebrew-extensions) - Homebrew tap for PHP extensions :beers:
 *   [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.6. PHP 8.6 is built nightly :beer:
 *   [junegunn/redis-stat](https://github.com/junegunn/redis-stat) - (UNMAINTAINED) A real-time Redis monitoring tool
-*   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+*   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 *   [capistrano/laravel](https://github.com/capistrano/laravel) - Gem for deploying Laravel projects with capistrano v3.\*
 *   [capistrano/composer](https://github.com/capistrano/composer) - Capistrano extension for Composer tasks
 *   [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
