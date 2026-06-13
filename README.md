@@ -416,7 +416,7 @@
 *   [antvis/G2](https://github.com/antvis/G2) - 📊 The concise and progressive visualization grammar.
 *   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 *   [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-*   [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
+*   [qawolf/cli](https://github.com/qawolf/cli) - QA Wolf from anywhere — your terminal, your CI, your AI agent.
 *   [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 *   [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 *   [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -454,7 +454,7 @@
 *   [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 *   [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 *   [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) - AI-friendly enterprise front-end best practices
-*   [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+*   [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 *   [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 *   [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 *   [socketio/socket.io](https://github.com/socketio/socket.io) - Bidirectional and low-latency communication for every platform
